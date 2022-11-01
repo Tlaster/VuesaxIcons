@@ -16,7 +16,7 @@ import java.io.File
 
 
 val assetsDir = File("vuesax-icons")
-val srcDir = File("lib/src/main/kotlin")
+val srcDir = File("lib/src/commonMain/kotlin")
 
 Svg2Compose.parse(
     applicationIconPackage = "moe.tlaster.icons.vuesax",

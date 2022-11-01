@@ -41,21 +41,6 @@ kotlin {
                 implementation("androidx.compose.foundation:foundation:1.2.1")
             }
         }
-        val desktopMain by creating {
-            dependsOn(commonMain)
-        }
-        val jvmMain by getting {
-            dependsOn(desktopMain)
-        }
-        val macosMain by creating {
-            dependsOn(desktopMain)
-        }
-        val macosX64Main by getting {
-            dependsOn(macosMain)
-        }
-        val macosArm64Main by getting {
-            dependsOn(macosMain)
-        }
     }
 }
 
