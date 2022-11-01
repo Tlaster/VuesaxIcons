@@ -2,1023 +2,1023 @@ package moe.tlaster.icons.vuesax.vuesaxicons
 
 import androidx.compose.ui.graphics.vector.ImageVector
 import moe.tlaster.icons.vuesax.VuesaxIcons
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Aaveaave
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Activity
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Add
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Addcircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Additem
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Addsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Airdrop
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Airplane
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Airplanesquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Airpod
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Airpods
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Alarm
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Alignbottom
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Alignhorizontally
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Alignleft
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Alignright
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Alignvertically
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Android
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ankrankr
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Apple
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Aquarius
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Archive
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Archive1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Archive2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Archiveadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Archivebook
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Archiveminus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Archiveslash
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Archivetick
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Arrangecircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Arrangesquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Arrow
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Arrow2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Arrow3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Arrowbottom
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Arrowdown
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Arrowleft
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Arrowright
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Arrowsquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Arrowswap
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Arrowup
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Attachcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Attachsquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Audiosquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Augurrep
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Autobrightness
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Autonioniox
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Avalancheavax
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Award
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Backsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Backward
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Backwarditem
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bag
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bag2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bagcross
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Baghappy
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bagtick
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bagtimer
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bank
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Barcode
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Batterycharging
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Batterydisable
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Batteryempty
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Batteryfull
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Be
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bezier
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bill
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bitcoinbtc
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bitcoincard
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bitcoinconvert
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bitcoinrefresh
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Blend
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Blend2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Blogger
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bluetooth
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bluetooth2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bluetoothcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bluetoothrectangle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Blur
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Book
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Book1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bookmark
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bookmark2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Booksaved
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Booksquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bootsrap
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Box
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Box1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Box2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Boxadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Boxremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Boxsearch
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Boxtick
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Boxtime
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Briefcase
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Brifecasecross
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Brifecasetick
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Brifecasetimer
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Broom
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Brush
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Brush1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Brush2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Brush3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Brush4
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bubble
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bucket
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bucketcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bucketsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Building
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Building3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Building4
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Buildings
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Buildings2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Buliding
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Buycrypto
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cake
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Calculator
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Calendar
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Calendar1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Calendar2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Calendaradd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Calendarcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Calendaredit
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Calendarremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Calendarsearch
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Calendartick
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Call
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Calladd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Callcalling
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Callincoming
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Callminus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Calloutgoing
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Callreceived
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Callremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Callslash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Camera
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cameraslash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Candle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Candle2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Car
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Card
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardanoada
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardcoin
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardedit
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardpos
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardreceive
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardremove
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cards
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardsend
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardslash
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardtick
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Category
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Category2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Celocelo
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chainlinklink
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chart
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chart1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chart2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chart21
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chart3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chartfail
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chartsquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chartsuccess
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Check
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chrome
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Civiccvc
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Clipboard
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Clipboardclose
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Clipboardexport
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Clipboardimport
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Clipboardtext
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Clipboardtick
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Clock
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Clock1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Closecircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Closesquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cloud
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cloudadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cloudchange
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cloudconnection
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cloudcross
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Clouddrizzle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cloudfog
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cloudlightning
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cloudminus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cloudnotif
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cloudplus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cloudremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cloudsnow
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cloudsunny
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Code
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Code1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Codecircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Coffee
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Coin
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Coin1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Colorfilter
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Colorssquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Colorswatch
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Command
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Commandsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Component
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Computing
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Convert
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Convertcard
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Convertshape
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Convertshape2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Copy
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Copyright
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Copysuccess
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Courthouse
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cpu
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cpucharge
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cpusetting
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Creativecommons
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Crop
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Crown
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Crown1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cup
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Daidai
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Danger
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dashdash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Data
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Data2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Decreddcr
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dentdent
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Designtools
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Devicemessage
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Devices
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Devices1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Diagram
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Diamonds
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Direct
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Directboxdefault
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Directboxnotif
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Directboxreceive
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Directboxsend
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Directdown
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Directinbox
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Directleft
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Directnormal
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Directnotification
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Directright
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Directsend
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Directup
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Discountcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Discountshape
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Discover
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Discover1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dislike
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Document
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Document1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documentcloud
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documentcode
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documentcopy
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documentdownload
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documentfavorite
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documentfilter
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documentforward
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documentlike
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documentnormal
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documentprevious
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documentsketch
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documenttext
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documentupload
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dollarcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dollarsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dribbble
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Driver
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Driver2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Driverrefresh
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Driving
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Drop
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dropbox
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Edit
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Edit2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Educareekt
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Electricity
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Element2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Element3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Element4
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Elementequal
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Elementplus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Emercoinemc
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Emojihappy
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Emojinormal
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Emojisad
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Emptywallet
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Eoseos
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Eraser
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Eraser1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ethereumeth
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Export
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Export1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Export2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Export3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Externaldrive
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Eye
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Eyeslash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Facebook
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Fatrows
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Favoritechart
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Figma
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Figma1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Filter
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Filteradd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Filteredit
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Filterremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Filtersearch
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Filtersquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Filtertick
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Fingercricle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Fingerscan
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Firstline
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Firstline1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Flag
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Flag2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Flash
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Flash1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Flashcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Flashslash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Folder
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Folder2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Folderadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Foldercloud
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Folderconnection
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Foldercross
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Folderfavorite
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Folderminus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Folderopen
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Forbidden
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Forbidden2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Formatcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Formatsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Forward
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Forwarditem
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Forwardsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Frame
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Frame1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Frame2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Frame3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Frame4
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Framer
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gallery
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Galleryadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Galleryedit
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Galleryexport
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Galleryfavorite
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Galleryimport
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Galleryremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Galleryslash
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gallerytick
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Game
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gameboy
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gasstation
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gemini
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gemini2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ghost
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gift
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Glass
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Glass1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Global
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Globaledit
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Globalrefresh
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Globalsearch
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Google
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Google1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Googleplay
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gps
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gpsslash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Grammerly
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Graph
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Grid1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Grid2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Grid3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Grid4
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Grid5
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Grid6
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Grid7
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Grid8
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Grid9
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gridedit
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Grideraser
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gridlock
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Happyemoji
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Harmonyone
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hashtag
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hashtag1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hashtagdown
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hashtagup
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Headphone
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Headphones
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Health
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Heart
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Heartadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Heartcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Heartedit
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Heartremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Heartsearch
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Heartslash
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hearttick
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hexhex
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hierarchy
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hierarchy2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hierarchy3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hierarchysquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Home
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Home1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Home2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Homehashtag
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Homewifi
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hospital
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.House
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.House2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Html3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Html5
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Icon
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Icon1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Iconicx
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Illustrator
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Image
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Import
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Import1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Import2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Import3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Infocircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Information
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Instagram
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Iostiost
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Javascript
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Js
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Judge
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Kanban
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Key
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Keyboard
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Keyboardopen
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Keysquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lamp
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lamp1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lampcharge
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lampon
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lampslash
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Languagecircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Languagesquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Layer
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Level
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lifebuoy
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Like
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Like1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Likedislike
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Likeshapes
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Liketag
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link21
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link4
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Linkcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Linksquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Litecoinltc
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Location
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Locationadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Locationcross
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Locationminus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Locationslash
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Locationtick
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lock
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lock1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lockcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lockslash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Login
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Login1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Logout
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Logout1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lovely
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Magicpen
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Magicstar
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maincomponent
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Makermkr
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Man
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Map
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Map1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mask
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mask1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mask2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Math
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximize
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximize1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximize2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximize21
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximize3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximize31
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximize4
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximizecircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Medal
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Medalstar
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Menu
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Menu1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Menuboard
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Message
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Message2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messageadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messagecircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messageedit
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messagefavorite
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messageminus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messagenotif
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messageprogramming
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messagequestion
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messageremove
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messages
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messages1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messages2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messages3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messagesearch
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messagesquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messagetext
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messagetick
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messagetime
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messenger
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Microphone
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Microphone2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Microphoneslash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Microscope
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Milk
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Minus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Minuscirlce
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Minussquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mirror
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mirroringscreen
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mobile
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mobileprogramming
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Moneroxmr
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Money
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Money2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Money3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Money4
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Moneyadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Moneychange
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Moneyforbidden
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Moneyrecive
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Moneyremove
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Moneys
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Moneysend
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Moneytick
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Moneytime
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Monitor
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Monitormobbile
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Monitorrecorder
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Moon
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.More
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.More2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Morecircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Moresquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mouse
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mouse1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mousecircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mousesquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Music
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Musiccircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Musicdashboard
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Musicfilter
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Musicnote
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Musicplay
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Musicplaylist
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Musicsquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Nebulasnas
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Nemxem
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Nexonexo
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Next
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Note
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Note1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Note2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Note21
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Noteadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Notefavorite
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Noteremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Notesquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Notetext
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Notification
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Notification1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Notificationbing
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Notificationfavorite
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Notificationstatus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Okbokb
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Omegacircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Omegasquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ontologyont
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Paintbucket
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Paperclip
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Paperclip1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Paperclip2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Passwordcheck
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Path
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Path2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pathsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pause
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pausecircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Paypal
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Penadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Penclose
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Penremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pentool
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.People
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Percentagecircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Percentagesquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Personalcard
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pet
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pharagraphspacing
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pharagraphspacing1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Photoshop
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pictureframe
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Play
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Playadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Playcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Playcricle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Playremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Polkadotdot
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Polygonmatic
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Polyswarmnct
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Presentionchart
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Previous
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Printer
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Printerslash
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Profile2user
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Profileadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Profilecircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Profiledelete
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Profileremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Profiletick
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Programmingarrow
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Programmingarrows
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Python
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Quantqnt
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Quotedown
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Quoteup
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Radar
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Radar1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Radar2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Radio
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ram
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ram2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ranking
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ranking1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Receipt
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Receipt1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Receipt2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Receiptadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Receiptdiscount
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Receiptdisscount
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Receiptedit
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Receiptitem
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Receiptminus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Receiptsearch
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Receiptsquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Receipttext
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Received
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Receivesquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Record
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Recordcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Recoveryconvert
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Redo
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Refresh
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Refresh2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Refreshcircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Repeat
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Repeatcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Repeatemusic
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Repeateone
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Reserve
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Rotateleft
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Rotateright
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Routesquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Routing
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Routing2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Rowhorizontal
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Rowvertical
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ruler
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Safehome
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sagittarius
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Save2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Saveadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Saveminus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Saveremove
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Scan
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Scanbarcode
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Scanner
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Scanning
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Scissor
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Scissor1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Screenmirroring
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Scroll
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Searchfavorite
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Searchnormal
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Searchstatus
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Security
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Securitycard
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Securitysafe
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Securitytime
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Securityuser
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Send
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Send1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Send2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sendsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Setting
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Setting2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Setting3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Setting4
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Setting5
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Settings
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shapes
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shapes1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Share
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shieldcross
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shieldsearch
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shieldsecurity
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shieldslash
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shieldtick
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ship
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shop
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shopadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shoppingbag
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shoppingcart
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shopremove
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shuffle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Siacoinsc
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sidebarbottom
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sidebarleft
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sidebarright
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sidebartop
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Signpost
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Simcard
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Simcard1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Simcard2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Size
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Slack
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Slash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Slider
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sliderhorizontal
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Slidervertical
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smallcaps
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smallcaps1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smartcar
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smarthome
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smileys
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sms
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smsedit
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smsnotification
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smssearch
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smsstar
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smstracking
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Snapchat
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Solanasol
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sort
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sound
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Speaker
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Speedometer
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Spotify
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Stacksstx
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Star
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Star1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Starslash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Status
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Statusup
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Stellarxlm
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sticker
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Stickynote
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Stop
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Stopcircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Story
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Strongbox
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Strongbox2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Subtitle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sun
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sun1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sunfog
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tag
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tag2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tagcross
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tagright
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Taguser
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Task
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tasksquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Teacher
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tenxpay
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tetherusdt
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Text
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Text1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textaligncenter
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignjustifycenter
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignjustifyleft
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignjustifyright
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignleft
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignright
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textblock
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textbold
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textitalic
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textunderline
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Thetatheta
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Thorchainrune
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tickcircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ticket
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ticket2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ticketdiscount
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ticketexpired
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ticketstar
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ticksquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Timer
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Timer1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Timerpause
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Timerstart
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Toggleoff
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Toggleon
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trade
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Transactionminus
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Translate
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tree
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trello
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trenddown
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trendup
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Triangle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Triangle1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trontrontrx
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Truck
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Truckfast
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Truckremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trucktick
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trucktime
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trushsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Twitch
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ui8
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Undo
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Unlimited
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Unlock
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.User
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Useradd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Useredit
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Userminus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Useroctagon
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Userremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Usersearch
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Usersquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Usertag
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Usertick
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Velasvlx
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Verify
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Vibevibe
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Video
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Videoadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Videocircle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Videohorizontal
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Videooctagon
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Videoplay
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Videoremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Videoslash
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Videosquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Videotick
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Videotime
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Videovertical
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Voicecricle
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Voicesquare
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Volumecross
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Volumehigh
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Volumelow
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Volumemute
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Volumeslash
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Volumeup
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Vuesax
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wallet
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wallet1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wallet2
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wallet3
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Walletadd
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Walletcheck
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Walletminus
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Walletmoney
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Walletremove
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Walletsearch
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wanchainwan
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Warning2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Watch
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Watchstatus
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Weight
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Weight1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Whatsapp
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wifi
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wifisquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wind
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wind2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Windows
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wingwing
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Woman
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Xd
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Xiaomi
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Xrpxrp
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Youtube
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Zelzel
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Zoom
+import moe.tlaster.icons.vuesax.vuesaxicons.bold._24support
 import moe.tlaster.icons.vuesax.vuesaxicons.bold._3dcube
+import moe.tlaster.icons.vuesax.vuesaxicons.bold._3drotate
+import moe.tlaster.icons.vuesax.vuesaxicons.bold._3dsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold._3full
 import moe.tlaster.icons.vuesax.vuesaxicons.bold._3square
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Aave-(aave)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Add-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Add-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Airplane-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Align-bottom`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Align-horizontally`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Align-left`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Align-right`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Align-vertically`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ankr-(ankr)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Archive-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Archive-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Archive-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Archive-book`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Archive-minus`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Archive-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Archive-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrange-circle-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrange-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrange-square-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrange-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-bottom`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-circle-down`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-circle-left`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-circle-right`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-circle-up`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-down-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-down-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-down`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-left-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-left-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-left-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-left`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-right-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-right-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-right-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-right`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-square-down`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-square-left`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-square-right`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-square-up`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-swap-horizontal`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-swap`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-up-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-up-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-up-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrow-up`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Attach-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Attach-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Audio-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Augur-(rep)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Autonio-(niox)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Avalanche-(avax)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Back-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Backward-10-seconds`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Backward-15-seconds`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Backward-5-seconds`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Backward-item`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bag-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bag-cross-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bag-cross`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bag-happy`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bag-tick-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bag-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bag-timer`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Battery-charging`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Battery-disable`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Battery-empty-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Battery-empty`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Battery-full`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Binance-coin-(bnb)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Binance-usd-(busd)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bitcoin-(btc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bitcoin-card`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bitcoin-convert`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bitcoin-refresh`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Blend-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bluetooth-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bluetooth-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bluetooth-rectangle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Book-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Book-saved`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Book-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bookmark-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Box-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Box-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Box-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Box-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Box-search`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Box-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Box-time`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Brifecase-cross`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Brifecase-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Brifecase-timer`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Brush-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Brush-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Brush-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Brush-4`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bucket-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bucket-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Building-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Building-4`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Buildings-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Buy-crypto`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Calendar-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Calendar-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Calendar-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Calendar-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Calendar-edit`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Calendar-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Calendar-search`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Calendar-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Call-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Call-calling`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Call-incoming`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Call-minus`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Call-outgoing`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Call-received`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Call-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Call-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Camera-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Candle-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Card-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Card-coin`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Card-edit`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Card-pos`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Card-receive`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Card-remove-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Card-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Card-send`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Card-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Card-tick-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Card-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cardano-(ada)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Category-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Celo-(celo)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Celsius-(cel)-`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Chainlink-(link)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Chart-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Chart-21`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Chart-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Chart-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Chart-fail`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Chart-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Chart-success`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Civic-(cvc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Clipboard-close`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Clipboard-export`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Clipboard-import`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Clipboard-text`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Clipboard-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Clock-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Close-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Close-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cloud-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cloud-change`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cloud-connection`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cloud-cross`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cloud-drizzle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cloud-fog`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cloud-lightning`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cloud-minus`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cloud-notif`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cloud-plus`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cloud-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cloud-snow`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cloud-sunny`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Code-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Code-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Coin-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Color-swatch`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Colors-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Command-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Convert-3d-cube`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Convert-card`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Convertshape-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Copy-success`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cpu-charge`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cpu-setting`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Creative-commons`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Crown-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Dai-(dai)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Dash-(dash)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Data-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Decred-(dcr)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Dent-(dent)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Device-message`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Devices-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Direct-down`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Direct-inbox`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Direct-left`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Direct-normal`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Direct-notification`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Direct-right`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Direct-send`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Direct-up`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Directbox-default`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Directbox-notif`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Directbox-receive`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Directbox-send`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Discount-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Discount-shape`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Discover-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-cloud`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-code-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-code`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-copy`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-download`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-favorite`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-filter`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-forward`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-like`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-normal`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-previous`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-sketch`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-text-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-text`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Document-upload`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Dollar-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Dollar-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Driver-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Driver-refresh`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Edit-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Educare-(ekt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Element-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Element-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Element-4`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Element-equal`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Element-plus`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Emercoin-(emc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Emoji-happy`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Emoji-normal`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Emoji-sad`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Empty-wallet-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Empty-wallet-change`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Empty-wallet-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Empty-wallet-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Empty-wallet-time`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Empty-wallet`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Enjin-coin-(enj)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Eos-(eos)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Eraser-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ethereum-(eth)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ethereum-classic-(etc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Export-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Export-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Export-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`External-drive`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Eye-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Favorite-chart`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Figma-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Filter-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Filter-edit`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Filter-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Filter-search`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Filter-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Filter-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Finger-cricle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Finger-scan`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Firstline-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Flag-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Flash-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Flash-circle-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Flash-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Flash-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Folder-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Folder-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Folder-cloud`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Folder-connection`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Folder-cross`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Folder-favorite`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Folder-minus`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Folder-open`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Forbidden-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Format-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Format-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Forward-10-seconds`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Forward-15-seconds`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Forward-5-seconds`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Forward-item`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Forward-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Frame-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Frame-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Frame-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Frame-4`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ftx-token-(ftt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Gallery-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Gallery-edit`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Gallery-export`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Gallery-favorite`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Gallery-import`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Gallery-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Gallery-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Gallery-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Gas-station`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Gemini-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Glass-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Global-edit`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Global-refresh`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Global-search`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Google-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Google-play`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Gps-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Grid-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Grid-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Grid-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Grid-4`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Grid-5`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Grid-6`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Grid-7`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Grid-8`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Grid-9`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Grid-edit`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Grid-eraser`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Grid-lock`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Harmony-(one)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hashtag-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hashtag-down`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hashtag-up`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Heart-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Heart-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Heart-edit`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Heart-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Heart-search`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Heart-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Heart-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hedera-hashgraph-(hbar)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hex-(hex)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hierarchy-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hierarchy-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hierarchy-square-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hierarchy-square-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hierarchy-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Home-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Home-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Home-hashtag`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Home-trend-down`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Home-trend-up`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Home-wifi`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`House-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Html-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Html-5`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Huobi-token-(ht)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Icon-(icx)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Icon-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Import-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Import-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Import-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Info-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Iost-(iost)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Java-script`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Key-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Keyboard-open`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Kyber-network-(knc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Lamp-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Lamp-charge`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Lamp-on`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Lamp-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Language-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Language-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Like-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Like-dislike`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Like-shapes`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Like-tag`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Link-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Link-2-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Link-21`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Link-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Link-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Link-4`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Link-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Link-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Litecoin(ltc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Location-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Location-cross`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Location-minus`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Location-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Location-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Lock-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Lock-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Lock-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Login-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Logout-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Magic-star`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Main-component`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Maker-(mkr)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Map-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Mask-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Mask-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Maximize-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Maximize-21`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Maximize-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Maximize-31`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Maximize-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Maximize-4`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Maximize-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Medal-star`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Menu-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Menu-board`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-add-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-edit`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-favorite`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-minus`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-notif`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-programming`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-question`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-search`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-text-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-text`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Message-time`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Messages-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Messages-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Messages-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Microphone-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Microphone-slash-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Microphone-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Mini-music-sqaure`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Minus-cirlce`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Minus-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Mirroring-screen`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Mobile-programming`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Monero-(xmr)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Money-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Money-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Money-4`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Money-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Money-change`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Money-forbidden`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Money-recive`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Money-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Money-send`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Money-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Money-time`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Monitor-mobbile`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Monitor-recorder`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`More-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`More-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`More-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Mouse-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Mouse-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Mouse-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Music-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Music-dashboard`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Music-filter`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Music-library-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Music-play`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Music-playlist`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Music-square-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Music-square-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Music-square-search`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Music-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Nebulas-(nas)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Nem-(xem)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Nexo-(nexo)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Note-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Note-21`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Note-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Note-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Note-favorite`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Note-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Note-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Note-text`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Notification-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Notification-bing`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Notification-favorite`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Notification-status`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ocean-protocol-(ocean)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Okb-(okb)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Omega-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Omega-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ontology-(ont)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Paperclip-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Paperclip-2-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Paperclip-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Password-check`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Path-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Path-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Pause-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Pen-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Pen-close`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Pen-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Pen-tool-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Pen-tool`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Percentage-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Percentage-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Pharagraphspacing-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Picture-frame`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Play-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Play-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Play-cricle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Play-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Polkadot-(dot)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Polygon-(matic)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Polyswarm-(nct)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Presention-chart`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Printer-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Profile-2user`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Profile-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Profile-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Profile-delete`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Profile-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Profile-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Programming-arrow`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Programming-arrows`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Quant-(qnt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Quote-down-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Quote-down-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Quote-down`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Quote-up-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Quote-up-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Quote-up`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Radar-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Radar-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ram-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ranking-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receipt-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receipt-2-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receipt-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receipt-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receipt-discount`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receipt-disscount`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receipt-edit`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receipt-item`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receipt-minus`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receipt-search`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receipt-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receipt-text`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receive-square-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receive-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Record-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Recovery-convert`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Refresh-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Refresh-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Refresh-left-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Refresh-right-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Refresh-square-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Repeat-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Repeate-music`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Repeate-one`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Rotate-left-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Rotate-left`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Rotate-right-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Rotate-right`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Route-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Routing-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Row-horizontal`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Row-vertical`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrangecircle-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrangesquare-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowcircle-down`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowcircle-left`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowcircle-right`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowcircle-up`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowdown-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowdown-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowleft-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowleft-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowleft-3`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowright-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowright-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowright-3`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowsquare-down`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowsquare-left`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowsquare-right`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowsquare-up`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowswap-horizontal`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowup-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowup-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Arrowup-3`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Backward10-seconds`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Backward15-seconds`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Backward5-seconds`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bagcross-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Bagtick-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Batteryempty-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Binancecoin-bnb`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Binanceusd-busd`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cardremove-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Cardtick-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Celsiuscel-`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Convert3d-cube`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Documentcode-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Documenttext-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Emptywallet-add`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Emptywallet-change`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Emptywallet-remove`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Emptywallet-tick`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Emptywallet-time`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Enjincoin-enj`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ethereumclassic-etc`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Flashcircle-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Forward10-seconds`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Forward15-seconds`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Forward5-seconds`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ftxtoken-ftt`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hederahashgraph-hbar`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hierarchysquare-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hierarchysquare-3`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hometrend-down`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Hometrend-up`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Huobitoken-ht`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Kybernetwork-knc`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Link2-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Messageadd-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Messagetext-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Microphoneslash-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Minimusic-sqaure`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Musiclibrary-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Musicsquare-add`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Musicsquare-remove`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Musicsquare-search`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Oceanprotocol-ocean`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Paperclip2-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Pentool-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Quotedown-circle`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Quotedown-square`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Quoteup-circle`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Quoteup-square`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receipt2-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Receivesquare-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Refreshleft-square`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Refreshright-square`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Refreshsquare-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Rotateleft-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Rotateright-1`
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ruler&pen`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Safe-home`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Save-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Save-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Save-minus`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Save-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Scan-barcode`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Scissor-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Search-favorite-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Search-favorite`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Search-normal-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Search-normal`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Search-status-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Search-status`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Search-zoom-in-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Search-zoom-in`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Search-zoom-out-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Search-zoom-out`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Security-card`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Security-safe`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Security-time`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Security-user`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Send-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Send-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Send-sqaure-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Send-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Setting-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Setting-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Setting-4`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Setting-5`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Shapes-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Shield-cross`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Shield-search`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Shield-security`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Shield-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Shield-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Shop-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Shop-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Shopping-bag`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Shopping-cart`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Siacoin-(sc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Sidebar-bottom`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Sidebar-left`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Sidebar-right`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Sidebar-top`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Simcard-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Simcard-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Slider-horizontal-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Slider-horizontal`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Slider-vertical-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Slider-vertical`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Smallcaps-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Smart-car`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Smart-home`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Sms-edit`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Sms-notification`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Sms-search`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Sms-star`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Sms-tracking`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Solana-(sol)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Stacks-(stx)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Star-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Star-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Status-up`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Stellar-(xlm)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Stop-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Strongbox-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Sun-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Sun-fog`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Tag-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Tag-cross`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Tag-right`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Tag-user`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Task-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Tenx-(pay)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Tether-(usdt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Text-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Text-block-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Text-block`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Text-bold-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Text-bold`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Text-italic-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Text-italic`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Text-underline-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Text-underline`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalign-center-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalign-center`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalign-justifycenter-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalign-justifycenter`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalign-justifyleft-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalign-justifyleft`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalign-justifyright-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalign-justifyright`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalign-left-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalign-left`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalign-right-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalign-right`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`The-graph-(grt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Theta-(theta)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Thorchain-(rune)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Tick-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Tick-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ticket-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ticket-discount`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ticket-expired`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Ticket-star`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Timer-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Timer-pause`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Timer-start`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Toggle-off-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Toggle-off`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Toggle-on-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Toggle-on`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Transaction-minus`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Trend-down`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Trend-up`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Triangle-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Trontron-(trx)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Truck-fast`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Truck-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Truck-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Truck-time`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Trush-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Usd-coin-(usdc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`User-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`User-cirlce-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`User-edit`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`User-minus`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`User-octagon`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`User-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`User-search`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`User-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`User-tag`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`User-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Velas-(vlx)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Vibe-(vibe)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Video-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Video-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Video-horizontal`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Video-octagon`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Video-play`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Video-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Video-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Video-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Video-tick`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Video-time`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Video-vertical`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Voice-cricle`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Voice-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Volume-cross`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Volume-high`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Volume-low-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Volume-low`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Volume-mute`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Volume-slash`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Volume-up`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wallet-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wallet-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wallet-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wallet-add-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wallet-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wallet-check`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wallet-minus`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wallet-money`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wallet-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wallet-search`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wanchain-(wan)-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wanchain-(wan)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Warning-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Watch-status`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Weight-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wifi-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wind-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wing-(wing)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Xrp-(xrp)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Zel-(zel)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`_24-support`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`_3d-cube-scan`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`_3d-rotate`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`_3d-square`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Searchfavorite-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Searchnormal-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Searchstatus-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Searchzoom-in-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Searchzoom-in`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Searchzoom-out-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Searchzoom-out`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Sendsqaure-2`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Sliderhorizontal-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Slidervertical-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textaligncenter-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalignjustifycenter-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalignjustifyleft-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalignjustifyright-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalignleft-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textalignright-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textblock-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textbold-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textitalic-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Textunderline-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Thegraph-grt`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Toggleoff-circle`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Toggleon-circle`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Usdcoin-usdc`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Usercirlce-add`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Volumelow-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Walletadd-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Wanchainwan-1`
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.`_3dcube-scan`
 import kotlin.collections.List as ____KtList
 
 public object BoldGroup
@@ -1033,167 +1033,142 @@ public val BoldGroup.Default: ____KtList<ImageVector>
     if (__Default != null) {
       return __Default!!
     }
-    __Default= listOf(`_24-support`, `_3d-cube-scan`, `_3d-rotate`, `_3d-square`, _3dcube, _3full,
-        _3square, `Aave-(aave)`, Activity, `Add-circle`, `Add-square`, Add, Additem, Airdrop,
-        `Airplane-square`, Airplane, Airpod, Airpods, Alarm, `Align-bottom`, `Align-horizontally`,
-        `Align-left`, `Align-right`, `Align-vertically`, Android, `Ankr-(ankr)`, Apple, Aquarius,
-        `Archive-1`, `Archive-2`, `Archive-add`, `Archive-book`, `Archive-minus`, `Archive-slash`,
-        `Archive-tick`, Archive, `Arrange-circle-2`, `Arrange-circle`, `Arrange-square-2`,
-        `Arrange-square`, `Arrow-2`, `Arrow-3`, `Arrow-bottom`, `Arrow-circle-down`,
-        `Arrow-circle-left`, `Arrow-circle-right`, `Arrow-circle-up`, `Arrow-down-1`,
-        `Arrow-down-2`, `Arrow-down`, `Arrow-left-1`, `Arrow-left-2`, `Arrow-left-3`, `Arrow-left`,
-        `Arrow-right-1`, `Arrow-right-2`, `Arrow-right-3`, `Arrow-right`, `Arrow-square-down`,
-        `Arrow-square-left`, `Arrow-square-right`, `Arrow-square-up`, `Arrow-square`,
-        `Arrow-swap-horizontal`, `Arrow-swap`, `Arrow-up-1`, `Arrow-up-2`, `Arrow-up-3`, `Arrow-up`,
-        Arrow, `Attach-circle`, `Attach-square`, `Audio-square`, `Augur-(rep)`, Autobrightness,
-        `Autonio-(niox)`, `Avalanche-(avax)`, Award, `Back-square`, `Backward-10-seconds`,
-        `Backward-15-seconds`, `Backward-5-seconds`, `Backward-item`, Backward, `Bag-2`,
-        `Bag-cross-1`, `Bag-cross`, `Bag-happy`, `Bag-tick-2`, `Bag-tick`, `Bag-timer`, Bag, Bank,
-        Barcode, `Battery-charging`, `Battery-disable`, `Battery-empty-1`, `Battery-empty`,
-        `Battery-full`, Be, Bezier, Bill, `Binance-coin-(bnb)`, `Binance-usd-(busd)`,
-        `Bitcoin-(btc)`, `Bitcoin-card`, `Bitcoin-convert`, `Bitcoin-refresh`, `Blend-2`, Blend,
-        Blogger, `Bluetooth-2`, `Bluetooth-circle`, `Bluetooth-rectangle`, Bluetooth, Blur,
-        `Book-1`, `Book-saved`, `Book-square`, Book, `Bookmark-2`, Bookmark, Bootsrap, `Box-1`,
-        `Box-2`, `Box-add`, `Box-remove`, `Box-search`, `Box-tick`, `Box-time`, Box, Briefcase,
-        `Brifecase-cross`, `Brifecase-tick`, `Brifecase-timer`, Broom, `Brush-1`, `Brush-2`,
-        `Brush-3`, `Brush-4`, Brush, Bubble, `Bucket-circle`, `Bucket-square`, Bucket, `Building-3`,
-        `Building-4`, Building, `Buildings-2`, Buildings, Buliding, Bus, `Buy-crypto`, Cake,
-        Calculator, `Calendar-1`, `Calendar-2`, `Calendar-add`, `Calendar-circle`, `Calendar-edit`,
-        `Calendar-remove`, `Calendar-search`, `Calendar-tick`, Calendar, `Call-add`, `Call-calling`,
-        `Call-incoming`, `Call-minus`, `Call-outgoing`, `Call-received`, `Call-remove`,
-        `Call-slash`, Call, `Camera-slash`, Camera, `Candle-2`, Candle, Car, `Card-add`,
-        `Card-coin`, `Card-edit`, `Card-pos`, `Card-receive`, `Card-remove-1`, `Card-remove`,
-        `Card-send`, `Card-slash`, `Card-tick-1`, `Card-tick`, Card, `Cardano-(ada)`, Cards,
-        `Category-2`, Category, Cd, `Celo-(celo)`, `Celsius-(cel)-`, `Chainlink-(link)`, `Chart-1`,
-        `Chart-2`, `Chart-21`, `Chart-3`, `Chart-fail`, `Chart-square`, `Chart-success`, Chart,
-        Check, Chrome, `Civic-(cvc)`, `Clipboard-close`, `Clipboard-export`, `Clipboard-import`,
-        `Clipboard-text`, `Clipboard-tick`, Clipboard, `Clock-1`, Clock, `Close-circle`,
-        `Close-square`, `Cloud-add`, `Cloud-change`, `Cloud-connection`, `Cloud-cross`,
-        `Cloud-drizzle`, `Cloud-fog`, `Cloud-lightning`, `Cloud-minus`, `Cloud-notif`, `Cloud-plus`,
-        `Cloud-remove`, `Cloud-snow`, `Cloud-sunny`, Cloud, `Code-1`, `Code-circle`, Code, Coffee,
-        `Coin-1`, Coin, `Color-swatch`, Colorfilter, `Colors-square`, `Command-square`, Command,
-        Component, Computing, `Convert-3d-cube`, `Convert-card`, Convert, `Convertshape-2`,
-        Convertshape, `Copy-success`, Copy, Copyright, Courthouse, `Cpu-charge`, `Cpu-setting`, Cpu,
-        `Creative-commons`, Crop, `Crown-1`, Crown, Cup, `Dai-(dai)`, Danger, `Dash-(dash)`,
-        `Data-2`, Data, `Decred-(dcr)`, `Dent-(dent)`, Designtools, `Device-message`, `Devices-1`,
-        Devices, Diagram, Diamonds, `Direct-down`, `Direct-inbox`, `Direct-left`, `Direct-normal`,
-        `Direct-notification`, `Direct-right`, `Direct-send`, `Direct-up`, Direct,
-        `Directbox-default`, `Directbox-notif`, `Directbox-receive`, `Directbox-send`,
-        `Discount-circle`, `Discount-shape`, `Discover-1`, Discover, Dislike, `Document-1`,
-        `Document-cloud`, `Document-code-2`, `Document-code`, `Document-copy`, `Document-download`,
-        `Document-favorite`, `Document-filter`, `Document-forward`, `Document-like`,
-        `Document-normal`, `Document-previous`, `Document-sketch`, `Document-text-1`,
-        `Document-text`, `Document-upload`, Document, `Dollar-circle`, `Dollar-square`, Dribbble,
-        `Driver-2`, `Driver-refresh`, Driver, Driving, Drop, Dropbox, `Edit-2`, Edit,
-        `Educare-(ekt)`, Electricity, `Element-2`, `Element-3`, `Element-4`, `Element-equal`,
-        `Element-plus`, `Emercoin-(emc)`, `Emoji-happy`, `Emoji-normal`, `Emoji-sad`,
-        `Empty-wallet-add`, `Empty-wallet-change`, `Empty-wallet-remove`, `Empty-wallet-tick`,
-        `Empty-wallet-time`, `Empty-wallet`, `Enjin-coin-(enj)`, `Eos-(eos)`, `Eraser-1`, Eraser,
-        `Ethereum-(eth)`, `Ethereum-classic-(etc)`, `Export-1`, `Export-2`, `Export-3`, Export,
-        `External-drive`, `Eye-slash`, Eye, Facebook, Fatrows, `Favorite-chart`, `Figma-1`, Figma,
-        `Filter-add`, `Filter-edit`, `Filter-remove`, `Filter-search`, `Filter-square`,
-        `Filter-tick`, Filter, `Finger-cricle`, `Finger-scan`, `Firstline-1`, Firstline, `Flag-2`,
-        Flag, `Flash-1`, `Flash-circle-1`, `Flash-circle`, `Flash-slash`, Flash, `Folder-2`,
-        `Folder-add`, `Folder-cloud`, `Folder-connection`, `Folder-cross`, `Folder-favorite`,
-        `Folder-minus`, `Folder-open`, Folder, `Forbidden-2`, Forbidden, `Format-circle`,
-        `Format-square`, `Forward-10-seconds`, `Forward-15-seconds`, `Forward-5-seconds`,
-        `Forward-item`, `Forward-square`, Forward, `Frame-1`, `Frame-2`, `Frame-3`, `Frame-4`,
-        Frame, Framer, `Ftx-token-(ftt)`, `Gallery-add`, `Gallery-edit`, `Gallery-export`,
-        `Gallery-favorite`, `Gallery-import`, `Gallery-remove`, `Gallery-slash`, `Gallery-tick`,
-        Gallery, Game, Gameboy, `Gas-station`, `Gemini-2`, Gemini, Ghost, Gift, `Glass-1`, Glass,
-        `Global-edit`, `Global-refresh`, `Global-search`, Global, `Google-1`, `Google-play`, Google,
-        `Gps-slash`, Gps, Grammerly, Graph, `Grid-1`, `Grid-2`, `Grid-3`, `Grid-4`, `Grid-5`,
-        `Grid-6`, `Grid-7`, `Grid-8`, `Grid-9`, `Grid-edit`, `Grid-eraser`, `Grid-lock`, Happyemoji,
-        `Harmony-(one)`, `Hashtag-1`, `Hashtag-down`, `Hashtag-up`, Hashtag, Headphone, Headphones,
-        Health, `Heart-add`, `Heart-circle`, `Heart-edit`, `Heart-remove`, `Heart-search`,
-        `Heart-slash`, `Heart-tick`, Heart, `Hedera-hashgraph-(hbar)`, `Hex-(hex)`, `Hierarchy-2`,
-        `Hierarchy-3`, `Hierarchy-square-2`, `Hierarchy-square-3`, `Hierarchy-square`, Hierarchy,
-        `Home-1`, `Home-2`, `Home-hashtag`, `Home-trend-down`, `Home-trend-up`, `Home-wifi`, Home,
-        Hospital, `House-2`, House, `Html-3`, `Html-5`, `Huobi-token-(ht)`, `Icon-(icx)`, `Icon-1`,
-        Icon, Illustrator, Image, `Import-1`, `Import-2`, `Import-3`, Import, `Info-circle`,
-        Information, Instagram, `Iost-(iost)`, `Java-script`, Js, Judge, Kanban, `Key-square`, Key,
-        `Keyboard-open`, Keyboard, `Kyber-network-(knc)`, `Lamp-1`, `Lamp-charge`, `Lamp-on`,
-        `Lamp-slash`, Lamp, `Language-circle`, `Language-square`, Layer, Level, Lifebuoy, `Like-1`,
-        `Like-dislike`, `Like-shapes`, `Like-tag`, Like, `Link-1`, `Link-2-1`, `Link-2`, `Link-21`,
-        `Link-3`, `Link-4`, `Link-circle`, `Link-square`, Link, `Litecoin(ltc)`, `Location-add`,
-        `Location-cross`, `Location-minus`, `Location-slash`, `Location-tick`, Location, `Lock-1`,
-        `Lock-circle`, `Lock-slash`, Lock, `Login-1`, Login, `Logout-1`, Logout, Lovely,
-        `Magic-star`, Magicpen, `Main-component`, `Maker-(mkr)`, Man, `Map-1`, Map, `Mask-1`,
-        `Mask-2`, Mask, Math, `Maximize-1`, `Maximize-2`, `Maximize-21`, `Maximize-3`,
-        `Maximize-31`, `Maximize-4`, `Maximize-circle`, Maximize, `Medal-star`, Medal, `Menu-1`,
-        `Menu-board`, Menu, `Message-2`, `Message-add-1`, `Message-add`, `Message-circle`,
-        `Message-edit`, `Message-favorite`, `Message-minus`, `Message-notif`, `Message-programming`,
-        `Message-question`, `Message-remove`, `Message-search`, `Message-square`, `Message-text-1`,
-        `Message-text`, `Message-tick`, `Message-time`, Message, `Messages-1`, `Messages-2`,
-        `Messages-3`, Messages, Messenger, `Microphone-2`, `Microphone-slash-1`, `Microphone-slash`,
-        Microphone, Microscope, Milk, `Mini-music-sqaure`, `Minus-cirlce`, `Minus-square`, Minus,
-        Mirror, `Mirroring-screen`, `Mobile-programming`, Mobile, `Monero-(xmr)`, `Money-2`,
-        `Money-3`, `Money-4`, `Money-add`, `Money-change`, `Money-forbidden`, `Money-recive`,
-        `Money-remove`, `Money-send`, `Money-tick`, `Money-time`, Money, Moneys, `Monitor-mobbile`,
-        `Monitor-recorder`, Monitor, Moon, `More-2`, `More-circle`, `More-square`, More, `Mouse-1`,
-        `Mouse-circle`, `Mouse-square`, Mouse, `Music-circle`, `Music-dashboard`, `Music-filter`,
-        `Music-library-2`, `Music-play`, `Music-playlist`, `Music-square-add`,
-        `Music-square-remove`, `Music-square-search`, `Music-square`, Music, Musicnote,
-        `Nebulas-(nas)`, `Nem-(xem)`, `Nexo-(nexo)`, Next, `Note-1`, `Note-2`, `Note-21`,
-        `Note-add`, `Note-favorite`, `Note-remove`, `Note-square`, `Note-text`, Note,
-        `Notification-1`, `Notification-bing`, `Notification-favorite`, `Notification-status`,
-        Notification, `Ocean-protocol-(ocean)`, `Okb-(okb)`, `Omega-circle`, `Omega-square`,
-        `Ontology-(ont)`, Paintbucket, `Paperclip-1`, `Paperclip-2-1`, `Paperclip-2`, Paperclip,
-        `Password-check`, `Path-2`, `Path-square`, Path, `Pause-circle`, Pause, Paypal, `Pen-add`,
-        `Pen-close`, `Pen-remove`, `Pen-tool-2`, `Pen-tool`, People, `Percentage-circle`,
-        `Percentage-square`, Personalcard, Pet, `Pharagraphspacing-1`, Pharagraphspacing, Photoshop,
-        `Picture-frame`, `Play-add`, `Play-circle`, `Play-cricle`, `Play-remove`, Play,
-        `Polkadot-(dot)`, `Polygon-(matic)`, `Polyswarm-(nct)`, `Presention-chart`, Previous,
-        `Printer-slash`, Printer, `Profile-2user`, `Profile-add`, `Profile-circle`,
-        `Profile-delete`, `Profile-remove`, `Profile-tick`, `Programming-arrow`,
-        `Programming-arrows`, Python, `Quant-(qnt)`, `Quote-down-circle`, `Quote-down-square`,
-        `Quote-down`, `Quote-up-circle`, `Quote-up-square`, `Quote-up`, `Radar-1`, `Radar-2`, Radar,
-        Radio, `Ram-2`, Ram, `Ranking-1`, Ranking, `Receipt-1`, `Receipt-2-1`, `Receipt-2`,
-        `Receipt-add`, `Receipt-discount`, `Receipt-disscount`, `Receipt-edit`, `Receipt-item`,
-        `Receipt-minus`, `Receipt-search`, `Receipt-square`, `Receipt-text`, Receipt,
-        `Receive-square-2`, `Receive-square`, Received, `Record-circle`, Record, `Recovery-convert`,
-        Redo, `Refresh-2`, `Refresh-circle`, `Refresh-left-square`, `Refresh-right-square`,
-        `Refresh-square-2`, Refresh, `Repeat-circle`, Repeat, `Repeate-music`, `Repeate-one`,
-        Reserve, `Rotate-left-1`, `Rotate-left`, `Rotate-right-1`, `Rotate-right`, `Route-square`,
-        `Routing-2`, Routing, `Row-horizontal`, `Row-vertical`, `Ruler&pen`, Ruler, `Safe-home`,
-        Sagittarius, `Save-2`, `Save-add`, `Save-minus`, `Save-remove`, `Scan-barcode`, Scan,
-        Scanner, Scanning, `Scissor-1`, Scissor, Screenmirroring, Scroll, `Search-favorite-1`,
-        `Search-favorite`, `Search-normal-1`, `Search-normal`, `Search-status-1`, `Search-status`,
-        `Search-zoom-in-1`, `Search-zoom-in`, `Search-zoom-out-1`, `Search-zoom-out`,
-        `Security-card`, `Security-safe`, `Security-time`, `Security-user`, Security, `Send-1`,
-        `Send-2`, `Send-sqaure-2`, `Send-square`, Send, `Setting-2`, `Setting-3`, `Setting-4`,
-        `Setting-5`, Setting, Settings, `Shapes-1`, Shapes, Share, `Shield-cross`, `Shield-search`,
-        `Shield-security`, `Shield-slash`, `Shield-tick`, Ship, `Shop-add`, `Shop-remove`, Shop,
-        `Shopping-bag`, `Shopping-cart`, Shuffle, `Siacoin-(sc)`, `Sidebar-bottom`, `Sidebar-left`,
-        `Sidebar-right`, `Sidebar-top`, Signpost, `Simcard-1`, `Simcard-2`, Simcard, Size, Slack,
-        Slash, `Slider-horizontal-1`, `Slider-horizontal`, `Slider-vertical-1`, `Slider-vertical`,
-        Slider, `Smallcaps-1`, Smallcaps, `Smart-car`, `Smart-home`, Smileys, `Sms-edit`,
-        `Sms-notification`, `Sms-search`, `Sms-star`, `Sms-tracking`, Sms, Snapchat, `Solana-(sol)`,
-        Sort, Sound, Speaker, Speedometer, Spotify, `Stacks-(stx)`, `Star-1`, `Star-slash`, Star,
-        `Status-up`, Status, `Stellar-(xlm)`, Sticker, Stickynote, `Stop-circle`, Stop, Story,
-        `Strongbox-2`, Strongbox, Subtitle, `Sun-1`, `Sun-fog`, Sun, `Tag-2`, `Tag-cross`,
-        `Tag-right`, `Tag-user`, Tag, `Task-square`, Task, Teacher, `Tenx-(pay)`, `Tether-(usdt)`,
-        `Text-1`, `Text-block-1`, `Text-block`, `Text-bold-1`, `Text-bold`, `Text-italic-1`,
-        `Text-italic`, `Text-underline-1`, `Text-underline`, Text, `Textalign-center-1`,
-        `Textalign-center`, `Textalign-justifycenter-1`, `Textalign-justifycenter`,
-        `Textalign-justifyleft-1`, `Textalign-justifyleft`, `Textalign-justifyright-1`,
-        `Textalign-justifyright`, `Textalign-left-1`, `Textalign-left`, `Textalign-right-1`,
-        `Textalign-right`, `The-graph-(grt)`, `Theta-(theta)`, `Thorchain-(rune)`, `Tick-circle`,
-        `Tick-square`, `Ticket-2`, `Ticket-discount`, `Ticket-expired`, `Ticket-star`, Ticket,
-        `Timer-1`, `Timer-pause`, `Timer-start`, Timer, `Toggle-off-circle`, `Toggle-off`,
-        `Toggle-on-circle`, `Toggle-on`, Trade, `Transaction-minus`, Translate, Trash, Tree, Trello,
-        `Trend-down`, `Trend-up`, `Triangle-1`, Triangle, `Trontron-(trx)`, `Truck-fast`,
-        `Truck-remove`, `Truck-tick`, `Truck-time`, Truck, `Trush-square`, Twitch, Ui8, Undo,
-        Unlimited, Unlock, `Usd-coin-(usdc)`, `User-add`, `User-cirlce-add`, `User-edit`,
-        `User-minus`, `User-octagon`, `User-remove`, `User-search`, `User-square`, `User-tag`,
-        `User-tick`, User, `Velas-(vlx)`, Verify, `Vibe-(vibe)`, `Video-add`, `Video-circle`,
-        `Video-horizontal`, `Video-octagon`, `Video-play`, `Video-remove`, `Video-slash`,
-        `Video-square`, `Video-tick`, `Video-time`, `Video-vertical`, Video, `Voice-cricle`,
-        `Voice-square`, `Volume-cross`, `Volume-high`, `Volume-low-1`, `Volume-low`, `Volume-mute`,
-        `Volume-slash`, `Volume-up`, Vuesax, `Wallet-1`, `Wallet-2`, `Wallet-3`, `Wallet-add-1`,
-        `Wallet-add`, `Wallet-check`, `Wallet-minus`, `Wallet-money`, `Wallet-remove`,
-        `Wallet-search`, Wallet, `Wanchain-(wan)-1`, `Wanchain-(wan)`, `Warning-2`, `Watch-status`,
-        Watch, `Weight-1`, Weight, Whatsapp, `Wifi-square`, Wifi, `Wind-2`, Wind, Windows,
-        `Wing-(wing)`, Woman, Xd, Xiaomi, `Xrp-(xrp)`, Youtube, `Zel-(zel)`, Zoom)
+    __Default= listOf(_24support, `_3dcube-scan`, _3dcube, _3drotate, _3dsquare, _3full, _3square,
+        Aaveaave, Activity, Add, Addcircle, Additem, Addsquare, Airdrop, Airplane, Airplanesquare,
+        Airpod, Airpods, Alarm, Alignbottom, Alignhorizontally, Alignleft, Alignright,
+        Alignvertically, Android, Ankrankr, Apple, Aquarius, Archive, Archive1, Archive2,
+        Archiveadd, Archivebook, Archiveminus, Archiveslash, Archivetick, `Arrangecircle-2`,
+        Arrangecircle, `Arrangesquare-2`, Arrangesquare, Arrow, Arrow2, Arrow3, Arrowbottom,
+        `Arrowcircle-down`, `Arrowcircle-left`, `Arrowcircle-right`, `Arrowcircle-up`,
+        `Arrowdown-1`, `Arrowdown-2`, Arrowdown, `Arrowleft-1`, `Arrowleft-2`, `Arrowleft-3`,
+        Arrowleft, `Arrowright-1`, `Arrowright-2`, `Arrowright-3`, Arrowright, `Arrowsquare-down`,
+        `Arrowsquare-left`, `Arrowsquare-right`, `Arrowsquare-up`, Arrowsquare,
+        `Arrowswap-horizontal`, Arrowswap, `Arrowup-1`, `Arrowup-2`, `Arrowup-3`, Arrowup,
+        Attachcircle, Attachsquare, Audiosquare, Augurrep, Autobrightness, Autonioniox,
+        Avalancheavax, Award, Backsquare, Backward, `Backward10-seconds`, `Backward15-seconds`,
+        `Backward5-seconds`, Backwarditem, Bag, Bag2, `Bagcross-1`, Bagcross, Baghappy, `Bagtick-2`,
+        Bagtick, Bagtimer, Bank, Barcode, Batterycharging, Batterydisable, `Batteryempty-1`,
+        Batteryempty, Batteryfull, Be, Bezier, Bill, `Binancecoin-bnb`, `Binanceusd-busd`,
+        Bitcoinbtc, Bitcoincard, Bitcoinconvert, Bitcoinrefresh, Blend, Blend2, Blogger, Bluetooth,
+        Bluetooth2, Bluetoothcircle, Bluetoothrectangle, Blur, Book, Book1, Bookmark, Bookmark2,
+        Booksaved, Booksquare, Bootsrap, Box, Box1, Box2, Boxadd, Boxremove, Boxsearch, Boxtick,
+        Boxtime, Briefcase, Brifecasecross, Brifecasetick, Brifecasetimer, Broom, Brush, Brush1,
+        Brush2, Brush3, Brush4, Bubble, Bucket, Bucketcircle, Bucketsquare, Building, Building3,
+        Building4, Buildings, Buildings2, Buliding, Bus, Buycrypto, Cake, Calculator, Calendar,
+        Calendar1, Calendar2, Calendaradd, Calendarcircle, Calendaredit, Calendarremove,
+        Calendarsearch, Calendartick, Call, Calladd, Callcalling, Callincoming, Callminus,
+        Calloutgoing, Callreceived, Callremove, Callslash, Camera, Cameraslash, Candle, Candle2,
+        Car, Card, Cardadd, Cardanoada, Cardcoin, Cardedit, Cardpos, Cardreceive, `Cardremove-1`,
+        Cardremove, Cards, Cardsend, Cardslash, `Cardtick-1`, Cardtick, Category, Category2, Cd,
+        Celocelo, `Celsiuscel-`, Chainlinklink, Chart, Chart1, Chart2, Chart21, Chart3, Chartfail,
+        Chartsquare, Chartsuccess, Check, Chrome, Civiccvc, Clipboard, Clipboardclose,
+        Clipboardexport, Clipboardimport, Clipboardtext, Clipboardtick, Clock, Clock1, Closecircle,
+        Closesquare, Cloud, Cloudadd, Cloudchange, Cloudconnection, Cloudcross, Clouddrizzle,
+        Cloudfog, Cloudlightning, Cloudminus, Cloudnotif, Cloudplus, Cloudremove, Cloudsnow,
+        Cloudsunny, Code, Code1, Codecircle, Coffee, Coin, Coin1, Colorfilter, Colorssquare,
+        Colorswatch, Command, Commandsquare, Component, Computing, Convert, `Convert3d-cube`,
+        Convertcard, Convertshape, Convertshape2, Copy, Copyright, Copysuccess, Courthouse, Cpu,
+        Cpucharge, Cpusetting, Creativecommons, Crop, Crown, Crown1, Cup, Daidai, Danger, Dashdash,
+        Data, Data2, Decreddcr, Dentdent, Designtools, Devicemessage, Devices, Devices1, Diagram,
+        Diamonds, Direct, Directboxdefault, Directboxnotif, Directboxreceive, Directboxsend,
+        Directdown, Directinbox, Directleft, Directnormal, Directnotification, Directright,
+        Directsend, Directup, Discountcircle, Discountshape, Discover, Discover1, Dislike, Document,
+        Document1, Documentcloud, `Documentcode-2`, Documentcode, Documentcopy, Documentdownload,
+        Documentfavorite, Documentfilter, Documentforward, Documentlike, Documentnormal,
+        Documentprevious, Documentsketch, `Documenttext-1`, Documenttext, Documentupload,
+        Dollarcircle, Dollarsquare, Dribbble, Driver, Driver2, Driverrefresh, Driving, Drop,
+        Dropbox, Edit, Edit2, Educareekt, Electricity, Element2, Element3, Element4, Elementequal,
+        Elementplus, Emercoinemc, Emojihappy, Emojinormal, Emojisad, `Emptywallet-add`,
+        `Emptywallet-change`, `Emptywallet-remove`, `Emptywallet-tick`, `Emptywallet-time`,
+        Emptywallet, `Enjincoin-enj`, Eoseos, Eraser, Eraser1, `Ethereumclassic-etc`, Ethereumeth,
+        Export, Export1, Export2, Export3, Externaldrive, Eye, Eyeslash, Facebook, Fatrows,
+        Favoritechart, Figma, Figma1, Filter, Filteradd, Filteredit, Filterremove, Filtersearch,
+        Filtersquare, Filtertick, Fingercricle, Fingerscan, Firstline, Firstline1, Flag, Flag2,
+        Flash, Flash1, `Flashcircle-1`, Flashcircle, Flashslash, Folder, Folder2, Folderadd,
+        Foldercloud, Folderconnection, Foldercross, Folderfavorite, Folderminus, Folderopen,
+        Forbidden, Forbidden2, Formatcircle, Formatsquare, Forward, `Forward10-seconds`,
+        `Forward15-seconds`, `Forward5-seconds`, Forwarditem, Forwardsquare, Frame, Frame1, Frame2,
+        Frame3, Frame4, Framer, `Ftxtoken-ftt`, Gallery, Galleryadd, Galleryedit, Galleryexport,
+        Galleryfavorite, Galleryimport, Galleryremove, Galleryslash, Gallerytick, Game, Gameboy,
+        Gasstation, Gemini, Gemini2, Ghost, Gift, Glass, Glass1, Global, Globaledit, Globalrefresh,
+        Globalsearch, Google, Google1, Googleplay, Gps, Gpsslash, Grammerly, Graph, Grid1, Grid2,
+        Grid3, Grid4, Grid5, Grid6, Grid7, Grid8, Grid9, Gridedit, Grideraser, Gridlock, Happyemoji,
+        Harmonyone, Hashtag, Hashtag1, Hashtagdown, Hashtagup, Headphone, Headphones, Health, Heart,
+        Heartadd, Heartcircle, Heartedit, Heartremove, Heartsearch, Heartslash, Hearttick,
+        `Hederahashgraph-hbar`, Hexhex, Hierarchy, Hierarchy2, Hierarchy3, `Hierarchysquare-2`,
+        `Hierarchysquare-3`, Hierarchysquare, Home, Home1, Home2, Homehashtag, `Hometrend-down`,
+        `Hometrend-up`, Homewifi, Hospital, House, House2, Html3, Html5, `Huobitoken-ht`, Icon,
+        Icon1, Iconicx, Illustrator, Image, Import, Import1, Import2, Import3, Infocircle,
+        Information, Instagram, Iostiost, Javascript, Js, Judge, Kanban, Key, Keyboard,
+        Keyboardopen, Keysquare, `Kybernetwork-knc`, Lamp, Lamp1, Lampcharge, Lampon, Lampslash,
+        Languagecircle, Languagesquare, Layer, Level, Lifebuoy, Like, Like1, Likedislike,
+        Likeshapes, Liketag, Link, Link1, `Link2-1`, Link2, Link21, Link3, Link4, Linkcircle,
+        Linksquare, Litecoinltc, Location, Locationadd, Locationcross, Locationminus, Locationslash,
+        Locationtick, Lock, Lock1, Lockcircle, Lockslash, Login, Login1, Logout, Logout1, Lovely,
+        Magicpen, Magicstar, Maincomponent, Makermkr, Man, Map, Map1, Mask, Mask1, Mask2, Math,
+        Maximize, Maximize1, Maximize2, Maximize21, Maximize3, Maximize31, Maximize4,
+        Maximizecircle, Medal, Medalstar, Menu, Menu1, Menuboard, Message, Message2, `Messageadd-1`,
+        Messageadd, Messagecircle, Messageedit, Messagefavorite, Messageminus, Messagenotif,
+        Messageprogramming, Messagequestion, Messageremove, Messages, Messages1, Messages2,
+        Messages3, Messagesearch, Messagesquare, `Messagetext-1`, Messagetext, Messagetick,
+        Messagetime, Messenger, Microphone, Microphone2, `Microphoneslash-1`, Microphoneslash,
+        Microscope, Milk, `Minimusic-sqaure`, Minus, Minuscirlce, Minussquare, Mirror,
+        Mirroringscreen, Mobile, Mobileprogramming, Moneroxmr, Money, Money2, Money3, Money4,
+        Moneyadd, Moneychange, Moneyforbidden, Moneyrecive, Moneyremove, Moneys, Moneysend,
+        Moneytick, Moneytime, Monitor, Monitormobbile, Monitorrecorder, Moon, More, More2,
+        Morecircle, Moresquare, Mouse, Mouse1, Mousecircle, Mousesquare, Music, Musiccircle,
+        Musicdashboard, Musicfilter, `Musiclibrary-2`, Musicnote, Musicplay, Musicplaylist,
+        `Musicsquare-add`, `Musicsquare-remove`, `Musicsquare-search`, Musicsquare, Nebulasnas,
+        Nemxem, Nexonexo, Next, Note, Note1, Note2, Note21, Noteadd, Notefavorite, Noteremove,
+        Notesquare, Notetext, Notification, Notification1, Notificationbing, Notificationfavorite,
+        Notificationstatus, `Oceanprotocol-ocean`, Okbokb, Omegacircle, Omegasquare, Ontologyont,
+        Paintbucket, Paperclip, Paperclip1, `Paperclip2-1`, Paperclip2, Passwordcheck, Path, Path2,
+        Pathsquare, Pause, Pausecircle, Paypal, Penadd, Penclose, Penremove, `Pentool-2`, Pentool,
+        People, Percentagecircle, Percentagesquare, Personalcard, Pet, Pharagraphspacing,
+        Pharagraphspacing1, Photoshop, Pictureframe, Play, Playadd, Playcircle, Playcricle,
+        Playremove, Polkadotdot, Polygonmatic, Polyswarmnct, Presentionchart, Previous, Printer,
+        Printerslash, Profile2user, Profileadd, Profilecircle, Profiledelete, Profileremove,
+        Profiletick, Programmingarrow, Programmingarrows, Python, Quantqnt, `Quotedown-circle`,
+        `Quotedown-square`, Quotedown, `Quoteup-circle`, `Quoteup-square`, Quoteup, Radar, Radar1,
+        Radar2, Radio, Ram, Ram2, Ranking, Ranking1, Receipt, Receipt1, `Receipt2-1`, Receipt2,
+        Receiptadd, Receiptdiscount, Receiptdisscount, Receiptedit, Receiptitem, Receiptminus,
+        Receiptsearch, Receiptsquare, Receipttext, Received, `Receivesquare-2`, Receivesquare,
+        Record, Recordcircle, Recoveryconvert, Redo, Refresh, Refresh2, Refreshcircle,
+        `Refreshleft-square`, `Refreshright-square`, `Refreshsquare-2`, Repeat, Repeatcircle,
+        Repeatemusic, Repeateone, Reserve, `Rotateleft-1`, Rotateleft, `Rotateright-1`, Rotateright,
+        Routesquare, Routing, Routing2, Rowhorizontal, Rowvertical, `Ruler&pen`, Ruler, Safehome,
+        Sagittarius, Save2, Saveadd, Saveminus, Saveremove, Scan, Scanbarcode, Scanner, Scanning,
+        Scissor, Scissor1, Screenmirroring, Scroll, `Searchfavorite-1`, Searchfavorite,
+        `Searchnormal-1`, Searchnormal, `Searchstatus-1`, Searchstatus, `Searchzoom-in-1`,
+        `Searchzoom-in`, `Searchzoom-out-1`, `Searchzoom-out`, Security, Securitycard, Securitysafe,
+        Securitytime, Securityuser, Send, Send1, Send2, `Sendsqaure-2`, Sendsquare, Setting,
+        Setting2, Setting3, Setting4, Setting5, Settings, Shapes, Shapes1, Share, Shieldcross,
+        Shieldsearch, Shieldsecurity, Shieldslash, Shieldtick, Ship, Shop, Shopadd, Shoppingbag,
+        Shoppingcart, Shopremove, Shuffle, Siacoinsc, Sidebarbottom, Sidebarleft, Sidebarright,
+        Sidebartop, Signpost, Simcard, Simcard1, Simcard2, Size, Slack, Slash, Slider,
+        `Sliderhorizontal-1`, Sliderhorizontal, `Slidervertical-1`, Slidervertical, Smallcaps,
+        Smallcaps1, Smartcar, Smarthome, Smileys, Sms, Smsedit, Smsnotification, Smssearch, Smsstar,
+        Smstracking, Snapchat, Solanasol, Sort, Sound, Speaker, Speedometer, Spotify, Stacksstx,
+        Star, Star1, Starslash, Status, Statusup, Stellarxlm, Sticker, Stickynote, Stop, Stopcircle,
+        Story, Strongbox, Strongbox2, Subtitle, Sun, Sun1, Sunfog, Tag, Tag2, Tagcross, Tagright,
+        Taguser, Task, Tasksquare, Teacher, Tenxpay, Tetherusdt, Text, Text1, `Textaligncenter-1`,
+        Textaligncenter, `Textalignjustifycenter-1`, Textalignjustifycenter,
+        `Textalignjustifyleft-1`, Textalignjustifyleft, `Textalignjustifyright-1`,
+        Textalignjustifyright, `Textalignleft-1`, Textalignleft, `Textalignright-1`, Textalignright,
+        `Textblock-1`, Textblock, `Textbold-1`, Textbold, `Textitalic-1`, Textitalic,
+        `Textunderline-1`, Textunderline, `Thegraph-grt`, Thetatheta, Thorchainrune, Tickcircle,
+        Ticket, Ticket2, Ticketdiscount, Ticketexpired, Ticketstar, Ticksquare, Timer, Timer1,
+        Timerpause, Timerstart, `Toggleoff-circle`, Toggleoff, `Toggleon-circle`, Toggleon, Trade,
+        Transactionminus, Translate, Trash, Tree, Trello, Trenddown, Trendup, Triangle, Triangle1,
+        Trontrontrx, Truck, Truckfast, Truckremove, Trucktick, Trucktime, Trushsquare, Twitch, Ui8,
+        Undo, Unlimited, Unlock, `Usdcoin-usdc`, User, Useradd, `Usercirlce-add`, Useredit,
+        Userminus, Useroctagon, Userremove, Usersearch, Usersquare, Usertag, Usertick, Velasvlx,
+        Verify, Vibevibe, Video, Videoadd, Videocircle, Videohorizontal, Videooctagon, Videoplay,
+        Videoremove, Videoslash, Videosquare, Videotick, Videotime, Videovertical, Voicecricle,
+        Voicesquare, Volumecross, Volumehigh, `Volumelow-1`, Volumelow, Volumemute, Volumeslash,
+        Volumeup, Vuesax, Wallet, Wallet1, Wallet2, Wallet3, `Walletadd-1`, Walletadd, Walletcheck,
+        Walletminus, Walletmoney, Walletremove, Walletsearch, `Wanchainwan-1`, Wanchainwan,
+        Warning2, Watch, Watchstatus, Weight, Weight1, Whatsapp, Wifi, Wifisquare, Wind, Wind2,
+        Windows, Wingwing, Woman, Xd, Xiaomi, Xrpxrp, Youtube, Zelzel, Zoom)
     return __Default!!
   }

@@ -2,157 +2,157 @@ package moe.tlaster.icons.vuesax.vuesaxicons
 
 import androidx.compose.ui.graphics.vector.ImageVector
 import moe.tlaster.icons.vuesax.VuesaxIcons
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Aaveaave
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Additem
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Android
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Ankrankr
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Apple
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Augurrep
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Autonioniox
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Avalancheavax
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Backwarditem
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Be
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Bezier
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Bitcoinbtc
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Blend
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Blend2
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Blogger
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Blur
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Bootstrap
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Brush
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Brush1
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Brush2
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Brush3
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Brush4
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Bucket
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Bucketcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Bucketsquare
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Cardanoada
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Celocelo
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Chainlinklink
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Civiccvc
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Colorfilter
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Colorssquare
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Colorswatch
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Component
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Copy
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Copysuccess
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Daidai
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Dashdash
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Decreddcr
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Dentdent
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Designtools
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Dribbble
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Dropbox
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Educareekt
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Emercoinemc
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Eoseos
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Eraser
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Ethereumeth
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Facebook
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Figma
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Figma1
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Flashcircle
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Forwarditem
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Framer
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Glass
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Google
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Googledrive
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Googleplay
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Group
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Harmonyone
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Hexhex
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Html3
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Html5
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Icon
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Iconicx
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Illustrator
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Iostiost
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Javascript
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Js
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Layer
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Lifebuoy
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Litecoinltc
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Magicpen
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Maincomponent
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Makermkr
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Mask
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Mask1
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Mask2
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Messenger
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Moneroxmr
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Nebulasnas
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Nemxem
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Nexonexo
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Okbokb
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Omegacircle
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Omegasquare
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Ontologyont
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Paintbucket
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Path
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Path2
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Pathsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Paypal
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Penadd
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Penclose
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Penremove
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Pentool
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Photoshop
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Polkadotdot
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Polygonmatic
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Polyswarmnct
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Python
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Quantqnt
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Recoveryconvert
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Ruler
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Scissor
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Shapes
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Shapes1
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Siacoinsc
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Size
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Slack
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Snapchat
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Solanasol
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Spotify
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Stacksstx
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Stellarxlm
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Tenxpay
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Tetherusdt
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Thetatheta
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Thorchainrune
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Trello
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Triangle
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Trontrontrx
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Twitch
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Ui8
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Velasvlx
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Vibevibe
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Vuesax
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Wanchainwan
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Whatsapp
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Windows
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Wingwing
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Xd
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Xiaomi
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Xrpxrp
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Youtube
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Zelzel
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Zoom
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Aave-(aave)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Ankr-(ankr)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Augur-(rep)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Autonio-(niox)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Avalanche-(avax)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Backward-item`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Binance-coin-(bnb)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Binance-usd-(busd)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Bitcoin-(btc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Blend-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Brush-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Brush-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Brush-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Brush-4`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Bucket-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Bucket-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Cardano-(ada)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Celo-(celo)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Celsius-(cel)-`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Chainlink-(link)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Civic-(cvc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Color-swatch`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Colors-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Copy-success`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Dai-(dai)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Dash-(dash)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Decred-(dcr)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Dent-(dent)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Educare-(ekt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Emercoin-(emc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Enjin-coin-(enj)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Eos-(eos)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Ethereum-(eth)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Ethereum-classic-(etc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Figma-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Flash-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Forward-item`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Ftx-token-(ftt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Google-drive`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Google-play`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Harmony-(one)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Hedera-hashgraph-(hbar)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Hex-(hex)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Html-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Html-5`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Huobi-token-(ht)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Icon-(icx)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Iost-(iost)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Kyber-network-(knc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Litecoin(ltc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Main-component`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Maker-(mkr)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Mask-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Mask-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Monero-(xmr)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Nebulas-(nas)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Nem-(xem)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Nexo-(nexo)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Ocean-protocol-(ocean)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Okb-(okb)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Omega-circle`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Omega-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Ontology-(ont)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Path-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Path-square`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Pen-add`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Pen-close`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Pen-remove`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Pen-tool-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Pen-tool`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Polkadot-(dot)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Polygon-(matic)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Polyswarm-(nct)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Quant-(qnt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Recovery-convert`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Binancecoin-bnb`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Binanceusd-busd`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Celsiuscel-`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Enjincoin-enj`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Ethereumclassic-etc`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Ftxtoken-ftt`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Hederahashgraph-hbar`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Huobitoken-ht`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Kybernetwork-knc`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Oceanprotocol-ocean`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Pentool-2`
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Ruler&pen`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Shapes-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Siacoin-(sc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Solana-(sol)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Stacks-(stx)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Stellar-(xlm)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Tenx-(pay)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Tether-(usdt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`The-graph-(grt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Theta-(theta)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Thorchain-(rune)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Trontron-(trx)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Usd-coin-(usdc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Velas-(vlx)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Vibe-(vibe)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Wanchain-(wan)-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Wanchain-(wan)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Wing-(wing)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Xrp-(xrp)`
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Zel-(zel)`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Thegraph-grt`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Usdcoin-usdc`
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Wanchainwan-1`
 import kotlin.collections.List as ____KtList
 
 public object BrokenGroup
@@ -167,29 +167,24 @@ public val BrokenGroup.Default: ____KtList<ImageVector>
     if (__Default != null) {
       return __Default!!
     }
-    __Default= listOf(`Aave-(aave)`, Additem, Android, `Ankr-(ankr)`, Apple, `Augur-(rep)`,
-        `Autonio-(niox)`, `Avalanche-(avax)`, `Backward-item`, Be, Bezier, `Binance-coin-(bnb)`,
-        `Binance-usd-(busd)`, `Bitcoin-(btc)`, `Blend-2`, Blend, Blogger, Blur, Bootstrap,
-        `Brush-1`, `Brush-2`, `Brush-3`, `Brush-4`, Brush, `Bucket-circle`, `Bucket-square`, Bucket,
-        `Cardano-(ada)`, `Celo-(celo)`, `Celsius-(cel)-`, `Chainlink-(link)`, `Civic-(cvc)`,
-        `Color-swatch`, Colorfilter, `Colors-square`, Component, `Copy-success`, Copy, `Dai-(dai)`,
-        `Dash-(dash)`, `Decred-(dcr)`, `Dent-(dent)`, Designtools, Dribbble, Dropbox,
-        `Educare-(ekt)`, `Emercoin-(emc)`, `Enjin-coin-(enj)`, `Eos-(eos)`, Eraser,
-        `Ethereum-(eth)`, `Ethereum-classic-(etc)`, Facebook, `Figma-1`, Figma, `Flash-circle`,
-        `Forward-item`, Framer, `Ftx-token-(ftt)`, Glass, `Google-drive`, `Google-play`, Google,
-        Group, `Harmony-(one)`, `Hedera-hashgraph-(hbar)`, `Hex-(hex)`, `Html-3`, `Html-5`,
-        `Huobi-token-(ht)`, `Icon-(icx)`, Icon, Illustrator, `Iost-(iost)`, Javascript, Js,
-        `Kyber-network-(knc)`, Layer, Lifebuoy, `Litecoin(ltc)`, Magicpen, `Main-component`,
-        `Maker-(mkr)`, `Mask-1`, `Mask-2`, Mask, Messenger, `Monero-(xmr)`, `Nebulas-(nas)`,
-        `Nem-(xem)`, `Nexo-(nexo)`, `Ocean-protocol-(ocean)`, `Okb-(okb)`, `Omega-circle`,
-        `Omega-square`, `Ontology-(ont)`, Paintbucket, `Path-2`, `Path-square`, Path, Paypal,
-        `Pen-add`, `Pen-close`, `Pen-remove`, `Pen-tool-2`, `Pen-tool`, Photoshop, `Polkadot-(dot)`,
-        `Polygon-(matic)`, `Polyswarm-(nct)`, Python, `Quant-(qnt)`, `Recovery-convert`,
-        `Ruler&pen`, Ruler, Scissor, `Shapes-1`, Shapes, `Siacoin-(sc)`, Size, Slack, Snapchat,
-        `Solana-(sol)`, Spotify, `Stacks-(stx)`, `Stellar-(xlm)`, `Tenx-(pay)`, `Tether-(usdt)`,
-        `The-graph-(grt)`, `Theta-(theta)`, `Thorchain-(rune)`, Trello, Triangle, `Trontron-(trx)`,
-        Twitch, Ui8, `Usd-coin-(usdc)`, `Velas-(vlx)`, `Vibe-(vibe)`, Vuesax, `Wanchain-(wan)-1`,
-        `Wanchain-(wan)`, Whatsapp, Windows, `Wing-(wing)`, Xd, Xiaomi, `Xrp-(xrp)`, Youtube,
-        `Zel-(zel)`, Zoom)
+    __Default= listOf(Aaveaave, Additem, Android, Ankrankr, Apple, Augurrep, Autonioniox,
+        Avalancheavax, Backwarditem, Be, Bezier, `Binancecoin-bnb`, `Binanceusd-busd`, Bitcoinbtc,
+        Blend, Blend2, Blogger, Blur, Bootstrap, Brush, Brush1, Brush2, Brush3, Brush4, Bucket,
+        Bucketcircle, Bucketsquare, Cardanoada, Celocelo, `Celsiuscel-`, Chainlinklink, Civiccvc,
+        Colorfilter, Colorssquare, Colorswatch, Component, Copy, Copysuccess, Daidai, Dashdash,
+        Decreddcr, Dentdent, Designtools, Dribbble, Dropbox, Educareekt, Emercoinemc,
+        `Enjincoin-enj`, Eoseos, Eraser, `Ethereumclassic-etc`, Ethereumeth, Facebook, Figma,
+        Figma1, Flashcircle, Forwarditem, Framer, `Ftxtoken-ftt`, Glass, Google, Googledrive,
+        Googleplay, Group, Harmonyone, `Hederahashgraph-hbar`, Hexhex, Html3, Html5,
+        `Huobitoken-ht`, Icon, Iconicx, Illustrator, Iostiost, Javascript, Js, `Kybernetwork-knc`,
+        Layer, Lifebuoy, Litecoinltc, Magicpen, Maincomponent, Makermkr, Mask, Mask1, Mask2,
+        Messenger, Moneroxmr, Nebulasnas, Nemxem, Nexonexo, `Oceanprotocol-ocean`, Okbokb,
+        Omegacircle, Omegasquare, Ontologyont, Paintbucket, Path, Path2, Pathsquare, Paypal, Penadd,
+        Penclose, Penremove, `Pentool-2`, Pentool, Photoshop, Polkadotdot, Polygonmatic,
+        Polyswarmnct, Python, Quantqnt, Recoveryconvert, `Ruler&pen`, Ruler, Scissor, Shapes,
+        Shapes1, Siacoinsc, Size, Slack, Snapchat, Solanasol, Spotify, Stacksstx, Stellarxlm,
+        Tenxpay, Tetherusdt, `Thegraph-grt`, Thetatheta, Thorchainrune, Trello, Triangle,
+        Trontrontrx, Twitch, Ui8, `Usdcoin-usdc`, Velasvlx, Vibevibe, Vuesax, `Wanchainwan-1`,
+        Wanchainwan, Whatsapp, Windows, Wingwing, Xd, Xiaomi, Xrpxrp, Youtube, Zelzel, Zoom)
     return __Default!!
   }

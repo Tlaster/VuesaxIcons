@@ -2,107 +2,107 @@ package moe.tlaster.icons.vuesax.vuesaxicons
 
 import androidx.compose.ui.graphics.vector.ImageVector
 import moe.tlaster.icons.vuesax.VuesaxIcons
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Aaveaave
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Android
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Ankrankr
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Apple
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Augurrep
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Autonioniox
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Avalancheavax
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Be
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Bitcoinbtc
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Blogger
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Bootstrap
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Cardanoada
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Celocelo
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Chainlinklink
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Civiccvc
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Daidai
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Dashdash
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Decreddcr
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Dentdent
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Dribbble
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Dropbox
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Educareekt
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Emercoinemc
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Eoseos
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Ethereumeth
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Facebook
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Figma
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Figma1
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Frame
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Frame1
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Frame2
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Frame3
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Frame4
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Framer
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Google
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Google1
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Googleplay
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Harmonyone
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Hexhex
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Html3
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Html5
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Iconicx
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Illustrator
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Iostiost
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Javascript
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Js
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Litecoinltc
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Makermkr
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Messenger
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Nebulasnas
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Nemxem
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Okbokb
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Ontologyont
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Paypal
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Photoshop
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Polkadotdot
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Polygonmatic
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Polyswarmnct
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Python
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Quantqnt
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Siacoinsc
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Slack
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Snapchat
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Solanasol
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Spotify
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Stacksstx
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Tenxpay
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Tetherusdt
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Thetatheta
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Thorchainrune
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Trello
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Triangle
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Trontrontrx
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Twitch
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Ui8
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Velasvlx
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Vibevibe
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Vuesax
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Wanchainwan
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Whatsapp
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Windows
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Wingwing
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Xd
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Xiaomi
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Xrpxrp
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Youtube
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Zelzel
 import moe.tlaster.icons.vuesax.vuesaxicons.bulk.Zoom
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Aave-(aave)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Ankr-(ankr)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Augur-(rep)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Autonio-(niox)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Avalanche-(avax)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Binance-coin-(bnb)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Binance-usd-(busd)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Bitcoin-(btc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Cardano-(ada)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Celo-(celo)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Celsius-(cel)-`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Chainlink-(link)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Civic-(cvc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Dai-(dai)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Dash-(dash)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Decred-(dcr)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Dent-(dent)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Educare-(ekt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Emercoin-(emc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Enjin-coin-(enj)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Eos-(eos)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Ethereum-(eth)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Ethereum-classic-(etc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Figma-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Frame-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Frame-2`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Frame-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Frame-4`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Ftx-token-(ftt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Google-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Google-play`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Harmony-(one)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Hedera-hashgraph-(hbar)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Hex-(hex)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Html-3`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Html-5`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Huobi-token-(ht)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Icon-(icx)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Iost-(iost)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Java-script`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Kyber-network-(knc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Litecoin(ltc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Maker-(mkr)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Nebulas-(nas)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Nem-(xem)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Ocean-protocol-(ocean)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Okb-(okb)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Ontology-(ont)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Polkadot-(dot)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Polygon-(matic)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Polyswarm-(nct)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Quant-(qnt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Siacoin-(sc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Solana-(sol)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Stacks-(stx)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Tenx-(pay)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Tether-(usdt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`The-graph-(grt)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Theta-(theta)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Thorchain-(rune)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Trontron-(trx)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Usd-coin-(usdc)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Velas-(vlx)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Vibe-(vibe)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Wanchain-(wan)-1`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Wanchain-(wan)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Wing-(wing)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Xrp-(xrp)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Zel-(zel)`
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Binancecoin-bnb`
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Binanceusd-busd`
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Celsiuscel-`
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Enjincoin-enj`
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Ethereumclassic-etc`
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Ftxtoken-ftt`
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Hederahashgraph-hbar`
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Huobitoken-ht`
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Kybernetwork-knc`
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Oceanprotocol-ocean`
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Thegraph-grt`
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Usdcoin-usdc`
+import moe.tlaster.icons.vuesax.vuesaxicons.bulk.`Wanchainwan-1`
 import kotlin.collections.List as ____KtList
 
 public object BulkGroup
@@ -117,22 +117,18 @@ public val BulkGroup.Default: ____KtList<ImageVector>
     if (__Default != null) {
       return __Default!!
     }
-    __Default= listOf(`Aave-(aave)`, Android, `Ankr-(ankr)`, Apple, `Augur-(rep)`, `Autonio-(niox)`,
-        `Avalanche-(avax)`, Be, `Binance-coin-(bnb)`, `Binance-usd-(busd)`, `Bitcoin-(btc)`,
-        Blogger, Bootstrap, `Cardano-(ada)`, `Celo-(celo)`, `Celsius-(cel)-`, `Chainlink-(link)`,
-        `Civic-(cvc)`, `Dai-(dai)`, `Dash-(dash)`, `Decred-(dcr)`, `Dent-(dent)`, Dribbble, Dropbox,
-        `Educare-(ekt)`, `Emercoin-(emc)`, `Enjin-coin-(enj)`, `Eos-(eos)`, `Ethereum-(eth)`,
-        `Ethereum-classic-(etc)`, Facebook, `Figma-1`, Figma, `Frame-1`, `Frame-2`, `Frame-3`,
-        `Frame-4`, Frame, Framer, `Ftx-token-(ftt)`, `Google-1`, `Google-play`, Google,
-        `Harmony-(one)`, `Hedera-hashgraph-(hbar)`, `Hex-(hex)`, `Html-3`, `Html-5`,
-        `Huobi-token-(ht)`, `Icon-(icx)`, Illustrator, `Iost-(iost)`, `Java-script`, Js,
-        `Kyber-network-(knc)`, `Litecoin(ltc)`, `Maker-(mkr)`, Messenger, `Nebulas-(nas)`,
-        `Nem-(xem)`, `Ocean-protocol-(ocean)`, `Okb-(okb)`, `Ontology-(ont)`, Paypal, Photoshop,
-        `Polkadot-(dot)`, `Polygon-(matic)`, `Polyswarm-(nct)`, Python, `Quant-(qnt)`,
-        `Siacoin-(sc)`, Slack, Snapchat, `Solana-(sol)`, Spotify, `Stacks-(stx)`, `Tenx-(pay)`,
-        `Tether-(usdt)`, `The-graph-(grt)`, `Theta-(theta)`, `Thorchain-(rune)`, Trello, Triangle,
-        `Trontron-(trx)`, Twitch, Ui8, `Usd-coin-(usdc)`, `Velas-(vlx)`, `Vibe-(vibe)`, Vuesax,
-        `Wanchain-(wan)-1`, `Wanchain-(wan)`, Whatsapp, Windows, `Wing-(wing)`, Xd, Xiaomi,
-        `Xrp-(xrp)`, Youtube, `Zel-(zel)`, Zoom)
+    __Default= listOf(Aaveaave, Android, Ankrankr, Apple, Augurrep, Autonioniox, Avalancheavax, Be,
+        `Binancecoin-bnb`, `Binanceusd-busd`, Bitcoinbtc, Blogger, Bootstrap, Cardanoada, Celocelo,
+        `Celsiuscel-`, Chainlinklink, Civiccvc, Daidai, Dashdash, Decreddcr, Dentdent, Dribbble,
+        Dropbox, Educareekt, Emercoinemc, `Enjincoin-enj`, Eoseos, `Ethereumclassic-etc`,
+        Ethereumeth, Facebook, Figma, Figma1, Frame, Frame1, Frame2, Frame3, Frame4, Framer,
+        `Ftxtoken-ftt`, Google, Google1, Googleplay, Harmonyone, `Hederahashgraph-hbar`, Hexhex,
+        Html3, Html5, `Huobitoken-ht`, Iconicx, Illustrator, Iostiost, Javascript, Js,
+        `Kybernetwork-knc`, Litecoinltc, Makermkr, Messenger, Nebulasnas, Nemxem,
+        `Oceanprotocol-ocean`, Okbokb, Ontologyont, Paypal, Photoshop, Polkadotdot, Polygonmatic,
+        Polyswarmnct, Python, Quantqnt, Siacoinsc, Slack, Snapchat, Solanasol, Spotify, Stacksstx,
+        Tenxpay, Tetherusdt, `Thegraph-grt`, Thetatheta, Thorchainrune, Trello, Triangle,
+        Trontrontrx, Twitch, Ui8, `Usdcoin-usdc`, Velasvlx, Vibevibe, Vuesax, `Wanchainwan-1`,
+        Wanchainwan, Whatsapp, Windows, Wingwing, Xd, Xiaomi, Xrpxrp, Youtube, Zelzel, Zoom)
     return __Default!!
   }
