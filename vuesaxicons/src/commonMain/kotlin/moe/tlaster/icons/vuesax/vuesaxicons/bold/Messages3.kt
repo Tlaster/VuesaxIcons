@@ -58,7 +58,6 @@ public val BoldGroup.Messages3: ImageVector
                 verticalLineTo(15.1f)
                 curveTo(17.09f, 15.38f, 17.31f, 15.6f, 17.59f, 15.6f)
                 horizontalLineTo(17.75f)
-                verticalLineTo(15.6f)
                 close()
             }
         }

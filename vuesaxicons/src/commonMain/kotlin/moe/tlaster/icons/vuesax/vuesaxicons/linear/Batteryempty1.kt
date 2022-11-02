@@ -42,6 +42,12 @@ public val LinearGroup.Batteryempty1: ImageVector
                 verticalLineTo(13.0f)
                 curveTo(22.0f, 14.0f, 22.0f, 14.5f, 20.5f, 14.5f)
             }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
+                    strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(6.38f, 10.0f)
+                curveTo(6.71f, 11.31f, 6.71f, 12.69f, 6.38f, 14.0f)
+            }
         }
         .build()
         return _batteryempty1!!

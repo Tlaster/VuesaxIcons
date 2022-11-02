@@ -24,7 +24,7 @@ public val BoldGroup.Stopcircle: ImageVector
                 moveTo(11.9688f, 2.0f)
                 curveTo(6.4488f, 2.0f, 1.9688f, 6.48f, 1.9688f, 12.0f)
                 curveTo(1.9688f, 17.52f, 6.4488f, 22.0f, 11.9688f, 22.0f)
-                curveTo(17.4887f, 22.0f, 21.9688f, 17.52f, 21.9688f, 12.0f)
+                curveTo(17.4888f, 22.0f, 21.9688f, 17.52f, 21.9688f, 12.0f)
                 curveTo(21.9688f, 6.48f, 17.4988f, 2.0f, 11.9688f, 2.0f)
                 close()
                 moveTo(16.2287f, 13.23f)

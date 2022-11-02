@@ -58,7 +58,7 @@ public val BoldGroup.Documentfilter: ImageVector
                 lineTo(8.12f, 14.42f)
                 curveTo(7.66f, 14.71f, 7.15f, 14.85f, 6.64f, 14.85f)
                 curveTo(6.18f, 14.85f, 5.72f, 14.73f, 5.3f, 14.5f)
-                curveTo(4.7825f, 14.2134f, 4.3918f, 13.781f, 4.1531f, 13.2735f)
+                curveTo(4.7825f, 14.2134f, 4.3918f, 13.781f, 4.1531f, 13.2736f)
                 curveTo(4.0311f, 13.0143f, 4.0f, 12.7245f, 4.0f, 12.438f)
                 verticalLineTo(10.21f)
                 curveTo(4.0f, 10.08f, 3.95f, 9.95f, 3.85f, 9.86f)

@@ -24,32 +24,32 @@ public val BoldGroup.Searchfavorite: ImageVector
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(21.3005f, 21.9986f)
-                curveTo(21.1205f, 21.9986f, 20.9405f, 21.9286f, 20.8105f, 21.7986f)
-                lineTo(18.9505f, 19.9386f)
-                curveTo(18.6805f, 19.6686f, 18.6805f, 19.2286f, 18.9505f, 18.9486f)
-                curveTo(19.2205f, 18.6786f, 19.6605f, 18.6786f, 19.9405f, 18.9486f)
-                lineTo(21.8005f, 20.8086f)
-                curveTo(22.0705f, 21.0786f, 22.0705f, 21.5186f, 21.8005f, 21.7986f)
-                curveTo(21.6605f, 21.9286f, 21.4805f, 21.9986f, 21.3005f, 21.9986f)
+                moveTo(11.0002f, 1.9883f)
+                curveTo(6.0302f, 1.9883f, 1.9902f, 6.0283f, 1.9902f, 10.9983f)
+                curveTo(1.9902f, 15.9683f, 6.0302f, 20.0083f, 11.0002f, 20.0083f)
+                curveTo(15.9702f, 20.0083f, 20.0102f, 15.9683f, 20.0102f, 10.9983f)
+                curveTo(20.0102f, 6.0283f, 15.9702f, 1.9883f, 11.0002f, 1.9883f)
+                close()
+                moveTo(14.1802f, 11.5583f)
+                curveTo(13.6202f, 13.3383f, 11.6702f, 14.3083f, 11.0002f, 14.3083f)
+                curveTo(10.3102f, 14.3083f, 8.4002f, 13.3783f, 7.8202f, 11.5583f)
+                curveTo(7.4402f, 10.3683f, 7.8702f, 8.8183f, 9.2302f, 8.3883f)
+                curveTo(9.8502f, 8.1883f, 10.5102f, 8.3083f, 11.0002f, 8.6783f)
+                curveTo(11.4802f, 8.3083f, 12.1502f, 8.1883f, 12.7802f, 8.3883f)
+                curveTo(14.1302f, 8.8283f, 14.5602f, 10.3783f, 14.1802f, 11.5583f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(11.5f, 2.0f)
-                curveTo(6.26f, 2.0f, 2.0f, 6.26f, 2.0f, 11.5f)
-                curveTo(2.0f, 16.74f, 6.26f, 21.0f, 11.5f, 21.0f)
-                curveTo(16.74f, 21.0f, 21.0f, 16.74f, 21.0f, 11.5f)
-                curveTo(21.0f, 6.26f, 16.74f, 2.0f, 11.5f, 2.0f)
-                close()
-                moveTo(14.68f, 12.06f)
-                curveTo(14.12f, 13.84f, 12.17f, 14.81f, 11.5f, 14.81f)
-                curveTo(10.81f, 14.81f, 8.9f, 13.88f, 8.32f, 12.06f)
-                curveTo(7.94f, 10.87f, 8.37f, 9.32f, 9.73f, 8.89f)
-                curveTo(10.35f, 8.69f, 11.01f, 8.81f, 11.5f, 9.18f)
-                curveTo(11.98f, 8.81f, 12.65f, 8.69f, 13.28f, 8.89f)
-                curveTo(14.63f, 9.33f, 15.06f, 10.88f, 14.68f, 12.06f)
+                moveTo(21.9901f, 18.95f)
+                curveTo(21.6601f, 18.34f, 20.9601f, 18.0f, 20.0201f, 18.0f)
+                curveTo(19.3101f, 18.0f, 18.7001f, 18.29f, 18.3401f, 18.79f)
+                curveTo(17.9801f, 19.29f, 17.9001f, 19.96f, 18.1201f, 20.63f)
+                curveTo(18.5501f, 21.93f, 19.3001f, 22.22f, 19.7101f, 22.27f)
+                curveTo(19.7701f, 22.28f, 19.8301f, 22.28f, 19.9001f, 22.28f)
+                curveTo(20.3401f, 22.28f, 21.0201f, 22.09f, 21.6801f, 21.1f)
+                curveTo(22.2101f, 20.33f, 22.3101f, 19.56f, 21.9901f, 18.95f)
                 close()
             }
         }

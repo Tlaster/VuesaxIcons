@@ -1,8 +1,10 @@
 package moe.tlaster.icons.vuesax.vuesaxicons.linear
 
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType
 import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
 import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.graphics.StrokeCap.Companion.Round
 import androidx.compose.ui.graphics.StrokeJoin
 import androidx.compose.ui.graphics.vector.ImageVector
@@ -21,10 +23,25 @@ public val LinearGroup.Arrowleft2: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(15.0f, 19.9201f)
-                lineTo(8.48f, 13.4001f)
-                curveTo(7.71f, 12.6301f, 7.71f, 11.3701f, 8.48f, 10.6001f)
-                lineTo(15.0f, 4.0801f)
+                moveTo(12.0f, 22.0f)
+                curveTo(17.5228f, 22.0f, 22.0f, 17.5228f, 22.0f, 12.0f)
+                curveTo(22.0f, 6.4771f, 17.5228f, 2.0f, 12.0f, 2.0f)
+                curveTo(6.4771f, 2.0f, 2.0f, 6.4771f, 2.0f, 12.0f)
+                curveTo(2.0f, 17.5228f, 6.4771f, 22.0f, 12.0f, 22.0f)
+                close()
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
+                    strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(15.5f, 12.0f)
+                horizontalLineTo(9.5f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
+                    strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(11.5f, 9.0f)
+                lineTo(8.5f, 12.0f)
+                lineTo(11.5f, 15.0f)
             }
         }
         .build()

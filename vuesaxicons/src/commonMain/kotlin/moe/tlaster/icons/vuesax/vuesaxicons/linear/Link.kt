@@ -23,18 +23,24 @@ public val LinearGroup.Link: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(13.5f, 12.0f)
-                curveTo(13.5f, 15.18f, 10.93f, 17.75f, 7.75f, 17.75f)
-                curveTo(4.57f, 17.75f, 2.0f, 15.18f, 2.0f, 12.0f)
-                curveTo(2.0f, 8.82f, 4.57f, 6.25f, 7.75f, 6.25f)
+                moveTo(3.27f, 12.0f)
+                curveTo(2.48f, 11.05f, 2.0f, 9.83f, 2.0f, 8.5f)
+                curveTo(2.0f, 5.48f, 4.47f, 3.0f, 7.5f, 3.0f)
+                horizontalLineTo(12.5f)
+                curveTo(15.52f, 3.0f, 18.0f, 5.48f, 18.0f, 8.5f)
+                curveTo(18.0f, 11.52f, 15.53f, 14.0f, 12.5f, 14.0f)
+                horizontalLineTo(10.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(10.0f, 12.0f)
-                curveTo(10.0f, 8.69f, 12.69f, 6.0f, 16.0f, 6.0f)
-                curveTo(19.31f, 6.0f, 22.0f, 8.69f, 22.0f, 12.0f)
-                curveTo(22.0f, 15.31f, 19.31f, 18.0f, 16.0f, 18.0f)
+                moveTo(20.73f, 12.0f)
+                curveTo(21.52f, 12.95f, 22.0f, 14.17f, 22.0f, 15.5f)
+                curveTo(22.0f, 18.52f, 19.53f, 21.0f, 16.5f, 21.0f)
+                horizontalLineTo(11.5f)
+                curveTo(8.48f, 21.0f, 6.0f, 18.52f, 6.0f, 15.5f)
+                curveTo(6.0f, 12.48f, 8.47f, 10.0f, 11.5f, 10.0f)
+                horizontalLineTo(14.0f)
             }
         }
         .build()

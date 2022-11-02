@@ -24,37 +24,27 @@ public val BoldGroup.Frame: ImageVector
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(8.02f, 4.6211f)
-                horizontalLineTo(6.98f)
-                curveTo(5.39f, 4.6211f, 4.75f, 5.2211f, 4.75f, 6.7411f)
-                verticalLineTo(18.6211f)
-                horizontalLineTo(10.25f)
-                verticalLineTo(6.7411f)
-                curveTo(10.24f, 5.2211f, 9.6f, 4.6211f, 8.02f, 4.6211f)
+                moveTo(12.0f, 2.0f)
+                curveTo(9.38f, 2.0f, 7.25f, 4.13f, 7.25f, 6.75f)
+                curveTo(7.25f, 9.32f, 9.26f, 11.4f, 11.88f, 11.49f)
+                curveTo(11.96f, 11.48f, 12.04f, 11.48f, 12.1f, 11.49f)
+                curveTo(12.12f, 11.49f, 12.13f, 11.49f, 12.15f, 11.49f)
+                curveTo(12.16f, 11.49f, 12.16f, 11.49f, 12.17f, 11.49f)
+                curveTo(14.73f, 11.4f, 16.74f, 9.32f, 16.75f, 6.75f)
+                curveTo(16.75f, 4.13f, 14.62f, 2.0f, 12.0f, 2.0f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(16.52f, 9.6211f)
-                horizontalLineTo(15.48f)
-                curveTo(13.89f, 9.6211f, 13.25f, 10.2311f, 13.25f, 11.7411f)
-                verticalLineTo(18.6211f)
-                horizontalLineTo(18.75f)
-                verticalLineTo(11.7411f)
-                curveTo(18.75f, 10.2311f, 18.1f, 9.6211f, 16.52f, 9.6211f)
-                close()
-            }
-            path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
-                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
-                    pathFillType = NonZero) {
-                moveTo(2.75f, 17.8789f)
-                horizontalLineTo(21.25f)
-                curveTo(21.66f, 17.8789f, 22.0f, 18.2189f, 22.0f, 18.6289f)
-                curveTo(22.0f, 19.0389f, 21.66f, 19.3789f, 21.25f, 19.3789f)
-                horizontalLineTo(2.75f)
-                curveTo(2.34f, 19.3789f, 2.0f, 19.0389f, 2.0f, 18.6189f)
-                curveTo(2.0f, 18.1989f, 2.34f, 17.8789f, 2.75f, 17.8789f)
+                moveTo(17.0809f, 14.1489f)
+                curveTo(14.2909f, 12.2889f, 9.7409f, 12.2889f, 6.9309f, 14.1489f)
+                curveTo(5.6609f, 14.9989f, 4.9609f, 16.1489f, 4.9609f, 17.3789f)
+                curveTo(4.9609f, 18.6089f, 5.6609f, 19.7489f, 6.9209f, 20.5889f)
+                curveTo(8.3209f, 21.5289f, 10.1609f, 21.9989f, 12.0009f, 21.9989f)
+                curveTo(13.8409f, 21.9989f, 15.6809f, 21.5289f, 17.0809f, 20.5889f)
+                curveTo(18.3409f, 19.7389f, 19.0409f, 18.5989f, 19.0409f, 17.3589f)
+                curveTo(19.0309f, 16.1289f, 18.3409f, 14.9889f, 17.0809f, 14.1489f)
                 close()
             }
         }

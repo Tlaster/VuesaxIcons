@@ -26,8 +26,8 @@ public val BoldGroup.Sidebarleft: ImageVector
                     pathFillType = NonZero) {
                 moveTo(2.0f, 7.8113f)
                 verticalLineTo(16.1913f)
-                curveTo(2.0f, 17.6813f, 2.36f, 18.9213f, 3.05f, 19.8713f)
-                curveTo(3.34f, 20.2913f, 3.71f, 20.6613f, 4.13f, 20.9513f)
+                curveTo(2.0f, 17.6813f, 2.36f, 18.9212f, 3.05f, 19.8713f)
+                curveTo(3.34f, 20.2913f, 3.71f, 20.6612f, 4.13f, 20.9513f)
                 curveTo(4.95f, 21.5513f, 5.99f, 21.9012f, 7.22f, 21.9812f)
                 verticalLineTo(2.0313f)
                 curveTo(3.94f, 2.2413f, 2.0f, 4.3713f, 2.0f, 7.8113f)

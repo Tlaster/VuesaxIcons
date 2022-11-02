@@ -55,7 +55,6 @@ public val BoldGroup.Folderconnection: ImageVector
                 curveTo(13.66f, 19.76f, 13.24f, 19.34f, 12.72f, 19.14f)
                 curveTo(12.73f, 19.09f, 12.75f, 19.05f, 12.75f, 19.0f)
                 verticalLineTo(16.0f)
-                verticalLineTo(16.0f)
                 close()
             }
         }

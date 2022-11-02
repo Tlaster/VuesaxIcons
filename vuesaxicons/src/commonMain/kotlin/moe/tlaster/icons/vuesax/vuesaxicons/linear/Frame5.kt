@@ -23,27 +23,28 @@ public val LinearGroup.Frame5: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(16.44f, 8.8999f)
-                curveTo(20.04f, 9.2099f, 21.51f, 11.0599f, 21.51f, 15.1099f)
-                verticalLineTo(15.2399f)
-                curveTo(21.51f, 19.7099f, 19.72f, 21.4999f, 15.25f, 21.4999f)
-                horizontalLineTo(8.74f)
-                curveTo(4.27f, 21.4999f, 2.48f, 19.7099f, 2.48f, 15.2399f)
-                verticalLineTo(15.1099f)
-                curveTo(2.48f, 11.0899f, 3.93f, 9.2399f, 7.47f, 8.9099f)
+                moveTo(19.26f, 18.9f)
+                verticalLineTo(7.1f)
+                curveTo(19.26f, 5.6f, 18.62f, 5.0f, 17.03f, 5.0f)
+                horizontalLineTo(15.99f)
+                curveTo(14.4f, 5.0f, 13.76f, 5.6f, 13.76f, 7.1f)
+                verticalLineTo(18.9f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 2.0f)
-                verticalLineTo(14.88f)
+                moveTo(5.26f, 18.9f)
+                verticalLineTo(12.1f)
+                curveTo(5.26f, 10.6f, 5.9f, 10.0f, 7.49f, 10.0f)
+                horizontalLineTo(8.53f)
+                curveTo(10.12f, 10.0f, 10.76f, 10.6f, 10.76f, 12.1f)
+                verticalLineTo(18.9f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(15.35f, 12.6499f)
-                lineTo(12.0f, 15.9999f)
-                lineTo(8.65f, 12.6499f)
+                moveTo(2.0f, 19.0f)
+                horizontalLineTo(22.0f)
             }
         }
         .build()

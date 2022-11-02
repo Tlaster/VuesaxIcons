@@ -4,6 +4,7 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import moe.tlaster.icons.vuesax.vuesaxicons.Bold
 import moe.tlaster.icons.vuesax.vuesaxicons.Broken
 import moe.tlaster.icons.vuesax.vuesaxicons.Bulk
+import moe.tlaster.icons.vuesax.vuesaxicons.Crypto
 import moe.tlaster.icons.vuesax.vuesaxicons.Default
 import moe.tlaster.icons.vuesax.vuesaxicons.Linear
 import moe.tlaster.icons.vuesax.vuesaxicons.Outline
@@ -19,7 +20,7 @@ public val VuesaxIcons.Default: ____KtList<ImageVector>
     if (__Default != null) {
       return __Default!!
     }
-    __Default= Bold.Default + Broken.Default + Bulk.Default + Linear.Default + Outline.Default +
-        Twotone.Default + listOf()
+    __Default= Bold.Default + Broken.Default + Bulk.Default + Crypto.Default + Linear.Default +
+        Outline.Default + Twotone.Default + listOf()
     return __Default!!
   }

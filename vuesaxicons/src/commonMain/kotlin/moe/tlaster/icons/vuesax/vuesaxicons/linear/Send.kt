@@ -23,22 +23,21 @@ public val LinearGroup.Send: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(9.51f, 4.23f)
-                lineTo(18.07f, 8.51f)
-                curveTo(21.91f, 10.43f, 21.91f, 13.57f, 18.07f, 15.49f)
-                lineTo(9.51f, 19.77f)
-                curveTo(3.75f, 22.65f, 1.4f, 20.29f, 4.28f, 14.54f)
-                lineTo(5.15f, 12.81f)
-                curveTo(5.37f, 12.37f, 5.37f, 11.64f, 5.15f, 11.2f)
-                lineTo(4.28f, 9.46f)
-                curveTo(1.4f, 3.71f, 3.76f, 1.35f, 9.51f, 4.23f)
-                close()
+                moveTo(3.5f, 22.0f)
+                horizontalLineTo(20.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(5.44f, 12.0f)
-                horizontalLineTo(10.84f)
+                moveTo(5.0f, 3.5f)
+                lineTo(19.0f, 17.5f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
+                    strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(5.0f, 13.77f)
+                verticalLineTo(3.5f)
+                horizontalLineTo(15.27f)
             }
         }
         .build()

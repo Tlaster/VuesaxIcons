@@ -54,7 +54,7 @@ public val BoldGroup.Trash: ImageVector
                 lineTo(5.0497f, 19.34f)
                 curveTo(5.1597f, 20.86f, 5.2997f, 22.76f, 8.7898f, 22.76f)
                 horizontalLineTo(15.2097f)
-                curveTo(18.6997f, 22.76f, 18.8397f, 20.87f, 18.9497f, 19.34f)
+                curveTo(18.6997f, 22.76f, 18.8398f, 20.87f, 18.9497f, 19.34f)
                 lineTo(19.5697f, 9.09f)
                 curveTo(19.5897f, 8.73f, 19.4597f, 8.39f, 19.2297f, 8.14f)
                 close()

@@ -1,10 +1,8 @@
 package moe.tlaster.icons.vuesax.vuesaxicons.linear
 
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.PathFillType
 import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
 import androidx.compose.ui.graphics.SolidColor
-import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.graphics.StrokeCap.Companion.Round
 import androidx.compose.ui.graphics.StrokeJoin
 import androidx.compose.ui.graphics.vector.ImageVector
@@ -23,24 +21,16 @@ public val LinearGroup.Timer: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(20.75f, 13.25f)
-                curveTo(20.75f, 18.08f, 16.83f, 22.0f, 12.0f, 22.0f)
-                curveTo(7.17f, 22.0f, 3.25f, 18.08f, 3.25f, 13.25f)
-                curveTo(3.25f, 8.42f, 7.17f, 4.5f, 12.0f, 4.5f)
-                curveTo(16.83f, 4.5f, 20.75f, 8.42f, 20.75f, 13.25f)
+                moveTo(15.24f, 2.0f)
+                horizontalLineTo(8.76f)
+                curveTo(5.0f, 2.0f, 4.71f, 5.38f, 6.74f, 7.22f)
+                lineTo(17.26f, 16.78f)
+                curveTo(19.29f, 18.62f, 19.0f, 22.0f, 15.24f, 22.0f)
+                horizontalLineTo(8.76f)
+                curveTo(5.0f, 22.0f, 4.71f, 18.62f, 6.74f, 16.78f)
+                lineTo(17.26f, 7.22f)
+                curveTo(19.29f, 5.38f, 19.0f, 2.0f, 15.24f, 2.0f)
                 close()
-            }
-            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
-                    strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
-                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 8.0f)
-                verticalLineTo(13.0f)
-            }
-            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
-                    strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
-                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(9.0f, 2.0f)
-                horizontalLineTo(15.0f)
             }
         }
         .build()

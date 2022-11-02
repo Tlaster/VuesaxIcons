@@ -53,7 +53,7 @@ public val BoldGroup.Locationslash: ImageVector
                 curveTo(8.8486f, 8.57f, 10.2586f, 7.16f, 11.9986f, 7.16f)
                 curveTo(13.3086f, 7.16f, 14.4286f, 7.96f, 14.9086f, 9.1f)
                 lineTo(18.8886f, 5.12f)
-                curveTo(17.1186f, 2.98f, 14.4386f, 2.0f, 11.9986f, 2.0f)
+                curveTo(17.1186f, 2.98f, 14.4387f, 2.0f, 11.9986f, 2.0f)
                 curveTo(10.2286f, 2.0f, 8.3386f, 2.52f, 6.7586f, 3.61f)
                 curveTo(5.1786f, 4.71f, 3.8986f, 6.38f, 3.3786f, 8.69f)
                 curveTo(2.5387f, 12.36f, 3.8986f, 15.64f, 5.7887f, 18.21f)

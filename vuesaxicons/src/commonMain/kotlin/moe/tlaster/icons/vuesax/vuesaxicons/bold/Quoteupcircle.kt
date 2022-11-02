@@ -55,7 +55,6 @@ public val BoldGroup.Quoteupcircle: ImageVector
                 horizontalLineTo(15.81f)
                 curveTo(16.88f, 7.22f, 17.75f, 8.09f, 17.75f, 9.16f)
                 verticalLineTo(11.84f)
-                verticalLineTo(11.84f)
                 close()
             }
         }

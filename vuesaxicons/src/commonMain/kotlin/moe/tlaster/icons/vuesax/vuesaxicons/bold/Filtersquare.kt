@@ -64,7 +64,6 @@ public val BoldGroup.Filtersquare: ImageVector
                 horizontalLineTo(15.45f)
                 curveTo(16.03f, 6.81f, 16.5f, 7.28f, 16.5f, 7.86f)
                 verticalLineTo(9.02f)
-                verticalLineTo(9.02f)
                 close()
             }
         }

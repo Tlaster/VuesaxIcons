@@ -37,7 +37,6 @@ public val BoldGroup.Devicemessage: ImageVector
                 verticalLineTo(5.25f)
                 verticalLineTo(5.0f)
                 curveTo(7.5f, 4.4477f, 7.0523f, 4.0f, 6.5f, 4.0f)
-                verticalLineTo(4.0f)
                 curveTo(3.8f, 4.0f, 2.0f, 5.35f, 2.0f, 8.5f)
                 verticalLineTo(13.9f)
                 curveTo(2.0f, 17.05f, 3.8f, 18.4f, 6.5f, 18.4f)

@@ -1,10 +1,8 @@
 package moe.tlaster.icons.vuesax.vuesaxicons.linear
 
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.PathFillType
 import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
 import androidx.compose.ui.graphics.SolidColor
-import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.graphics.StrokeCap.Companion.Round
 import androidx.compose.ui.graphics.StrokeJoin
 import androidx.compose.ui.graphics.vector.ImageVector
@@ -23,34 +21,22 @@ public val LinearGroup.Crown: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(16.7f, 18.98f)
-                horizontalLineTo(7.3f)
-                curveTo(6.88f, 18.98f, 6.41f, 18.65f, 6.27f, 18.25f)
-                lineTo(2.13f, 6.67f)
-                curveTo(1.54f, 5.01f, 2.23f, 4.5f, 3.65f, 5.52f)
-                lineTo(7.55f, 8.31f)
-                curveTo(8.2f, 8.76f, 8.94f, 8.53f, 9.22f, 7.8f)
-                lineTo(10.98f, 3.11f)
-                curveTo(11.54f, 1.61f, 12.47f, 1.61f, 13.03f, 3.11f)
-                lineTo(14.79f, 7.8f)
-                curveTo(15.07f, 8.53f, 15.81f, 8.76f, 16.45f, 8.31f)
-                lineTo(20.11f, 5.7f)
-                curveTo(21.67f, 4.58f, 22.42f, 5.15f, 21.78f, 6.96f)
-                lineTo(17.74f, 18.27f)
-                curveTo(17.59f, 18.65f, 17.12f, 18.98f, 16.7f, 18.98f)
+                moveTo(2.0f, 15.29f)
+                verticalLineTo(5.71f)
+                curveTo(2.0f, 4.38f, 2.77f, 4.06f, 3.71f, 5.0f)
+                lineTo(6.3f, 7.59f)
+                curveTo(6.69f, 7.98f, 7.33f, 7.98f, 7.71f, 7.59f)
+                lineTo(11.29f, 4.0f)
+                curveTo(11.68f, 3.61f, 12.32f, 3.61f, 12.7f, 4.0f)
+                lineTo(16.29f, 7.59f)
+                curveTo(16.68f, 7.98f, 17.32f, 7.98f, 17.7f, 7.59f)
+                lineTo(20.29f, 5.0f)
+                curveTo(21.23f, 4.06f, 22.0f, 4.38f, 22.0f, 5.71f)
+                verticalLineTo(15.3f)
+                curveTo(22.0f, 18.3f, 20.0f, 20.3f, 17.0f, 20.3f)
+                horizontalLineTo(7.0f)
+                curveTo(4.24f, 20.29f, 2.0f, 18.05f, 2.0f, 15.29f)
                 close()
-            }
-            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
-                    strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
-                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(6.5f, 22.0f)
-                horizontalLineTo(17.5f)
-            }
-            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
-                    strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
-                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(9.5f, 14.0f)
-                horizontalLineTo(14.5f)
             }
         }
         .build()

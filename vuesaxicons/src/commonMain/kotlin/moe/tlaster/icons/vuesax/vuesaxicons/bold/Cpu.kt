@@ -95,7 +95,6 @@ public val BoldGroup.Cpu: ImageVector
                 horizontalLineTo(14.26f)
                 curveTo(15.91f, 6.74f, 17.26f, 8.09f, 17.26f, 9.74f)
                 verticalLineTo(14.26f)
-                verticalLineTo(14.26f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,

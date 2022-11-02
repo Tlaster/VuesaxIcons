@@ -26,7 +26,7 @@ public val BoldGroup.Shop: ImageVector
                     pathFillType = NonZero) {
                 moveTo(22.3596f, 8.27f)
                 lineTo(22.0696f, 5.5f)
-                curveTo(21.6496f, 2.48f, 20.2797f, 1.25f, 17.3497f, 1.25f)
+                curveTo(21.6496f, 2.48f, 20.2796f, 1.25f, 17.3497f, 1.25f)
                 horizontalLineTo(14.9896f)
                 horizontalLineTo(13.5097f)
                 horizontalLineTo(10.4697f)
@@ -38,10 +38,10 @@ public val BoldGroup.Shop: ImageVector
                 curveTo(3.1697f, 12.19f, 4.3397f, 12.75f, 5.6396f, 12.75f)
                 curveTo(6.8997f, 12.75f, 8.1096f, 12.12f, 8.8696f, 11.11f)
                 curveTo(9.5497f, 12.12f, 10.7097f, 12.75f, 11.9997f, 12.75f)
-                curveTo(13.2896f, 12.75f, 14.4196f, 12.15f, 15.1096f, 11.15f)
-                curveTo(15.8796f, 12.14f, 17.0696f, 12.75f, 18.3096f, 12.75f)
+                curveTo(13.2896f, 12.75f, 14.4197f, 12.15f, 15.1096f, 11.15f)
+                curveTo(15.8797f, 12.14f, 17.0696f, 12.75f, 18.3096f, 12.75f)
                 curveTo(19.6396f, 12.75f, 20.8396f, 12.16f, 21.5896f, 11.12f)
-                curveTo(22.1896f, 10.32f, 22.4596f, 9.31f, 22.3596f, 8.27f)
+                curveTo(22.1896f, 10.32f, 22.4597f, 9.31f, 22.3596f, 8.27f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,

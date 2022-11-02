@@ -23,24 +23,23 @@ public val LinearGroup.Rotateright1: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(14.89f, 5.0799f)
-                curveTo(14.02f, 4.8199f, 13.06f, 4.6499f, 12.0f, 4.6499f)
-                curveTo(7.21f, 4.6499f, 3.33f, 8.5299f, 3.33f, 13.3199f)
-                curveTo(3.33f, 18.1199f, 7.21f, 21.9999f, 12.0f, 21.9999f)
-                curveTo(16.79f, 21.9999f, 20.67f, 18.1199f, 20.67f, 13.3299f)
-                curveTo(20.67f, 11.5499f, 20.13f, 9.8899f, 19.21f, 8.5099f)
+                moveTo(16.75f, 22.0f)
+                horizontalLineTo(12.25f)
+                curveTo(8.5f, 22.0f, 7.0f, 20.5f, 7.0f, 16.75f)
+                verticalLineTo(12.25f)
+                curveTo(7.0f, 8.5f, 8.5f, 7.0f, 12.25f, 7.0f)
+                horizontalLineTo(16.75f)
+                curveTo(20.5f, 7.0f, 22.0f, 8.5f, 22.0f, 12.25f)
+                verticalLineTo(16.75f)
+                curveTo(22.0f, 20.5f, 20.5f, 22.0f, 16.75f, 22.0f)
+                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(16.13f, 5.32f)
-                lineTo(13.24f, 2.0f)
-            }
-            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
-                    strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
-                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(16.13f, 5.3201f)
-                lineTo(12.76f, 7.7801f)
+                moveTo(2.0f, 9.0f)
+                curveTo(2.0f, 5.13f, 5.13f, 2.0f, 9.0f, 2.0f)
+                lineTo(7.95f, 3.75f)
             }
         }
         .build()

@@ -78,7 +78,6 @@ public val BoldGroup.Homehashtag: ImageVector
                 horizontalLineTo(13.39f)
                 curveTo(15.31f, 8.5117f, 16.88f, 10.0716f, 16.88f, 12.0016f)
                 verticalLineTo(14.7916f)
-                verticalLineTo(14.7916f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,

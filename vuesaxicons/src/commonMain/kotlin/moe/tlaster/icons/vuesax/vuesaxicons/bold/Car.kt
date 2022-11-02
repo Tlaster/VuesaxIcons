@@ -58,7 +58,7 @@ public val BoldGroup.Car: ImageVector
                 lineTo(15.9516f, 21.21f)
                 curveTo(16.1516f, 21.82f, 16.4616f, 22.75f, 18.0816f, 22.75f)
                 horizontalLineTo(19.9615f)
-                curveTo(20.7515f, 22.75f, 21.5116f, 22.42f, 22.0416f, 21.84f)
+                curveTo(20.7516f, 22.75f, 21.5116f, 22.42f, 22.0416f, 21.84f)
                 curveTo(22.5616f, 21.27f, 22.8116f, 20.51f, 22.7416f, 19.75f)
                 lineTo(22.1816f, 13.66f)
                 close()

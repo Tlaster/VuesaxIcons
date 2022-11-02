@@ -58,7 +58,6 @@ public val BoldGroup.Lockslash: ImageVector
                 curveTo(15.4011f, 3.4f, 16.4711f, 4.7f, 16.7711f, 6.15f)
                 lineTo(13.4811f, 9.44f)
                 horizontalLineTo(7.3511f)
-                verticalLineTo(9.44f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,

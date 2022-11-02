@@ -94,7 +94,6 @@ public val BoldGroup.Convertcard: ImageVector
                 verticalLineTo(17.8086f)
                 curveTo(12.0f, 17.5286f, 11.78f, 17.3086f, 11.5f, 17.3086f)
                 horizontalLineTo(2.5f)
-                verticalLineTo(17.3086f)
                 close()
             }
         }

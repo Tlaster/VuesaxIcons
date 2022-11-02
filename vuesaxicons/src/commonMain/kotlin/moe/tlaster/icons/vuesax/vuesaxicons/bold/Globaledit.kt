@@ -41,6 +41,7 @@ public val BoldGroup.Globaledit: ImageVector
                     pathFillType = NonZero) {
                 moveTo(18.1406f, 15.2617f)
                 curveTo(18.4906f, 16.5217f, 19.4806f, 17.5017f, 20.7406f, 17.8617f)
+                lineTo(18.1406f, 15.2617f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,

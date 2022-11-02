@@ -47,7 +47,6 @@ public val BoldGroup.Cardslash: ImageVector
                 verticalLineTo(11.45f)
                 curveTo(2.0f, 10.79f, 2.54f, 10.25f, 3.2f, 10.25f)
                 horizontalLineTo(12.67f)
-                verticalLineTo(10.25f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,

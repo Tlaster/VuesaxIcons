@@ -24,39 +24,39 @@ public val BoldGroup.Slidervertical: ImageVector
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(18.9405f, 3.5f)
-                horizontalLineTo(5.0606f)
-                curveTo(4.6505f, 3.5f, 4.3106f, 3.16f, 4.3106f, 2.75f)
-                curveTo(4.3106f, 2.34f, 4.6505f, 2.0f, 5.0606f, 2.0f)
-                horizontalLineTo(18.9405f)
-                curveTo(19.3505f, 2.0f, 19.6905f, 2.34f, 19.6905f, 2.75f)
-                curveTo(19.6905f, 3.16f, 19.3505f, 3.5f, 18.9405f, 3.5f)
+                moveTo(22.0f, 15.0f)
+                verticalLineTo(9.0f)
+                curveTo(22.0f, 7.34f, 20.66f, 6.0f, 19.0f, 6.0f)
+                horizontalLineTo(5.0f)
+                curveTo(3.34f, 6.0f, 2.0f, 7.34f, 2.0f, 9.0f)
+                verticalLineTo(15.0f)
+                curveTo(2.0f, 16.66f, 3.34f, 18.0f, 5.0f, 18.0f)
+                horizontalLineTo(19.0f)
+                curveTo(20.66f, 18.0f, 22.0f, 16.66f, 22.0f, 15.0f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(18.9405f, 22.0f)
-                horizontalLineTo(5.0606f)
-                curveTo(4.6505f, 22.0f, 4.3106f, 21.66f, 4.3106f, 21.25f)
-                curveTo(4.3106f, 20.84f, 4.6505f, 20.5f, 5.0606f, 20.5f)
-                horizontalLineTo(18.9405f)
-                curveTo(19.3505f, 20.5f, 19.6905f, 20.84f, 19.6905f, 21.25f)
-                curveTo(19.6905f, 21.66f, 19.3505f, 22.0f, 18.9405f, 22.0f)
+                moveTo(5.9292f, 19.5f)
+                horizontalLineTo(18.0692f)
+                curveTo(18.3892f, 19.5f, 18.6192f, 19.79f, 18.5592f, 20.1f)
+                curveTo(18.2892f, 21.58f, 17.4192f, 22.0f, 15.3292f, 22.0f)
+                horizontalLineTo(8.6692f)
+                curveTo(6.5692f, 22.0f, 5.7092f, 21.58f, 5.4392f, 20.1f)
+                curveTo(5.3792f, 19.79f, 5.6092f, 19.5f, 5.9292f, 19.5f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(2.75f, 8.0f)
-                verticalLineTo(16.0f)
-                curveTo(2.75f, 17.66f, 4.09f, 19.0f, 5.75f, 19.0f)
-                horizontalLineTo(18.25f)
-                curveTo(19.91f, 19.0f, 21.25f, 17.66f, 21.25f, 16.0f)
-                verticalLineTo(8.0f)
-                curveTo(21.25f, 6.34f, 19.91f, 5.0f, 18.25f, 5.0f)
-                horizontalLineTo(5.75f)
-                curveTo(4.09f, 5.0f, 2.75f, 6.34f, 2.75f, 8.0f)
+                moveTo(8.6692f, 2.0f)
+                horizontalLineTo(15.3292f)
+                curveTo(17.4292f, 2.0f, 18.2892f, 2.42f, 18.5592f, 3.9f)
+                curveTo(18.6192f, 4.21f, 18.3792f, 4.5f, 18.0692f, 4.5f)
+                horizontalLineTo(5.9292f)
+                curveTo(5.6092f, 4.5f, 5.3792f, 4.21f, 5.4392f, 3.9f)
+                curveTo(5.7092f, 2.42f, 6.5692f, 2.0f, 8.6692f, 2.0f)
                 close()
             }
         }

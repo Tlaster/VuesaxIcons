@@ -59,7 +59,6 @@ public val BoldGroup.Quotedownsquare: ImageVector
                 horizontalLineTo(15.81f)
                 curveTo(16.9f, 11.43f, 17.75f, 12.28f, 17.75f, 13.37f)
                 verticalLineTo(14.84f)
-                verticalLineTo(14.84f)
                 close()
             }
         }

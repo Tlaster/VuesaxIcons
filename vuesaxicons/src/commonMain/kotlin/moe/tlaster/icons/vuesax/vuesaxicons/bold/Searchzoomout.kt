@@ -24,32 +24,32 @@ public val BoldGroup.Searchzoomout: ImageVector
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(21.3005f, 21.9986f)
-                curveTo(21.1205f, 21.9986f, 20.9405f, 21.9286f, 20.8105f, 21.7986f)
-                lineTo(18.9505f, 19.9386f)
-                curveTo(18.6805f, 19.6686f, 18.6805f, 19.2286f, 18.9505f, 18.9486f)
-                curveTo(19.2205f, 18.6786f, 19.6605f, 18.6786f, 19.9405f, 18.9486f)
-                lineTo(21.8005f, 20.8086f)
-                curveTo(22.0705f, 21.0786f, 22.0705f, 21.5186f, 21.8005f, 21.7986f)
-                curveTo(21.6605f, 21.9286f, 21.4805f, 21.9986f, 21.3005f, 21.9986f)
+                moveTo(11.01f, 2.0f)
+                curveTo(6.04f, 2.0f, 2.0f, 6.04f, 2.0f, 11.01f)
+                curveTo(2.0f, 15.98f, 6.04f, 20.02f, 11.01f, 20.02f)
+                curveTo(15.98f, 20.02f, 20.02f, 15.98f, 20.02f, 11.01f)
+                curveTo(20.02f, 6.04f, 15.98f, 2.0f, 11.01f, 2.0f)
+                close()
+                moveTo(13.5f, 11.75f)
+                horizontalLineTo(8.5f)
+                curveTo(8.09f, 11.75f, 7.75f, 11.41f, 7.75f, 11.0f)
+                curveTo(7.75f, 10.59f, 8.09f, 10.25f, 8.5f, 10.25f)
+                horizontalLineTo(13.5f)
+                curveTo(13.91f, 10.25f, 14.25f, 10.59f, 14.25f, 11.0f)
+                curveTo(14.25f, 11.41f, 13.91f, 11.75f, 13.5f, 11.75f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(11.5f, 2.0f)
-                curveTo(6.26f, 2.0f, 2.0f, 6.26f, 2.0f, 11.5f)
-                curveTo(2.0f, 16.74f, 6.26f, 21.0f, 11.5f, 21.0f)
-                curveTo(16.74f, 21.0f, 21.0f, 16.74f, 21.0f, 11.5f)
-                curveTo(21.0f, 6.26f, 16.74f, 2.0f, 11.5f, 2.0f)
-                close()
-                moveTo(14.0f, 12.45f)
-                horizontalLineTo(9.0f)
-                curveTo(8.59f, 12.45f, 8.25f, 12.11f, 8.25f, 11.7f)
-                curveTo(8.25f, 11.29f, 8.59f, 10.95f, 9.0f, 10.95f)
-                horizontalLineTo(14.0f)
-                curveTo(14.41f, 10.95f, 14.75f, 11.29f, 14.75f, 11.7f)
-                curveTo(14.75f, 12.11f, 14.41f, 12.45f, 14.0f, 12.45f)
+                moveTo(21.9901f, 18.95f)
+                curveTo(21.6601f, 18.34f, 20.9601f, 18.0f, 20.0201f, 18.0f)
+                curveTo(19.3101f, 18.0f, 18.7001f, 18.29f, 18.3401f, 18.79f)
+                curveTo(17.9801f, 19.29f, 17.9001f, 19.96f, 18.1201f, 20.63f)
+                curveTo(18.5501f, 21.93f, 19.3001f, 22.22f, 19.7101f, 22.27f)
+                curveTo(19.7701f, 22.28f, 19.8301f, 22.28f, 19.9001f, 22.28f)
+                curveTo(20.3401f, 22.28f, 21.0201f, 22.09f, 21.6801f, 21.1f)
+                curveTo(22.2101f, 20.33f, 22.3101f, 19.56f, 21.9901f, 18.95f)
                 close()
             }
         }

@@ -58,17 +58,13 @@ public val BoldGroup.Backwarditem: ImageVector
                 curveTo(16.6291f, 15.9011f, 15.8991f, 16.6311f, 13.6191f, 16.6311f)
                 horizontalLineTo(12.2291f)
                 curveTo(11.964f, 16.6311f, 11.7491f, 16.4162f, 11.7491f, 16.1511f)
-                verticalLineTo(16.1511f)
                 curveTo(11.7491f, 13.4911f, 10.5091f, 12.2511f, 7.8491f, 12.2511f)
-                verticalLineTo(12.2511f)
                 curveTo(7.584f, 12.2511f, 7.3691f, 12.0362f, 7.3691f, 11.7711f)
                 verticalLineTo(10.3811f)
                 curveTo(7.3691f, 8.1011f, 8.0991f, 7.3711f, 10.3791f, 7.3711f)
                 horizontalLineTo(11.7691f)
                 curveTo(12.0342f, 7.3711f, 12.2491f, 7.586f, 12.2491f, 7.8511f)
-                verticalLineTo(7.8511f)
                 curveTo(12.2491f, 10.5111f, 13.4891f, 11.7511f, 16.1491f, 11.7511f)
-                verticalLineTo(11.7511f)
                 close()
             }
         }

@@ -23,30 +23,27 @@ public val LinearGroup.Searchfavorite1: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(20.0f, 11.0f)
-                curveTo(20.0f, 15.97f, 15.97f, 20.0f, 11.0f, 20.0f)
-                curveTo(6.03f, 20.0f, 2.0f, 15.97f, 2.0f, 11.0f)
-                curveTo(2.0f, 6.03f, 6.03f, 2.0f, 11.0f, 2.0f)
+                moveTo(21.0f, 11.5f)
+                curveTo(21.0f, 16.75f, 16.75f, 21.0f, 11.5f, 21.0f)
+                curveTo(6.25f, 21.0f, 2.0f, 16.75f, 2.0f, 11.5f)
+                curveTo(2.0f, 6.25f, 6.25f, 2.0f, 11.5f, 2.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(13.4999f, 6.13f)
-                curveTo(13.1499f, 5.03f, 13.5599f, 3.66f, 14.7199f, 3.29f)
-                curveTo(15.3299f, 3.09f, 16.0799f, 3.26f, 16.5099f, 3.85f)
-                curveTo(16.9099f, 3.24f, 17.6899f, 3.1f, 18.2899f, 3.29f)
-                curveTo(19.4499f, 3.66f, 19.8599f, 5.03f, 19.5099f, 6.13f)
-                curveTo(18.9599f, 7.88f, 17.0399f, 8.79f, 16.5099f, 8.79f)
-                curveTo(15.9699f, 8.79f, 14.0699f, 7.9f, 13.4999f, 6.13f)
-                close()
+                moveTo(22.0f, 22.0f)
+                lineTo(20.0f, 20.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(18.9299f, 20.6898f)
-                curveTo(19.4599f, 22.2898f, 20.6699f, 22.4498f, 21.5999f, 21.0498f)
-                curveTo(22.4499f, 19.7698f, 21.8899f, 18.7198f, 20.3499f, 18.7198f)
-                curveTo(19.2099f, 18.7098f, 18.5699f, 19.5998f, 18.9299f, 20.6898f)
+                moveTo(14.4999f, 6.13f)
+                curveTo(14.1499f, 5.03f, 14.5599f, 3.66f, 15.7199f, 3.29f)
+                curveTo(16.3299f, 3.09f, 17.0799f, 3.26f, 17.5099f, 3.85f)
+                curveTo(17.9099f, 3.24f, 18.6899f, 3.1f, 19.2899f, 3.29f)
+                curveTo(20.4499f, 3.66f, 20.8599f, 5.03f, 20.5099f, 6.13f)
+                curveTo(19.9599f, 7.88f, 18.0399f, 8.79f, 17.5099f, 8.79f)
+                curveTo(16.9699f, 8.79f, 15.0699f, 7.9f, 14.4999f, 6.13f)
                 close()
             }
         }

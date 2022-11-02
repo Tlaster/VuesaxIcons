@@ -36,7 +36,7 @@ public val BoldGroup.Cloudadd: ImageVector
                 close()
                 moveTo(14.07f, 16.1013f)
                 lineTo(11.94f, 18.0712f)
-                curveTo(11.8f, 18.2012f, 11.61f, 18.2713f, 11.43f, 18.2713f)
+                curveTo(11.8f, 18.2013f, 11.61f, 18.2713f, 11.43f, 18.2713f)
                 curveTo(11.24f, 18.2713f, 11.05f, 18.2012f, 10.9f, 18.0512f)
                 lineTo(9.91f, 17.0612f)
                 curveTo(9.62f, 16.7712f, 9.62f, 16.2913f, 9.91f, 16.0013f)

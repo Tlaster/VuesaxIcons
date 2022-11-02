@@ -126,7 +126,6 @@ public val BoldGroup.Cpucharge: ImageVector
                 horizontalLineTo(14.26f)
                 curveTo(15.91f, 6.74f, 17.26f, 8.09f, 17.26f, 9.74f)
                 verticalLineTo(14.26f)
-                verticalLineTo(14.26f)
                 close()
             }
         }

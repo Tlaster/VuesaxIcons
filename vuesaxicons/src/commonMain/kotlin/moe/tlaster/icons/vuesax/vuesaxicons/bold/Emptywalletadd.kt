@@ -19,8 +19,8 @@ public val BoldGroup.Emptywalletadd: ImageVector
         if (_emptywalletadd != null) {
             return _emptywalletadd!!
         }
-        _emptywalletadd = Builder(name = "Emptywalletadd", defaultWidth = 24.0.dp, defaultHeight =
-                24.0.dp, viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
+        _emptywalletadd = Builder(name = "Emptywalletadd", defaultWidth = 25.0.dp, defaultHeight =
+                24.0.dp, viewportWidth = 25.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
@@ -40,7 +40,7 @@ public val BoldGroup.Emptywalletadd: ImageVector
                 lineTo(6.2351f, 19.2355f)
                 lineTo(6.242f, 19.9307f)
                 curveTo(6.2351f, 20.3368f, 5.9116f, 20.6602f, 5.5056f, 20.6671f)
-                curveTo(5.0995f, 20.6602f, 4.776f, 20.3368f, 4.7691f, 19.9307f)
+                curveTo(5.0995f, 20.6602f, 4.776f, 20.3367f, 4.7691f, 19.9307f)
                 lineTo(4.776f, 19.2355f)
                 lineTo(4.0533f, 19.2424f)
                 curveTo(3.6472f, 19.2355f, 3.3238f, 18.912f, 3.3169f, 18.506f)

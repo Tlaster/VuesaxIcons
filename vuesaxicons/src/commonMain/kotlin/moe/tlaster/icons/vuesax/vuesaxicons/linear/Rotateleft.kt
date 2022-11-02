@@ -23,23 +23,24 @@ public val LinearGroup.Rotateleft: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(7.25f, 22.0f)
-                horizontalLineTo(11.75f)
-                curveTo(15.5f, 22.0f, 17.0f, 20.5f, 17.0f, 16.75f)
-                verticalLineTo(12.25f)
-                curveTo(17.0f, 8.5f, 15.5f, 7.0f, 11.75f, 7.0f)
-                horizontalLineTo(7.25f)
-                curveTo(3.5f, 7.0f, 2.0f, 8.5f, 2.0f, 12.25f)
-                verticalLineTo(16.75f)
-                curveTo(2.0f, 20.5f, 3.5f, 22.0f, 7.25f, 22.0f)
-                close()
+                moveTo(9.1101f, 5.0799f)
+                curveTo(9.9801f, 4.8199f, 10.9401f, 4.6499f, 12.0001f, 4.6499f)
+                curveTo(16.7901f, 4.6499f, 20.6701f, 8.5299f, 20.6701f, 13.3199f)
+                curveTo(20.6701f, 18.1099f, 16.7901f, 21.9899f, 12.0001f, 21.9899f)
+                curveTo(7.2101f, 21.9899f, 3.3301f, 18.1099f, 3.3301f, 13.3199f)
+                curveTo(3.3301f, 11.5399f, 3.8701f, 9.8799f, 4.7901f, 8.4999f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(22.0f, 9.0f)
-                curveTo(22.0f, 5.13f, 18.87f, 2.0f, 15.0f, 2.0f)
-                lineTo(16.05f, 3.75f)
+                moveTo(7.8701f, 5.32f)
+                lineTo(10.7601f, 2.0f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
+                    strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(7.8701f, 5.3201f)
+                lineTo(11.2401f, 7.7801f)
             }
         }
         .build()

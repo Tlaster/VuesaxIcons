@@ -98,14 +98,12 @@ public val BoldGroup.Brifecasetimer: ImageVector
                 curveTo(3.7816f, 22.0011f, 2.9616f, 19.9611f, 2.7616f, 17.9711f)
                 lineTo(2.4157f, 14.2678f)
                 curveTo(2.3888f, 13.9802f, 2.6964f, 13.786f, 2.9516f, 13.9211f)
-                verticalLineTo(13.9211f)
                 curveTo(3.7316f, 14.3511f, 4.5416f, 14.7311f, 5.3716f, 15.0311f)
                 curveTo(5.6816f, 15.1411f, 5.9016f, 15.4011f, 5.9916f, 15.7211f)
                 curveTo(6.7416f, 18.3211f, 9.1616f, 20.2511f, 12.0016f, 20.2511f)
                 curveTo(14.8916f, 20.2511f, 17.3316f, 18.2811f, 18.0416f, 15.5811f)
                 curveTo(18.1216f, 15.2611f, 18.3416f, 15.0011f, 18.6516f, 14.8811f)
                 curveTo(19.4916f, 14.5511f, 20.2916f, 14.1611f, 21.0416f, 13.7311f)
-                verticalLineTo(13.7311f)
                 close()
             }
         }

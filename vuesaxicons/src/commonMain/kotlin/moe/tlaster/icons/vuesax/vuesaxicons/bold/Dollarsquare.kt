@@ -30,7 +30,6 @@ public val BoldGroup.Dollarsquare: ImageVector
                 curveTo(9.7319f, 10.4081f, 9.4219f, 10.2381f, 9.4219f, 9.3681f)
                 curveTo(9.4219f, 8.6581f, 9.9519f, 8.0781f, 10.6019f, 8.0781f)
                 horizontalLineTo(11.2519f)
-                verticalLineTo(8.0781f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,

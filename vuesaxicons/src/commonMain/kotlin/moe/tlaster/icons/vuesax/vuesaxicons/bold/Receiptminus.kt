@@ -73,7 +73,7 @@ public val BoldGroup.Receiptminus: ImageVector
                 verticalLineTo(6.0f)
                 curveTo(22.0f, 4.9f, 21.55f, 3.9f, 20.83f, 3.17f)
                 curveTo(20.1f, 2.45f, 19.11f, 2.01f, 18.01f, 2.0f)
-                curveTo(18.01f, 2.0f, 18.02f, 2.0f, 18.01f, 2.0f)
+                curveTo(18.02f, 2.0f, 18.01f, 2.0f, 18.01f, 2.0f)
                 close()
             }
         }

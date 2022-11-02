@@ -2,7 +2,6 @@ package moe.tlaster.icons.vuesax.vuesaxicons
 
 import androidx.compose.ui.graphics.vector.ImageVector
 import moe.tlaster.icons.vuesax.VuesaxIcons
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Aave
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Activity
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Add
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Addcircle
@@ -19,9 +18,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Alignhorizontally
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Alignleft
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Alignright
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Alignvertically
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Android
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ankr
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Apple
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Aquarius
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Archive
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Archive1
@@ -68,10 +64,7 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Arrowup3
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Attachcircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Attachsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Audiosquare
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Augur
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Autobrightness
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Autonio
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Avalanche
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Award
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Backsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Backward
@@ -89,23 +82,19 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bagtick2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bagtimer
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bank
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Barcode
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Battery3full
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Batterycharging
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Batterydisable
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Batteryempty
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Batteryempty1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Batteryfull
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Be
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bezier
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bill
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Binancecoin
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Binanceusd
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bitcoin
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bitcoincard
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bitcoinconvert
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bitcoinrefresh
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Blend
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Blend2
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Blogger
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bluetooth
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bluetooth2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bluetoothcircle
@@ -117,7 +106,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bookmark
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bookmark2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Booksaved
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Booksquare
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Bootsrap
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Box
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Box1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Box2
@@ -175,7 +163,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Candle2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Car
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Card
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardadd
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardano
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardcoin
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardedit
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardpos
@@ -190,9 +177,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cardtick1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Category
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Category2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cd
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Celo
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Celsius
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chainlink
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chart
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chart1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chart2
@@ -203,7 +187,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chartsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chartsuccess
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Check
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Chrome
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Civic
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Clipboard
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Clipboardclose
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Clipboardexport
@@ -258,13 +241,9 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Crop
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Crown
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Crown1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Cup
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dai
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Danger
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Data
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Data2
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Decred
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dent
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Designtools
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Devicemessage
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Devices
@@ -308,23 +287,19 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documenttext1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Documentupload
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dollarcircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dollarsquare
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dribbble
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Driver
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Driver2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Driverrefresh
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Driving
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Drop
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Dropbox
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Edit
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Edit2
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Educare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Electricity
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Element2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Element3
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Element4
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Elementequal
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Elementplus
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Emercoin
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Emojihappy
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Emojinormal
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Emojisad
@@ -334,12 +309,8 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Emptywalletchange
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Emptywalletremove
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Emptywallettick
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Emptywallettime
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Enjincoin
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Eos
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Eraser
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Eraser1
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ethereum
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ethereumclassic
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Export
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Export1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Export2
@@ -347,11 +318,8 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Export3
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Externaldrive
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Eye
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Eyeslash
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Facebook
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Fatrows
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Favoritechart
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Figma
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Figma1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Filter
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Filteradd
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Filteredit
@@ -362,7 +330,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Filtertick
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Fingercricle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Fingerscan
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Firstline
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Firstline1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Flag
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Flag2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Flash
@@ -394,8 +361,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Frame1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Frame2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Frame3
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Frame4
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Framer
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ftxtoken
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gallery
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Galleryadd
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Galleryedit
@@ -418,9 +383,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Global
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Globaledit
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Globalrefresh
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Globalsearch
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Google
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Google1
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Googleplay
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gps
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gpsslash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Grammerly
@@ -438,7 +400,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gridedit
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Grideraser
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Gridlock
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Happyemoji
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Harmony
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hashtag
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hashtag1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hashtagdown
@@ -454,8 +415,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Heartremove
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Heartsearch
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Heartslash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hearttick
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hederahashgraph
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hex
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hierarchy
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hierarchy2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hierarchy3
@@ -472,13 +431,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Homewifi
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Hospital
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.House
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.House2
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Html3
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Html5
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Huobitoken
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Icon
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Icon1
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Icon2
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Illustrator
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Image
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Import
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Import1
@@ -487,16 +439,12 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Import3
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Infocircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Information
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Instagram
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Iost
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Javascript
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Js
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Judge
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Kanban
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Key
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Keyboard
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Keyboardopen
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Keysquare
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Kybernetwork
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lamp
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lamp1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lampcharge
@@ -516,12 +464,8 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link21
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link212
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link3
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link4
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Linkcircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Linksquare
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Litecoin
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Location
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Locationadd
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Locationcross
@@ -540,7 +484,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Lovely
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Magicpen
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Magicstar
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maincomponent
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maker
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Man
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Map
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Map1
@@ -553,7 +496,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximize1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximize2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximize21
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximize3
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximize31
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximize4
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Maximizecircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Medal
@@ -583,7 +525,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messagetext
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messagetext1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messagetick
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messagetime
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Messenger
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Microphone
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Microphone2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Microphoneslash
@@ -598,7 +539,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mirror
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mirroringscreen
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mobile
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Mobileprogramming
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Monero
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Money
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Money2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Money3
@@ -636,9 +576,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Musicsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Musicsquareadd
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Musicsquareremove
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Musicsquaresearch
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Nebulas
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Nem
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Nexo
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Next
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Note
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Note1
@@ -654,23 +591,17 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Notification1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Notificationbing
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Notificationfavorite
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Notificationstatus
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Oceanprotocol
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Okb
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Omegacircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Omegasquare
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ontology
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Paintbucket
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Paperclip
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Paperclip1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Paperclip2
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Paperclip21
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Passwordcheck
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Path
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Path2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pathsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pause
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pausecircle
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Paypal
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Penadd
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Penclose
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Penremove
@@ -682,17 +613,12 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Percentagesquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Personalcard
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pet
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pharagraphspacing
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pharagraphspacing1
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Photoshop
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Pictureframe
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Play
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Playadd
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Playcircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Playcricle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Playremove
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Polkadot
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Polygon
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Polyswarm
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Presentionchart
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Previous
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Printer
@@ -705,8 +631,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Profileremove
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Profiletick
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Programmingarrow
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Programmingarrows
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Python
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Quant
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Quotedown
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Quotedowncircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Quotedownsquare
@@ -762,7 +686,7 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Routing2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Rowhorizontal
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Rowvertical
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ruler
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Rulerpen
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Rulerandpen
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Safehome
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sagittarius
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Save2
@@ -818,7 +742,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shoppingbag
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shoppingcart
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shopremove
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Shuffle
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Siacoin
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sidebarbottom
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sidebarleft
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sidebarright
@@ -828,7 +751,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Simcard
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Simcard1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Simcard2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Size
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Slack
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Slash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Slider
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sliderhorizontal
@@ -836,7 +758,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sliderhorizontal1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Slidervertical
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Slidervertical1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smallcaps
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smallcaps1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smartcar
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smarthome
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smileys
@@ -846,20 +767,15 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smsnotification
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smssearch
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smsstar
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Smstracking
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Snapchat
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Solana
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sort
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sound
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Speaker
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Speedometer
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Spotify
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Stacks
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Star
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Star1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Starslash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Status
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Statusup
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Stellar
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Sticker
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Stickynote
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Stop
@@ -879,33 +795,17 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Taguser
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Task
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tasksquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Teacher
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tenx
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tether
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Text
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Text1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textaligncenter
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textaligncenter1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignjustifycenter
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignjustifycenter1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignjustifyleft
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignjustifyleft1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignjustifyright
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignjustifyright1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignleft
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignleft1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignright
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textalignright1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textblock
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textblock1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textbold
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textbold1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textitalic
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textitalic1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textunderline
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Textunderline1
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Thegraph
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Theta
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Thorchain
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tickcircle
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ticket
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ticket2
@@ -926,24 +826,18 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Transactionminus
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Translate
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Tree
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trello
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trenddown
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trendup
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Triangle
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Triangle1
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trontron
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Truck
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Truckfast
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Truckremove
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trucktick
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trucktime
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Trushsquare
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Twitch
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Ui8
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Undo
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Unlimited
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Unlock
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Usdcoin
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.User
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Useradd
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Usercirlceadd
@@ -955,9 +849,7 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Usersearch
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Usersquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Usertag
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Usertick
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Velas
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Verify
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Vibe
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Video
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Videoadd
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Videocircle
@@ -979,7 +871,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Volumelow1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Volumemute
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Volumeslash
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Volumeup
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Vuesax
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wallet
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wallet1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wallet2
@@ -991,33 +882,21 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Walletminus
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Walletmoney
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Walletremove
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Walletsearch
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wanchain
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wanchain1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Warning2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Watch
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Watchstatus
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Weight
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Weight1
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Whatsapp
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wifi
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wifisquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wind
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wind2
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Windows
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Wing
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Woman
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Xd
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Xiaomi
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Xrp
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Youtube
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Zel
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.Zoom
 import moe.tlaster.icons.vuesax.vuesaxicons.bold._24support
 import moe.tlaster.icons.vuesax.vuesaxicons.bold._3dcube
 import moe.tlaster.icons.vuesax.vuesaxicons.bold._3dcubescan
 import moe.tlaster.icons.vuesax.vuesaxicons.bold._3drotate
 import moe.tlaster.icons.vuesax.vuesaxicons.bold._3dsquare
-import moe.tlaster.icons.vuesax.vuesaxicons.bold._3full
 import moe.tlaster.icons.vuesax.vuesaxicons.bold._3square
 import kotlin.collections.List as ____KtList
 
@@ -1033,135 +912,122 @@ public val BoldGroup.Default: ____KtList<ImageVector>
     if (__Default != null) {
       return __Default!!
     }
-    __Default= listOf(_24support, _3dcube, _3dcubescan, _3drotate, _3dsquare, _3full, _3square,
-        Aave, Activity, Add, Addcircle, Additem, Addsquare, Airdrop, Airplane, Airplanesquare,
-        Airpod, Airpods, Alarm, Alignbottom, Alignhorizontally, Alignleft, Alignright,
-        Alignvertically, Android, Ankr, Apple, Aquarius, Archive, Archive1, Archive2, Archiveadd,
-        Archivebook, Archiveminus, Archiveslash, Archivetick, Arrangecircle, Arrangecircle2,
-        Arrangesquare, Arrangesquare2, Arrow, Arrow2, Arrow3, Arrowbottom, Arrowcircledown,
-        Arrowcircleleft, Arrowcircleright, Arrowcircleup, Arrowdown, Arrowdown1, Arrowdown2,
-        Arrowleft, Arrowleft1, Arrowleft2, Arrowleft3, Arrowright, Arrowright1, Arrowright2,
-        Arrowright3, Arrowsquare, Arrowsquaredown, Arrowsquareleft, Arrowsquareright, Arrowsquareup,
-        Arrowswap, Arrowswaphorizontal, Arrowup, Arrowup1, Arrowup2, Arrowup3, Attachcircle,
-        Attachsquare, Audiosquare, Augur, Autobrightness, Autonio, Avalanche, Award, Backsquare,
-        Backward, Backward10seconds, Backward15seconds, Backward5seconds, Backwarditem, Bag, Bag2,
-        Bagcross, Bagcross1, Baghappy, Bagtick, Bagtick2, Bagtimer, Bank, Barcode, Batterycharging,
-        Batterydisable, Batteryempty, Batteryempty1, Batteryfull, Be, Bezier, Bill, Binancecoin,
-        Binanceusd, Bitcoin, Bitcoincard, Bitcoinconvert, Bitcoinrefresh, Blend, Blend2, Blogger,
+    __Default= listOf(_24support, _3dcube, _3dcubescan, _3drotate, _3dsquare, _3square, Activity,
+        Add, Addcircle, Additem, Addsquare, Airdrop, Airplane, Airplanesquare, Airpod, Airpods,
+        Alarm, Alignbottom, Alignhorizontally, Alignleft, Alignright, Alignvertically, Aquarius,
+        Archive, Archive1, Archive2, Archiveadd, Archivebook, Archiveminus, Archiveslash,
+        Archivetick, Arrangecircle, Arrangecircle2, Arrangesquare, Arrangesquare2, Arrow, Arrow2,
+        Arrow3, Arrowbottom, Arrowcircledown, Arrowcircleleft, Arrowcircleright, Arrowcircleup,
+        Arrowdown, Arrowdown1, Arrowdown2, Arrowleft, Arrowleft1, Arrowleft2, Arrowleft3,
+        Arrowright, Arrowright1, Arrowright2, Arrowright3, Arrowsquare, Arrowsquaredown,
+        Arrowsquareleft, Arrowsquareright, Arrowsquareup, Arrowswap, Arrowswaphorizontal, Arrowup,
+        Arrowup1, Arrowup2, Arrowup3, Attachcircle, Attachsquare, Audiosquare, Autobrightness,
+        Award, Backsquare, Backward, Backward10seconds, Backward15seconds, Backward5seconds,
+        Backwarditem, Bag, Bag2, Bagcross, Bagcross1, Baghappy, Bagtick, Bagtick2, Bagtimer, Bank,
+        Barcode, Battery3full, Batterycharging, Batterydisable, Batteryempty, Batteryempty1,
+        Batteryfull, Bezier, Bill, Bitcoincard, Bitcoinconvert, Bitcoinrefresh, Blend, Blend2,
         Bluetooth, Bluetooth2, Bluetoothcircle, Bluetoothrectangle, Blur, Book, Book1, Bookmark,
-        Bookmark2, Booksaved, Booksquare, Bootsrap, Box, Box1, Box2, Boxadd, Boxremove, Boxsearch,
-        Boxtick, Boxtime, Briefcase, Brifecasecross, Brifecasetick, Brifecasetimer, Broom, Brush,
-        Brush1, Brush2, Brush3, Brush4, Bubble, Bucket, Bucketcircle, Bucketsquare, Building,
-        Building3, Building4, Buildings, Buildings2, Buliding, Bus, Buycrypto, Cake, Calculator,
-        Calendar, Calendar1, Calendar2, Calendaradd, Calendarcircle, Calendaredit, Calendarremove,
+        Bookmark2, Booksaved, Booksquare, Box, Box1, Box2, Boxadd, Boxremove, Boxsearch, Boxtick,
+        Boxtime, Briefcase, Brifecasecross, Brifecasetick, Brifecasetimer, Broom, Brush, Brush1,
+        Brush2, Brush3, Brush4, Bubble, Bucket, Bucketcircle, Bucketsquare, Building, Building3,
+        Building4, Buildings, Buildings2, Buliding, Bus, Buycrypto, Cake, Calculator, Calendar,
+        Calendar1, Calendar2, Calendaradd, Calendarcircle, Calendaredit, Calendarremove,
         Calendarsearch, Calendartick, Call, Calladd, Callcalling, Callincoming, Callminus,
         Calloutgoing, Callreceived, Callremove, Callslash, Camera, Cameraslash, Candle, Candle2,
-        Car, Card, Cardadd, Cardano, Cardcoin, Cardedit, Cardpos, Cardreceive, Cardremove,
-        Cardremove1, Cards, Cardsend, Cardslash, Cardtick, Cardtick1, Category, Category2, Cd, Celo,
-        Celsius, Chainlink, Chart, Chart1, Chart2, Chart21, Chart3, Chartfail, Chartsquare,
-        Chartsuccess, Check, Chrome, Civic, Clipboard, Clipboardclose, Clipboardexport,
-        Clipboardimport, Clipboardtext, Clipboardtick, Clock, Clock1, Closecircle, Closesquare,
-        Cloud, Cloudadd, Cloudchange, Cloudconnection, Cloudcross, Clouddrizzle, Cloudfog,
-        Cloudlightning, Cloudminus, Cloudnotif, Cloudplus, Cloudremove, Cloudsnow, Cloudsunny, Code,
-        Code1, Codecircle, Coffee, Coin, Coin1, Colorfilter, Colorssquare, Colorswatch, Command,
-        Commandsquare, Component, Computing, Convert, Convert3dcube, Convertcard, Convertshape,
-        Convertshape2, Copy, Copyright, Copysuccess, Courthouse, Cpu, Cpucharge, Cpusetting,
-        Creativecommons, Crop, Crown, Crown1, Cup, Dai, Danger, Dash, Data, Data2, Decred, Dent,
-        Designtools, Devicemessage, Devices, Devices1, Diagram, Diamonds, Direct, Directboxdefault,
-        Directboxnotif, Directboxreceive, Directboxsend, Directdown, Directinbox, Directleft,
-        Directnormal, Directnotification, Directright, Directsend, Directup, Discountcircle,
-        Discountshape, Discover, Discover1, Dislike, Document, Document1, Documentcloud,
-        Documentcode, Documentcode2, Documentcopy, Documentdownload, Documentfavorite,
-        Documentfilter, Documentforward, Documentlike, Documentnormal, Documentprevious,
-        Documentsketch, Documenttext, Documenttext1, Documentupload, Dollarcircle, Dollarsquare,
-        Dribbble, Driver, Driver2, Driverrefresh, Driving, Drop, Dropbox, Edit, Edit2, Educare,
-        Electricity, Element2, Element3, Element4, Elementequal, Elementplus, Emercoin, Emojihappy,
-        Emojinormal, Emojisad, Emptywallet, Emptywalletadd, Emptywalletchange, Emptywalletremove,
-        Emptywallettick, Emptywallettime, Enjincoin, Eos, Eraser, Eraser1, Ethereum,
-        Ethereumclassic, Export, Export1, Export2, Export3, Externaldrive, Eye, Eyeslash, Facebook,
-        Fatrows, Favoritechart, Figma, Figma1, Filter, Filteradd, Filteredit, Filterremove,
-        Filtersearch, Filtersquare, Filtertick, Fingercricle, Fingerscan, Firstline, Firstline1,
-        Flag, Flag2, Flash, Flash1, Flashcircle, Flashcircle1, Flashslash, Folder, Folder2,
-        Folderadd, Foldercloud, Folderconnection, Foldercross, Folderfavorite, Folderminus,
-        Folderopen, Forbidden, Forbidden2, Formatcircle, Formatsquare, Forward, Forward10seconds,
-        Forward15seconds, Forward5seconds, Forwarditem, Forwardsquare, Frame, Frame1, Frame2,
-        Frame3, Frame4, Framer, Ftxtoken, Gallery, Galleryadd, Galleryedit, Galleryexport,
-        Galleryfavorite, Galleryimport, Galleryremove, Galleryslash, Gallerytick, Game, Gameboy,
-        Gasstation, Gemini, Gemini2, Ghost, Gift, Glass, Glass1, Global, Globaledit, Globalrefresh,
-        Globalsearch, Google, Google1, Googleplay, Gps, Gpsslash, Grammerly, Graph, Grid1, Grid2,
-        Grid3, Grid4, Grid5, Grid6, Grid7, Grid8, Grid9, Gridedit, Grideraser, Gridlock, Happyemoji,
-        Harmony, Hashtag, Hashtag1, Hashtagdown, Hashtagup, Headphone, Headphones, Health, Heart,
-        Heartadd, Heartcircle, Heartedit, Heartremove, Heartsearch, Heartslash, Hearttick,
-        Hederahashgraph, Hex, Hierarchy, Hierarchy2, Hierarchy3, Hierarchysquare, Hierarchysquare2,
+        Car, Card, Cardadd, Cardcoin, Cardedit, Cardpos, Cardreceive, Cardremove, Cardremove1,
+        Cards, Cardsend, Cardslash, Cardtick, Cardtick1, Category, Category2, Cd, Chart, Chart1,
+        Chart2, Chart21, Chart3, Chartfail, Chartsquare, Chartsuccess, Check, Chrome, Clipboard,
+        Clipboardclose, Clipboardexport, Clipboardimport, Clipboardtext, Clipboardtick, Clock,
+        Clock1, Closecircle, Closesquare, Cloud, Cloudadd, Cloudchange, Cloudconnection, Cloudcross,
+        Clouddrizzle, Cloudfog, Cloudlightning, Cloudminus, Cloudnotif, Cloudplus, Cloudremove,
+        Cloudsnow, Cloudsunny, Code, Code1, Codecircle, Coffee, Coin, Coin1, Colorfilter,
+        Colorssquare, Colorswatch, Command, Commandsquare, Component, Computing, Convert,
+        Convert3dcube, Convertcard, Convertshape, Convertshape2, Copy, Copyright, Copysuccess,
+        Courthouse, Cpu, Cpucharge, Cpusetting, Creativecommons, Crop, Crown, Crown1, Cup, Danger,
+        Data, Data2, Designtools, Devicemessage, Devices, Devices1, Diagram, Diamonds, Direct,
+        Directboxdefault, Directboxnotif, Directboxreceive, Directboxsend, Directdown, Directinbox,
+        Directleft, Directnormal, Directnotification, Directright, Directsend, Directup,
+        Discountcircle, Discountshape, Discover, Discover1, Dislike, Document, Document1,
+        Documentcloud, Documentcode, Documentcode2, Documentcopy, Documentdownload,
+        Documentfavorite, Documentfilter, Documentforward, Documentlike, Documentnormal,
+        Documentprevious, Documentsketch, Documenttext, Documenttext1, Documentupload, Dollarcircle,
+        Dollarsquare, Driver, Driver2, Driverrefresh, Driving, Drop, Edit, Edit2, Electricity,
+        Element2, Element3, Element4, Elementequal, Elementplus, Emojihappy, Emojinormal, Emojisad,
+        Emptywallet, Emptywalletadd, Emptywalletchange, Emptywalletremove, Emptywallettick,
+        Emptywallettime, Eraser, Eraser1, Export, Export1, Export2, Export3, Externaldrive, Eye,
+        Eyeslash, Fatrows, Favoritechart, Filter, Filteradd, Filteredit, Filterremove, Filtersearch,
+        Filtersquare, Filtertick, Fingercricle, Fingerscan, Firstline, Flag, Flag2, Flash, Flash1,
+        Flashcircle, Flashcircle1, Flashslash, Folder, Folder2, Folderadd, Foldercloud,
+        Folderconnection, Foldercross, Folderfavorite, Folderminus, Folderopen, Forbidden,
+        Forbidden2, Formatcircle, Formatsquare, Forward, Forward10seconds, Forward15seconds,
+        Forward5seconds, Forwarditem, Forwardsquare, Frame, Frame1, Frame2, Frame3, Frame4, Gallery,
+        Galleryadd, Galleryedit, Galleryexport, Galleryfavorite, Galleryimport, Galleryremove,
+        Galleryslash, Gallerytick, Game, Gameboy, Gasstation, Gemini, Gemini2, Ghost, Gift, Glass,
+        Glass1, Global, Globaledit, Globalrefresh, Globalsearch, Gps, Gpsslash, Grammerly, Graph,
+        Grid1, Grid2, Grid3, Grid4, Grid5, Grid6, Grid7, Grid8, Grid9, Gridedit, Grideraser,
+        Gridlock, Happyemoji, Hashtag, Hashtag1, Hashtagdown, Hashtagup, Headphone, Headphones,
+        Health, Heart, Heartadd, Heartcircle, Heartedit, Heartremove, Heartsearch, Heartslash,
+        Hearttick, Hierarchy, Hierarchy2, Hierarchy3, Hierarchysquare, Hierarchysquare2,
         Hierarchysquare3, Home, Home1, Home2, Homehashtag, Hometrenddown, Hometrendup, Homewifi,
-        Hospital, House, House2, Html3, Html5, Huobitoken, Icon, Icon1, Icon2, Illustrator, Image,
-        Import, Import1, Import2, Import3, Infocircle, Information, Instagram, Iost, Javascript, Js,
-        Judge, Kanban, Key, Keyboard, Keyboardopen, Keysquare, Kybernetwork, Lamp, Lamp1,
-        Lampcharge, Lampon, Lampslash, Languagecircle, Languagesquare, Layer, Level, Lifebuoy, Like,
-        Like1, Likedislike, Likeshapes, Liketag, Link, Link1, Link2, Link21, Link212, Link3, Link4,
-        Linkcircle, Linksquare, Litecoin, Location, Locationadd, Locationcross, Locationminus,
-        Locationslash, Locationtick, Lock, Lock1, Lockcircle, Lockslash, Login, Login1, Logout,
-        Logout1, Lovely, Magicpen, Magicstar, Maincomponent, Maker, Man, Map, Map1, Mask, Mask1,
-        Mask2, Math, Maximize, Maximize1, Maximize2, Maximize21, Maximize3, Maximize31, Maximize4,
-        Maximizecircle, Medal, Medalstar, Menu, Menu1, Menuboard, Message, Message2, Messageadd,
-        Messageadd1, Messagecircle, Messageedit, Messagefavorite, Messageminus, Messagenotif,
-        Messageprogramming, Messagequestion, Messageremove, Messages, Messages1, Messages2,
-        Messages3, Messagesearch, Messagesquare, Messagetext, Messagetext1, Messagetick,
-        Messagetime, Messenger, Microphone, Microphone2, Microphoneslash, Microphoneslash1,
+        Hospital, House, House2, Image, Import, Import1, Import2, Import3, Infocircle, Information,
+        Instagram, Judge, Kanban, Key, Keyboard, Keyboardopen, Keysquare, Lamp, Lamp1, Lampcharge,
+        Lampon, Lampslash, Languagecircle, Languagesquare, Layer, Level, Lifebuoy, Like, Like1,
+        Likedislike, Likeshapes, Liketag, Link, Link1, Link2, Link21, Linkcircle, Linksquare,
+        Location, Locationadd, Locationcross, Locationminus, Locationslash, Locationtick, Lock,
+        Lock1, Lockcircle, Lockslash, Login, Login1, Logout, Logout1, Lovely, Magicpen, Magicstar,
+        Maincomponent, Man, Map, Map1, Mask, Mask1, Mask2, Math, Maximize, Maximize1, Maximize2,
+        Maximize21, Maximize3, Maximize4, Maximizecircle, Medal, Medalstar, Menu, Menu1, Menuboard,
+        Message, Message2, Messageadd, Messageadd1, Messagecircle, Messageedit, Messagefavorite,
+        Messageminus, Messagenotif, Messageprogramming, Messagequestion, Messageremove, Messages,
+        Messages1, Messages2, Messages3, Messagesearch, Messagesquare, Messagetext, Messagetext1,
+        Messagetick, Messagetime, Microphone, Microphone2, Microphoneslash, Microphoneslash1,
         Microscope, Milk, Minimusicsqaure, Minus, Minuscirlce, Minussquare, Mirror, Mirroringscreen,
-        Mobile, Mobileprogramming, Monero, Money, Money2, Money3, Money4, Moneyadd, Moneychange,
+        Mobile, Mobileprogramming, Money, Money2, Money3, Money4, Moneyadd, Moneychange,
         Moneyforbidden, Moneyrecive, Moneyremove, Moneys, Moneysend, Moneytick, Moneytime, Monitor,
         Monitormobbile, Monitorrecorder, Moon, More, More2, Morecircle, Moresquare, Mouse, Mouse1,
         Mousecircle, Mousesquare, Music, Musiccircle, Musicdashboard, Musicfilter, Musiclibrary2,
         Musicnote, Musicplay, Musicplaylist, Musicsquare, Musicsquareadd, Musicsquareremove,
-        Musicsquaresearch, Nebulas, Nem, Nexo, Next, Note, Note1, Note2, Note21, Noteadd,
-        Notefavorite, Noteremove, Notesquare, Notetext, Notification, Notification1,
-        Notificationbing, Notificationfavorite, Notificationstatus, Oceanprotocol, Okb, Omegacircle,
-        Omegasquare, Ontology, Paintbucket, Paperclip, Paperclip1, Paperclip2, Paperclip21,
-        Passwordcheck, Path, Path2, Pathsquare, Pause, Pausecircle, Paypal, Penadd, Penclose,
-        Penremove, Pentool, Pentool2, People, Percentagecircle, Percentagesquare, Personalcard, Pet,
-        Pharagraphspacing, Pharagraphspacing1, Photoshop, Pictureframe, Play, Playadd, Playcircle,
-        Playcricle, Playremove, Polkadot, Polygon, Polyswarm, Presentionchart, Previous, Printer,
-        Printerslash, Profile2user, Profileadd, Profilecircle, Profiledelete, Profileremove,
-        Profiletick, Programmingarrow, Programmingarrows, Python, Quant, Quotedown, Quotedowncircle,
-        Quotedownsquare, Quoteup, Quoteupcircle, Quoteupsquare, Radar, Radar1, Radar2, Radio, Ram,
-        Ram2, Ranking, Ranking1, Receipt, Receipt1, Receipt2, Receipt21, Receiptadd,
-        Receiptdiscount, Receiptdisscount, Receiptedit, Receiptitem, Receiptminus, Receiptsearch,
-        Receiptsquare, Receipttext, Received, Receivesquare, Receivesquare2, Record, Recordcircle,
-        Recoveryconvert, Redo, Refresh, Refresh2, Refreshcircle, Refreshleftsquare,
+        Musicsquaresearch, Next, Note, Note1, Note2, Note21, Noteadd, Notefavorite, Noteremove,
+        Notesquare, Notetext, Notification, Notification1, Notificationbing, Notificationfavorite,
+        Notificationstatus, Omegacircle, Omegasquare, Paintbucket, Paperclip, Paperclip2,
+        Passwordcheck, Path, Path2, Pathsquare, Pause, Pausecircle, Penadd, Penclose, Penremove,
+        Pentool, Pentool2, People, Percentagecircle, Percentagesquare, Personalcard, Pet,
+        Pharagraphspacing, Pictureframe, Play, Playadd, Playcircle, Playcricle, Playremove,
+        Presentionchart, Previous, Printer, Printerslash, Profile2user, Profileadd, Profilecircle,
+        Profiledelete, Profileremove, Profiletick, Programmingarrow, Programmingarrows, Quotedown,
+        Quotedowncircle, Quotedownsquare, Quoteup, Quoteupcircle, Quoteupsquare, Radar, Radar1,
+        Radar2, Radio, Ram, Ram2, Ranking, Ranking1, Receipt, Receipt1, Receipt2, Receipt21,
+        Receiptadd, Receiptdiscount, Receiptdisscount, Receiptedit, Receiptitem, Receiptminus,
+        Receiptsearch, Receiptsquare, Receipttext, Received, Receivesquare, Receivesquare2, Record,
+        Recordcircle, Recoveryconvert, Redo, Refresh, Refresh2, Refreshcircle, Refreshleftsquare,
         Refreshrightsquare, Refreshsquare2, Repeat, Repeatcircle, Repeatemusic, Repeateone, Reserve,
         Rotateleft, Rotateleft1, Rotateright, Rotateright1, Routesquare, Routing, Routing2,
-        Rowhorizontal, Rowvertical, Ruler, Rulerpen, Safehome, Sagittarius, Save2, Saveadd,
+        Rowhorizontal, Rowvertical, Ruler, Rulerandpen, Safehome, Sagittarius, Save2, Saveadd,
         Saveminus, Saveremove, Scan, Scanbarcode, Scanner, Scanning, Scissor, Scissor1,
         Screenmirroring, Scroll, Searchfavorite, Searchfavorite1, Searchnormal, Searchnormal1,
         Searchstatus, Searchstatus1, Searchzoomin, Searchzoomin1, Searchzoomout, Searchzoomout1,
         Security, Securitycard, Securitysafe, Securitytime, Securityuser, Send, Send1, Send2,
         Sendsqaure2, Sendsquare, Setting, Setting2, Setting3, Setting4, Setting5, Settings, Shapes,
         Shapes1, Share, Shieldcross, Shieldsearch, Shieldsecurity, Shieldslash, Shieldtick, Ship,
-        Shop, Shopadd, Shoppingbag, Shoppingcart, Shopremove, Shuffle, Siacoin, Sidebarbottom,
-        Sidebarleft, Sidebarright, Sidebartop, Signpost, Simcard, Simcard1, Simcard2, Size, Slack,
-        Slash, Slider, Sliderhorizontal, Sliderhorizontal1, Slidervertical, Slidervertical1,
-        Smallcaps, Smallcaps1, Smartcar, Smarthome, Smileys, Sms, Smsedit, Smsnotification,
-        Smssearch, Smsstar, Smstracking, Snapchat, Solana, Sort, Sound, Speaker, Speedometer,
-        Spotify, Stacks, Star, Star1, Starslash, Status, Statusup, Stellar, Sticker, Stickynote,
+        Shop, Shopadd, Shoppingbag, Shoppingcart, Shopremove, Shuffle, Sidebarbottom, Sidebarleft,
+        Sidebarright, Sidebartop, Signpost, Simcard, Simcard1, Simcard2, Size, Slash, Slider,
+        Sliderhorizontal, Sliderhorizontal1, Slidervertical, Slidervertical1, Smallcaps, Smartcar,
+        Smarthome, Smileys, Sms, Smsedit, Smsnotification, Smssearch, Smsstar, Smstracking, Sort,
+        Sound, Speaker, Speedometer, Star, Star1, Starslash, Status, Statusup, Sticker, Stickynote,
         Stop, Stopcircle, Story, Strongbox, Strongbox2, Subtitle, Sun, Sun1, Sunfog, Tag, Tag2,
-        Tagcross, Tagright, Taguser, Task, Tasksquare, Teacher, Tenx, Tether, Text, Text1,
-        Textaligncenter, Textaligncenter1, Textalignjustifycenter, Textalignjustifycenter1,
-        Textalignjustifyleft, Textalignjustifyleft1, Textalignjustifyright, Textalignjustifyright1,
-        Textalignleft, Textalignleft1, Textalignright, Textalignright1, Textblock, Textblock1,
-        Textbold, Textbold1, Textitalic, Textitalic1, Textunderline, Textunderline1, Thegraph,
-        Theta, Thorchain, Tickcircle, Ticket, Ticket2, Ticketdiscount, Ticketexpired, Ticketstar,
-        Ticksquare, Timer, Timer1, Timerpause, Timerstart, Toggleoff, Toggleoffcircle, Toggleon,
-        Toggleoncircle, Trade, Transactionminus, Translate, Trash, Tree, Trello, Trenddown, Trendup,
-        Triangle, Triangle1, Trontron, Truck, Truckfast, Truckremove, Trucktick, Trucktime,
-        Trushsquare, Twitch, Ui8, Undo, Unlimited, Unlock, Usdcoin, User, Useradd, Usercirlceadd,
+        Tagcross, Tagright, Taguser, Task, Tasksquare, Teacher, Text, Textaligncenter,
+        Textalignjustifycenter, Textalignjustifyleft, Textalignjustifyright, Textalignleft,
+        Textalignright, Textblock, Textbold, Textitalic, Textunderline, Tickcircle, Ticket, Ticket2,
+        Ticketdiscount, Ticketexpired, Ticketstar, Ticksquare, Timer, Timer1, Timerpause,
+        Timerstart, Toggleoff, Toggleoffcircle, Toggleon, Toggleoncircle, Trade, Transactionminus,
+        Translate, Trash, Tree, Trenddown, Trendup, Triangle, Truck, Truckfast, Truckremove,
+        Trucktick, Trucktime, Trushsquare, Undo, Unlimited, Unlock, User, Useradd, Usercirlceadd,
         Useredit, Userminus, Useroctagon, Userremove, Usersearch, Usersquare, Usertag, Usertick,
-        Velas, Verify, Vibe, Video, Videoadd, Videocircle, Videohorizontal, Videooctagon, Videoplay,
-        Videoremove, Videoslash, Videosquare, Videotick, Videotime, Videovertical, Voicecricle,
-        Voicesquare, Volumecross, Volumehigh, Volumelow, Volumelow1, Volumemute, Volumeslash,
-        Volumeup, Vuesax, Wallet, Wallet1, Wallet2, Wallet3, Walletadd, Walletadd1, Walletcheck,
-        Walletminus, Walletmoney, Walletremove, Walletsearch, Wanchain, Wanchain1, Warning2, Watch,
-        Watchstatus, Weight, Weight1, Whatsapp, Wifi, Wifisquare, Wind, Wind2, Windows, Wing, Woman,
-        Xd, Xiaomi, Xrp, Youtube, Zel, Zoom)
+        Verify, Video, Videoadd, Videocircle, Videohorizontal, Videooctagon, Videoplay, Videoremove,
+        Videoslash, Videosquare, Videotick, Videotime, Videovertical, Voicecricle, Voicesquare,
+        Volumecross, Volumehigh, Volumelow, Volumelow1, Volumemute, Volumeslash, Volumeup, Wallet,
+        Wallet1, Wallet2, Wallet3, Walletadd, Walletadd1, Walletcheck, Walletminus, Walletmoney,
+        Walletremove, Walletsearch, Warning2, Watch, Watchstatus, Weight, Weight1, Wifi, Wifisquare,
+        Wind, Wind2, Woman)
     return __Default!!
   }

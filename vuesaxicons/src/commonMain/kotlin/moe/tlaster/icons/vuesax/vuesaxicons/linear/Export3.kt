@@ -23,27 +23,23 @@ public val LinearGroup.Export3: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(16.44f, 8.8999f)
-                curveTo(20.04f, 9.2099f, 21.51f, 11.0599f, 21.51f, 15.1099f)
-                verticalLineTo(15.2399f)
-                curveTo(21.51f, 19.7099f, 19.72f, 21.4999f, 15.25f, 21.4999f)
-                horizontalLineTo(8.74f)
-                curveTo(4.27f, 21.4999f, 2.48f, 19.7099f, 2.48f, 15.2399f)
-                verticalLineTo(15.1099f)
-                curveTo(2.48f, 11.0899f, 3.93f, 9.2399f, 7.47f, 8.9099f)
+                moveTo(12.0f, 2.0f)
+                curveTo(6.48f, 2.0f, 2.0f, 6.48f, 2.0f, 12.0f)
+                curveTo(2.0f, 17.52f, 6.48f, 22.0f, 12.0f, 22.0f)
+                curveTo(17.52f, 22.0f, 22.0f, 17.52f, 22.0f, 12.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 15.0001f)
-                verticalLineTo(3.6201f)
+                moveTo(13.0f, 11.0f)
+                lineTo(21.2f, 2.8001f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(15.35f, 5.85f)
-                lineTo(12.0f, 2.5f)
-                lineTo(8.65f, 5.85f)
+                moveTo(21.9999f, 6.83f)
+                verticalLineTo(2.0f)
+                horizontalLineTo(17.1699f)
             }
         }
         .build()

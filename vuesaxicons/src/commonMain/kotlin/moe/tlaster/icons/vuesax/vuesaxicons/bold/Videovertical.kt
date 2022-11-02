@@ -120,7 +120,6 @@ public val BoldGroup.Videovertical: ImageVector
                 curveTo(16.2494f, 22.0f, 16.3094f, 22.0f, 16.3594f, 21.99f)
                 verticalLineTo(12.75f)
                 horizontalLineTo(7.8594f)
-                verticalLineTo(12.75f)
                 close()
             }
         }

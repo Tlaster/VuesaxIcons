@@ -36,7 +36,6 @@ public val BoldGroup.Minimusicsqaure: ImageVector
                 moveTo(21.0f, 7.52f)
                 verticalLineTo(9.484f)
                 curveTo(21.0f, 10.0065f, 20.586f, 10.4294f, 20.08f, 10.56f)
-                verticalLineTo(10.56f)
                 lineTo(17.13f, 11.38f)
                 curveTo(15.57f, 11.78f, 14.53f, 13.13f, 14.53f, 14.74f)
                 verticalLineTo(16.2849f)

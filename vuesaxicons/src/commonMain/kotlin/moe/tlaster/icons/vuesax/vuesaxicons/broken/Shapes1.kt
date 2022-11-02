@@ -23,28 +23,27 @@ public val BrokenGroup.Shapes1: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(6.8103f, 3.2399f)
-                curveTo(7.7203f, 1.5899f, 10.1003f, 1.5899f, 11.0103f, 3.2399f)
-                lineTo(13.2003f, 7.2099f)
-                lineTo(14.2503f, 9.12f)
-                lineTo(15.5303f, 11.45f)
-                curveTo(16.4103f, 13.05f, 15.2503f, 15.0f, 13.4303f, 15.0f)
-                horizontalLineTo(4.4003f)
-                curveTo(2.5803f, 15.0f, 1.4203f, 13.05f, 2.3003f, 11.45f)
-                lineTo(4.6303f, 7.2099f)
+                moveTo(1.9707f, 12.25f)
+                curveTo(1.9707f, 8.5f, 3.4707f, 7.0f, 7.2207f, 7.0f)
+                horizontalLineTo(11.7207f)
+                curveTo(15.4707f, 7.0f, 16.9707f, 8.5f, 16.9707f, 12.25f)
+                verticalLineTo(16.75f)
+                curveTo(16.9707f, 20.5f, 15.4707f, 22.0f, 11.7207f, 22.0f)
+                horizontalLineTo(7.2207f)
+                curveTo(3.4707f, 22.0f, 1.9707f, 20.5f, 1.9707f, 16.75f)
+                verticalLineTo(16.01f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(22.0f, 15.5f)
-                curveTo(22.0f, 19.09f, 19.09f, 22.0f, 15.5f, 22.0f)
-                curveTo(11.91f, 22.0f, 9.0f, 19.09f, 9.0f, 15.5f)
-                curveTo(9.0f, 15.33f, 9.01f, 15.17f, 9.02f, 15.0f)
-                horizontalLineTo(13.43f)
-                curveTo(15.25f, 15.0f, 16.41f, 13.05f, 15.53f, 11.45f)
-                lineTo(14.25f, 9.12f)
-                curveTo(14.65f, 9.04f, 15.07f, 9.0f, 15.5f, 9.0f)
-                curveTo(19.09f, 9.0f, 22.0f, 11.91f, 22.0f, 15.5f)
+                moveTo(21.97f, 7.5f)
+                curveTo(21.97f, 10.37f, 19.78f, 12.72f, 16.97f, 12.97f)
+                verticalLineTo(12.25f)
+                curveTo(16.97f, 8.5f, 15.47f, 7.0f, 11.72f, 7.0f)
+                horizontalLineTo(11.0f)
+                curveTo(11.25f, 4.19f, 13.6f, 2.0f, 16.47f, 2.0f)
+                curveTo(19.26f, 2.0f, 21.56f, 4.07f, 21.91f, 6.77f)
+                curveTo(21.95f, 7.0f, 21.97f, 7.25f, 21.97f, 7.5f)
                 close()
             }
         }

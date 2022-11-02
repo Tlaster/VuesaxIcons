@@ -49,7 +49,7 @@ public val BoldGroup.Cloudremove: ImageVector
                 lineTo(11.91f, 15.4913f)
                 lineTo(12.41f, 14.9913f)
                 curveTo(12.7f, 14.7013f, 13.18f, 14.7013f, 13.47f, 14.9913f)
-                curveTo(13.76f, 15.2813f, 13.76f, 15.7612f, 13.47f, 16.0512f)
+                curveTo(13.76f, 15.2812f, 13.76f, 15.7612f, 13.47f, 16.0512f)
                 lineTo(12.97f, 16.5512f)
                 lineTo(13.5f, 17.0813f)
                 curveTo(13.79f, 17.3813f, 13.79f, 17.8512f, 13.5f, 18.1412f)

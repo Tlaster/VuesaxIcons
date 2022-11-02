@@ -23,29 +23,28 @@ public val LinearGroup.Lamp: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(20.78f, 13.6499f)
-                verticalLineTo(18.5899f)
-                horizontalLineTo(3.22f)
-                verticalLineTo(13.6499f)
-                curveTo(3.22f, 8.8299f, 7.12f, 4.9299f, 11.94f, 4.9299f)
-                horizontalLineTo(12.06f)
-                curveTo(16.88f, 4.9299f, 20.78f, 8.8299f, 20.78f, 13.6499f)
+                moveTo(5.7901f, 14.69f)
+                horizontalLineTo(18.2101f)
+                curveTo(19.8701f, 14.69f, 20.8701f, 13.38f, 20.4401f, 11.78f)
+                lineTo(18.2401f, 3.71f)
+                curveTo(17.9801f, 2.77f, 16.9701f, 2.0f, 16.0101f, 2.0f)
+                horizontalLineTo(7.9901f)
+                curveTo(7.0301f, 2.0f, 6.0201f, 2.77f, 5.7701f, 3.7f)
+                lineTo(3.5701f, 11.77f)
+                curveTo(3.1301f, 13.38f, 4.1301f, 14.69f, 5.7901f, 14.69f)
                 close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 2.0f)
-                verticalLineTo(4.93f)
+                moveTo(12.0f, 15.0f)
+                verticalLineTo(22.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(15.65f, 18.59f)
-                curveTo(15.52f, 20.5f, 13.93f, 22.0f, 12.0f, 22.0f)
-                curveTo(10.07f, 22.0f, 8.48f, 20.5f, 8.35f, 18.59f)
-                horizontalLineTo(15.65f)
-                close()
+                moveTo(8.0f, 22.0f)
+                horizontalLineTo(16.0f)
             }
         }
         .build()

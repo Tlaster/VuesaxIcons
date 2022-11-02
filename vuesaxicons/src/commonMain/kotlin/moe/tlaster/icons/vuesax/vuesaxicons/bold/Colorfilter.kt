@@ -60,7 +60,6 @@ public val BoldGroup.Colorfilter: ImageVector
                 curveTo(13.5624f, 21.492f, 13.503f, 21.0841f, 13.7248f, 20.8253f)
                 curveTo(14.8668f, 19.4928f, 15.5f, 17.785f, 15.5f, 15.9991f)
                 curveTo(15.5f, 15.6591f, 15.47f, 15.3191f, 15.42f, 14.9991f)
-                verticalLineTo(14.9991f)
                 curveTo(15.3902f, 14.8146f, 15.4844f, 14.6333f, 15.6478f, 14.5428f)
                 curveTo(16.9719f, 13.8098f, 18.0532f, 12.6866f, 18.727f, 11.3144f)
                 curveTo(18.8609f, 11.0418f, 19.1968f, 10.9221f, 19.4452f, 11.0968f)

@@ -39,7 +39,6 @@ public val BoldGroup.Grid8: ImageVector
                 curveTo(22.0f, 19.64f, 20.05f, 21.77f, 16.75f, 21.97f)
                 verticalLineTo(12.75f)
                 horizontalLineTo(22.0f)
-                verticalLineTo(12.75f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
@@ -50,7 +49,6 @@ public val BoldGroup.Grid8: ImageVector
                 curveTo(3.95f, 21.77f, 2.0f, 19.64f, 2.0f, 16.19f)
                 verticalLineTo(12.75f)
                 horizontalLineTo(7.25f)
-                verticalLineTo(12.75f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,

@@ -52,6 +52,51 @@ public val LinearGroup.Maximize2: ImageVector
                 curveTo(4.01f, 22.0f, 2.0f, 19.99f, 2.0f, 17.5f)
                 verticalLineTo(15.0f)
             }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
+                    strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(18.0f, 12.0f)
+                verticalLineTo(10.0f)
+                moveTo(6.0f, 12.0f)
+                horizontalLineTo(12.0f)
+                horizontalLineTo(18.0f)
+                horizontalLineTo(6.0f)
+                close()
+                moveTo(6.0f, 12.0f)
+                verticalLineTo(10.0f)
+                verticalLineTo(12.0f)
+                close()
+                moveTo(6.0f, 12.0f)
+                verticalLineTo(14.0f)
+                verticalLineTo(12.0f)
+                close()
+                moveTo(18.0f, 12.0f)
+                verticalLineTo(14.0f)
+                verticalLineTo(12.0f)
+                close()
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF292D32)),
+                    strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(12.0f, 6.0f)
+                horizontalLineTo(14.0f)
+                moveTo(12.0f, 18.0f)
+                verticalLineTo(6.0f)
+                verticalLineTo(18.0f)
+                close()
+                moveTo(12.0f, 18.0f)
+                horizontalLineTo(14.0f)
+                horizontalLineTo(12.0f)
+                close()
+                moveTo(12.0f, 18.0f)
+                horizontalLineTo(10.0f)
+                horizontalLineTo(12.0f)
+                close()
+                moveTo(12.0f, 6.0f)
+                horizontalLineTo(10.0f)
+                horizontalLineTo(12.0f)
+                close()
+            }
         }
         .build()
         return _maximize2!!

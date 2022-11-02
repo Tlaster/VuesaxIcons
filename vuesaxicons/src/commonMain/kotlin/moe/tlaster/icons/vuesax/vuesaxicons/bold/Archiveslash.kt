@@ -55,7 +55,7 @@ public val BoldGroup.Archiveslash: ImageVector
                 lineTo(19.4801f, 21.0905f)
                 curveTo(20.1501f, 21.4905f, 20.9901f, 21.0105f, 20.9901f, 20.2305f)
                 verticalLineTo(8.4105f)
-                curveTo(21.0001f, 7.5205f, 19.9202f, 7.0805f, 19.2902f, 7.7105f)
+                curveTo(21.0001f, 7.5205f, 19.9201f, 7.0805f, 19.2902f, 7.7105f)
                 close()
             }
         }

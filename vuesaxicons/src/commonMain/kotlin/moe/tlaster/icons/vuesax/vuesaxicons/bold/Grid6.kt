@@ -51,7 +51,6 @@ public val BoldGroup.Grid6: ImageVector
                 verticalLineTo(7.7592f)
                 curveTo(2.0f, 4.1192f, 4.17f, 1.9492f, 7.81f, 1.9492f)
                 horizontalLineTo(8.25f)
-                verticalLineTo(1.9492f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,

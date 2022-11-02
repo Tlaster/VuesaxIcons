@@ -1,9 +1,12 @@
 package moe.tlaster.icons.vuesax.vuesaxicons.bold
 
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType
 import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
 import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
+import androidx.compose.ui.graphics.StrokeJoin
 import androidx.compose.ui.graphics.StrokeJoin.Companion.Miter
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.graphics.vector.ImageVector.Builder
@@ -21,39 +24,55 @@ public val BoldGroup.Chart1: ImageVector
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(16.19f, 2.0f)
-                horizontalLineTo(7.81f)
-                curveTo(4.17f, 2.0f, 2.0f, 4.17f, 2.0f, 7.81f)
-                verticalLineTo(16.19f)
-                curveTo(2.0f, 19.83f, 4.17f, 22.0f, 7.81f, 22.0f)
-                horizontalLineTo(16.19f)
-                curveTo(19.83f, 22.0f, 22.0f, 19.83f, 22.0f, 16.19f)
-                verticalLineTo(7.81f)
-                curveTo(22.0f, 4.17f, 19.83f, 2.0f, 16.19f, 2.0f)
+                moveTo(21.0f, 22.75f)
+                horizontalLineTo(3.0f)
+                curveTo(2.59f, 22.75f, 2.25f, 22.41f, 2.25f, 22.0f)
+                curveTo(2.25f, 21.59f, 2.59f, 21.25f, 3.0f, 21.25f)
+                horizontalLineTo(21.0f)
+                curveTo(21.41f, 21.25f, 21.75f, 21.59f, 21.75f, 22.0f)
+                curveTo(21.75f, 22.41f, 21.41f, 22.75f, 21.0f, 22.75f)
                 close()
-                moveTo(7.75f, 13.6f)
-                curveTo(7.75f, 14.01f, 7.41f, 14.35f, 7.0f, 14.35f)
-                curveTo(6.59f, 14.35f, 6.25f, 14.01f, 6.25f, 13.6f)
-                verticalLineTo(10.4f)
-                curveTo(6.25f, 9.99f, 6.59f, 9.65f, 7.0f, 9.65f)
-                curveTo(7.41f, 9.65f, 7.75f, 9.99f, 7.75f, 10.4f)
-                verticalLineTo(13.6f)
+            }
+            path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
+                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
+                    pathFillType = NonZero) {
+                moveTo(5.6f, 8.3789f)
+                horizontalLineTo(4.0f)
+                curveTo(3.45f, 8.3789f, 3.0f, 8.8289f, 3.0f, 9.3789f)
+                verticalLineTo(17.9989f)
+                curveTo(3.0f, 18.5489f, 3.45f, 18.9989f, 4.0f, 18.9989f)
+                horizontalLineTo(5.6f)
+                curveTo(6.15f, 18.9989f, 6.6f, 18.5489f, 6.6f, 17.9989f)
+                verticalLineTo(9.3789f)
+                curveTo(6.6f, 8.8189f, 6.15f, 8.3789f, 5.6f, 8.3789f)
                 close()
-                moveTo(12.75f, 15.34f)
-                curveTo(12.75f, 15.75f, 12.41f, 16.09f, 12.0f, 16.09f)
-                curveTo(11.59f, 16.09f, 11.25f, 15.75f, 11.25f, 15.34f)
-                verticalLineTo(8.66f)
-                curveTo(11.25f, 8.25f, 11.59f, 7.91f, 12.0f, 7.91f)
-                curveTo(12.41f, 7.91f, 12.75f, 8.25f, 12.75f, 8.66f)
-                verticalLineTo(15.34f)
+            }
+            path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
+                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
+                    pathFillType = NonZero) {
+                moveTo(12.7992f, 5.1914f)
+                horizontalLineTo(11.1992f)
+                curveTo(10.6492f, 5.1914f, 10.1992f, 5.6414f, 10.1992f, 6.1914f)
+                verticalLineTo(18.0014f)
+                curveTo(10.1992f, 18.5514f, 10.6492f, 19.0014f, 11.1992f, 19.0014f)
+                horizontalLineTo(12.7992f)
+                curveTo(13.3492f, 19.0014f, 13.7992f, 18.5514f, 13.7992f, 18.0014f)
+                verticalLineTo(6.1914f)
+                curveTo(13.7992f, 5.6414f, 13.3492f, 5.1914f, 12.7992f, 5.1914f)
                 close()
-                moveTo(17.75f, 13.6f)
-                curveTo(17.75f, 14.01f, 17.41f, 14.35f, 17.0f, 14.35f)
-                curveTo(16.59f, 14.35f, 16.25f, 14.01f, 16.25f, 13.6f)
-                verticalLineTo(10.4f)
-                curveTo(16.25f, 9.99f, 16.59f, 9.65f, 17.0f, 9.65f)
-                curveTo(17.41f, 9.65f, 17.75f, 9.99f, 17.75f, 10.4f)
-                verticalLineTo(13.6f)
+            }
+            path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
+                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
+                    pathFillType = NonZero) {
+                moveTo(20.0004f, 2.0f)
+                horizontalLineTo(18.4004f)
+                curveTo(17.8504f, 2.0f, 17.4004f, 2.45f, 17.4004f, 3.0f)
+                verticalLineTo(18.0f)
+                curveTo(17.4004f, 18.55f, 17.8504f, 19.0f, 18.4004f, 19.0f)
+                horizontalLineTo(20.0004f)
+                curveTo(20.5504f, 19.0f, 21.0004f, 18.55f, 21.0004f, 18.0f)
+                verticalLineTo(3.0f)
+                curveTo(21.0004f, 2.45f, 20.5504f, 2.0f, 20.0004f, 2.0f)
                 close()
             }
         }

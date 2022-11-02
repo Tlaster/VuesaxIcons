@@ -56,7 +56,7 @@ public val BoldGroup.Game: ImageVector
                 lineTo(8.04f, 12.9188f)
                 lineTo(9.03f, 11.9288f)
                 curveTo(9.32f, 11.6388f, 9.8f, 11.6388f, 10.09f, 11.9288f)
-                curveTo(10.38f, 12.2188f, 10.38f, 12.6987f, 10.09f, 12.9887f)
+                curveTo(10.38f, 12.2188f, 10.38f, 12.6988f, 10.09f, 12.9887f)
                 lineTo(9.1f, 13.9788f)
                 lineTo(10.13f, 15.0088f)
                 curveTo(10.42f, 15.2988f, 10.42f, 15.7788f, 10.13f, 16.0688f)

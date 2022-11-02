@@ -25,13 +25,13 @@ public val BoldGroup.Link21: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(19.0712f, 14.2416f)
-                curveTo(18.7812f, 14.5316f, 18.3213f, 14.5316f, 18.0413f, 14.2416f)
+                curveTo(18.7812f, 14.5316f, 18.3212f, 14.5316f, 18.0413f, 14.2416f)
                 curveTo(17.7513f, 13.9516f, 17.7513f, 13.4916f, 18.0413f, 13.2116f)
                 curveTo(20.0413f, 11.2116f, 20.0413f, 7.9616f, 18.0413f, 5.9716f)
                 curveTo(16.0413f, 3.9816f, 12.7912f, 3.9716f, 10.8012f, 5.9716f)
                 curveTo(8.8112f, 7.9716f, 8.8013f, 11.2216f, 10.8012f, 13.2116f)
                 curveTo(11.0912f, 13.5016f, 11.0912f, 13.9616f, 10.8012f, 14.2416f)
-                curveTo(10.5112f, 14.5316f, 10.0513f, 14.5316f, 9.7712f, 14.2416f)
+                curveTo(10.5112f, 14.5316f, 10.0512f, 14.5316f, 9.7712f, 14.2416f)
                 curveTo(7.2013f, 11.6716f, 7.2013f, 7.4916f, 9.7712f, 4.9316f)
                 curveTo(12.3412f, 2.3716f, 16.5212f, 2.3616f, 19.0812f, 4.9316f)
                 curveTo(21.6412f, 7.5016f, 21.6412f, 11.6716f, 19.0712f, 14.2416f)

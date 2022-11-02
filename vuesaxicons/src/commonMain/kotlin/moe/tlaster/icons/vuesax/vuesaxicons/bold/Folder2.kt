@@ -26,12 +26,10 @@ public val BoldGroup.Folder2: ImageVector
                     pathFillType = NonZero) {
                 moveTo(19.4345f, 4.0345f)
                 curveTo(19.5668f, 4.2424f, 19.3401f, 4.4846f, 19.0998f, 4.43f)
-                verticalLineTo(4.43f)
                 curveTo(18.6298f, 4.29f, 18.1098f, 4.22f, 17.5798f, 4.22f)
                 horizontalLineTo(14.2796f)
                 curveTo(14.1223f, 4.22f, 13.9743f, 4.146f, 13.8798f, 4.0204f)
                 lineTo(12.7298f, 2.49f)
-                verticalLineTo(2.49f)
                 curveTo(12.589f, 2.2904f, 12.7221f, 2.0f, 12.9664f, 2.0f)
                 horizontalLineTo(15.7198f)
                 curveTo(17.2808f, 2.0f, 18.6559f, 2.8107f, 19.4345f, 4.0345f)
