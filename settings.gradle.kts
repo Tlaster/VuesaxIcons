@@ -20,4 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "VuesaxIcons"
-include("lib")
+include("vuesaxicons")
