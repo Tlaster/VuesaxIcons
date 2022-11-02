@@ -14,13 +14,13 @@ import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import moe.tlaster.icons.vuesax.vuesaxicons.BoldGroup
 
-public val BoldGroup.`Link21 (2)`: ImageVector
+public val BoldGroup.Link212: ImageVector
     get() {
-        if (`_link21 (2)` != null) {
-            return `_link21 (2)`!!
+        if (_link212 != null) {
+            return _link212!!
         }
-        `_link21 (2)` = Builder(name = "Link21 (2)", defaultWidth = 24.0.dp, defaultHeight =
-                24.0.dp, viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
+        _link212 = Builder(name = "Link212", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
+                viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0xFF292D32)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
@@ -55,7 +55,7 @@ public val BoldGroup.`Link21 (2)`: ImageVector
             }
         }
         .build()
-        return `_link21 (2)`!!
+        return _link212!!
     }
 
-private var `_link21 (2)`: ImageVector? = null
+private var _link212: ImageVector? = null

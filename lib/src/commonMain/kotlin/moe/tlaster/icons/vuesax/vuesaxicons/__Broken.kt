@@ -73,6 +73,7 @@ import moe.tlaster.icons.vuesax.vuesaxicons.broken.Html3
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Html5
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Huobitoken
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Icon
+import moe.tlaster.icons.vuesax.vuesaxicons.broken.Icon2
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Illustrator
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Iost
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Javascript
@@ -152,7 +153,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.broken.Xrp
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Youtube
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Zel
 import moe.tlaster.icons.vuesax.vuesaxicons.broken.Zoom
-import moe.tlaster.icons.vuesax.vuesaxicons.broken.`Icon (2)`
 import kotlin.collections.List as ____KtList
 
 public object BrokenGroup
@@ -174,14 +174,14 @@ public val BrokenGroup.Default: ____KtList<ImageVector>
         Copysuccess, Dai, Dash, Decred, Dent, Designtools, Dribbble, Dropbox, Educare, Emercoin,
         Enjincoin, Eos, Eraser, Ethereum, Ethereumclassic, Facebook, Figma, Figma1, Flashcircle,
         Forwarditem, Framer, Ftxtoken, Glass, Google, Googledrive, Googleplay, Group, Harmony,
-        Hederahashgraph, Hex, Html3, Html5, Huobitoken, `Icon (2)`, Icon, Illustrator, Iost,
-        Javascript, Js, Kybernetwork, Layer, Lifebuoy, Litecoin, Magicpen, Maincomponent, Maker,
-        Mask, Mask1, Mask2, Messenger, Monero, Nebulas, Nem, Nexo, Oceanprotocol, Okb, Omegacircle,
-        Omegasquare, Ontology, Paintbucket, Path, Path2, Pathsquare, Paypal, Penadd, Penclose,
-        Penremove, Pentool, Pentool2, Photoshop, Polkadot, Polygon, Polyswarm, Python, Quant,
-        Recoveryconvert, Ruler, Rulerpen, Scissor, Shapes, Shapes1, Siacoin, Size, Slack, Snapchat,
-        Solana, Spotify, Stacks, Stellar, Tenx, Tether, Thegraph, Theta, Thorchain, Trello,
-        Triangle, Trontron, Twitch, Ui8, Usdcoin, Velas, Vibe, Vuesax, Wanchain, Wanchain1,
-        Whatsapp, Windows, Wing, Xd, Xiaomi, Xrp, Youtube, Zel, Zoom)
+        Hederahashgraph, Hex, Html3, Html5, Huobitoken, Icon, Icon2, Illustrator, Iost, Javascript,
+        Js, Kybernetwork, Layer, Lifebuoy, Litecoin, Magicpen, Maincomponent, Maker, Mask, Mask1,
+        Mask2, Messenger, Monero, Nebulas, Nem, Nexo, Oceanprotocol, Okb, Omegacircle, Omegasquare,
+        Ontology, Paintbucket, Path, Path2, Pathsquare, Paypal, Penadd, Penclose, Penremove,
+        Pentool, Pentool2, Photoshop, Polkadot, Polygon, Polyswarm, Python, Quant, Recoveryconvert,
+        Ruler, Rulerpen, Scissor, Shapes, Shapes1, Siacoin, Size, Slack, Snapchat, Solana, Spotify,
+        Stacks, Stellar, Tenx, Tether, Thegraph, Theta, Thorchain, Trello, Triangle, Trontron,
+        Twitch, Ui8, Usdcoin, Velas, Vibe, Vuesax, Wanchain, Wanchain1, Whatsapp, Windows, Wing, Xd,
+        Xiaomi, Xrp, Youtube, Zel, Zoom)
     return __Default!!
   }

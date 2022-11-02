@@ -80,6 +80,7 @@ import moe.tlaster.icons.vuesax.vuesaxicons.outline.Html5
 import moe.tlaster.icons.vuesax.vuesaxicons.outline.Huobitoken
 import moe.tlaster.icons.vuesax.vuesaxicons.outline.Icon
 import moe.tlaster.icons.vuesax.vuesaxicons.outline.Icon1
+import moe.tlaster.icons.vuesax.vuesaxicons.outline.Icon2
 import moe.tlaster.icons.vuesax.vuesaxicons.outline.Illustrator
 import moe.tlaster.icons.vuesax.vuesaxicons.outline.Iost
 import moe.tlaster.icons.vuesax.vuesaxicons.outline.Javascript
@@ -193,7 +194,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.outline.Xrp
 import moe.tlaster.icons.vuesax.vuesaxicons.outline.Youtube
 import moe.tlaster.icons.vuesax.vuesaxicons.outline.Zel
 import moe.tlaster.icons.vuesax.vuesaxicons.outline.Zoom
-import moe.tlaster.icons.vuesax.vuesaxicons.outline.`Icon (2)`
 import kotlin.collections.List as ____KtList
 
 public object OutlineGroup
@@ -216,7 +216,7 @@ public val OutlineGroup.Default: ____KtList<ImageVector>
         Designtools, Dribbble, Dropbox, Educare, Emercoin, Enjincoin, Eos, Eraser, Eraser1,
         Ethereum, Ethereumclassic, Facebook, Figma, Figma1, Firstline, Flashcircle, Forwarditem,
         Framer, Ftxtoken, Gemini, Gemini2, Glass, Google, Googledrive, Googlepaly, Harmony,
-        Hederahashgraph, Hex, Html3, Html5, Huobitoken, `Icon (2)`, Icon, Icon1, Illustrator, Iost,
+        Hederahashgraph, Hex, Html3, Html5, Huobitoken, Icon, Icon1, Icon2, Illustrator, Iost,
         Javascript, Js, Kybernetwork, Languagecircle, Languagesquare, Layer, Lifebuoy, Link, Link1,
         Link2, Link21, Linkcircle, Linksquare, Litecoin, Magicpen, Maincomponent, Maker, Man, Mask,
         Mask1, Mask2, Maximize, Messenger, Monero, Nebulas, Nem, Nexo, Oceanprotocol, Okb,

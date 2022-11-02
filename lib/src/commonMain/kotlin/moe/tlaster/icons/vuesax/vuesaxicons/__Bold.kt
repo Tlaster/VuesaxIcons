@@ -477,6 +477,7 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Html5
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Huobitoken
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Icon
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Icon1
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Icon2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Illustrator
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Image
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Import
@@ -515,6 +516,7 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link1
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link2
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link21
+import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link212
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link3
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Link4
 import moe.tlaster.icons.vuesax.vuesaxicons.bold.Linkcircle
@@ -1017,8 +1019,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.bold._3drotate
 import moe.tlaster.icons.vuesax.vuesaxicons.bold._3dsquare
 import moe.tlaster.icons.vuesax.vuesaxicons.bold._3full
 import moe.tlaster.icons.vuesax.vuesaxicons.bold._3square
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Icon (2)`
-import moe.tlaster.icons.vuesax.vuesaxicons.bold.`Link21 (2)`
 import kotlin.collections.List as ____KtList
 
 public object BoldGroup
@@ -1094,41 +1094,41 @@ public val BoldGroup.Default: ____KtList<ImageVector>
         Heartadd, Heartcircle, Heartedit, Heartremove, Heartsearch, Heartslash, Hearttick,
         Hederahashgraph, Hex, Hierarchy, Hierarchy2, Hierarchy3, Hierarchysquare, Hierarchysquare2,
         Hierarchysquare3, Home, Home1, Home2, Homehashtag, Hometrenddown, Hometrendup, Homewifi,
-        Hospital, House, House2, Html3, Html5, Huobitoken, `Icon (2)`, Icon, Icon1, Illustrator,
-        Image, Import, Import1, Import2, Import3, Infocircle, Information, Instagram, Iost,
-        Javascript, Js, Judge, Kanban, Key, Keyboard, Keyboardopen, Keysquare, Kybernetwork, Lamp,
-        Lamp1, Lampcharge, Lampon, Lampslash, Languagecircle, Languagesquare, Layer, Level,
-        Lifebuoy, Like, Like1, Likedislike, Likeshapes, Liketag, Link, Link1, Link2, `Link21 (2)`,
-        Link21, Link3, Link4, Linkcircle, Linksquare, Litecoin, Location, Locationadd,
-        Locationcross, Locationminus, Locationslash, Locationtick, Lock, Lock1, Lockcircle,
-        Lockslash, Login, Login1, Logout, Logout1, Lovely, Magicpen, Magicstar, Maincomponent,
-        Maker, Man, Map, Map1, Mask, Mask1, Mask2, Math, Maximize, Maximize1, Maximize2, Maximize21,
-        Maximize3, Maximize31, Maximize4, Maximizecircle, Medal, Medalstar, Menu, Menu1, Menuboard,
-        Message, Message2, Messageadd, Messageadd1, Messagecircle, Messageedit, Messagefavorite,
-        Messageminus, Messagenotif, Messageprogramming, Messagequestion, Messageremove, Messages,
-        Messages1, Messages2, Messages3, Messagesearch, Messagesquare, Messagetext, Messagetext1,
-        Messagetick, Messagetime, Messenger, Microphone, Microphone2, Microphoneslash,
-        Microphoneslash1, Microscope, Milk, Minimusicsqaure, Minus, Minuscirlce, Minussquare,
-        Mirror, Mirroringscreen, Mobile, Mobileprogramming, Monero, Money, Money2, Money3, Money4,
-        Moneyadd, Moneychange, Moneyforbidden, Moneyrecive, Moneyremove, Moneys, Moneysend,
-        Moneytick, Moneytime, Monitor, Monitormobbile, Monitorrecorder, Moon, More, More2,
-        Morecircle, Moresquare, Mouse, Mouse1, Mousecircle, Mousesquare, Music, Musiccircle,
-        Musicdashboard, Musicfilter, Musiclibrary2, Musicnote, Musicplay, Musicplaylist,
-        Musicsquare, Musicsquareadd, Musicsquareremove, Musicsquaresearch, Nebulas, Nem, Nexo, Next,
-        Note, Note1, Note2, Note21, Noteadd, Notefavorite, Noteremove, Notesquare, Notetext,
-        Notification, Notification1, Notificationbing, Notificationfavorite, Notificationstatus,
-        Oceanprotocol, Okb, Omegacircle, Omegasquare, Ontology, Paintbucket, Paperclip, Paperclip1,
-        Paperclip2, Paperclip21, Passwordcheck, Path, Path2, Pathsquare, Pause, Pausecircle, Paypal,
-        Penadd, Penclose, Penremove, Pentool, Pentool2, People, Percentagecircle, Percentagesquare,
-        Personalcard, Pet, Pharagraphspacing, Pharagraphspacing1, Photoshop, Pictureframe, Play,
-        Playadd, Playcircle, Playcricle, Playremove, Polkadot, Polygon, Polyswarm, Presentionchart,
-        Previous, Printer, Printerslash, Profile2user, Profileadd, Profilecircle, Profiledelete,
-        Profileremove, Profiletick, Programmingarrow, Programmingarrows, Python, Quant, Quotedown,
-        Quotedowncircle, Quotedownsquare, Quoteup, Quoteupcircle, Quoteupsquare, Radar, Radar1,
-        Radar2, Radio, Ram, Ram2, Ranking, Ranking1, Receipt, Receipt1, Receipt2, Receipt21,
-        Receiptadd, Receiptdiscount, Receiptdisscount, Receiptedit, Receiptitem, Receiptminus,
-        Receiptsearch, Receiptsquare, Receipttext, Received, Receivesquare, Receivesquare2, Record,
-        Recordcircle, Recoveryconvert, Redo, Refresh, Refresh2, Refreshcircle, Refreshleftsquare,
+        Hospital, House, House2, Html3, Html5, Huobitoken, Icon, Icon1, Icon2, Illustrator, Image,
+        Import, Import1, Import2, Import3, Infocircle, Information, Instagram, Iost, Javascript, Js,
+        Judge, Kanban, Key, Keyboard, Keyboardopen, Keysquare, Kybernetwork, Lamp, Lamp1,
+        Lampcharge, Lampon, Lampslash, Languagecircle, Languagesquare, Layer, Level, Lifebuoy, Like,
+        Like1, Likedislike, Likeshapes, Liketag, Link, Link1, Link2, Link21, Link212, Link3, Link4,
+        Linkcircle, Linksquare, Litecoin, Location, Locationadd, Locationcross, Locationminus,
+        Locationslash, Locationtick, Lock, Lock1, Lockcircle, Lockslash, Login, Login1, Logout,
+        Logout1, Lovely, Magicpen, Magicstar, Maincomponent, Maker, Man, Map, Map1, Mask, Mask1,
+        Mask2, Math, Maximize, Maximize1, Maximize2, Maximize21, Maximize3, Maximize31, Maximize4,
+        Maximizecircle, Medal, Medalstar, Menu, Menu1, Menuboard, Message, Message2, Messageadd,
+        Messageadd1, Messagecircle, Messageedit, Messagefavorite, Messageminus, Messagenotif,
+        Messageprogramming, Messagequestion, Messageremove, Messages, Messages1, Messages2,
+        Messages3, Messagesearch, Messagesquare, Messagetext, Messagetext1, Messagetick,
+        Messagetime, Messenger, Microphone, Microphone2, Microphoneslash, Microphoneslash1,
+        Microscope, Milk, Minimusicsqaure, Minus, Minuscirlce, Minussquare, Mirror, Mirroringscreen,
+        Mobile, Mobileprogramming, Monero, Money, Money2, Money3, Money4, Moneyadd, Moneychange,
+        Moneyforbidden, Moneyrecive, Moneyremove, Moneys, Moneysend, Moneytick, Moneytime, Monitor,
+        Monitormobbile, Monitorrecorder, Moon, More, More2, Morecircle, Moresquare, Mouse, Mouse1,
+        Mousecircle, Mousesquare, Music, Musiccircle, Musicdashboard, Musicfilter, Musiclibrary2,
+        Musicnote, Musicplay, Musicplaylist, Musicsquare, Musicsquareadd, Musicsquareremove,
+        Musicsquaresearch, Nebulas, Nem, Nexo, Next, Note, Note1, Note2, Note21, Noteadd,
+        Notefavorite, Noteremove, Notesquare, Notetext, Notification, Notification1,
+        Notificationbing, Notificationfavorite, Notificationstatus, Oceanprotocol, Okb, Omegacircle,
+        Omegasquare, Ontology, Paintbucket, Paperclip, Paperclip1, Paperclip2, Paperclip21,
+        Passwordcheck, Path, Path2, Pathsquare, Pause, Pausecircle, Paypal, Penadd, Penclose,
+        Penremove, Pentool, Pentool2, People, Percentagecircle, Percentagesquare, Personalcard, Pet,
+        Pharagraphspacing, Pharagraphspacing1, Photoshop, Pictureframe, Play, Playadd, Playcircle,
+        Playcricle, Playremove, Polkadot, Polygon, Polyswarm, Presentionchart, Previous, Printer,
+        Printerslash, Profile2user, Profileadd, Profilecircle, Profiledelete, Profileremove,
+        Profiletick, Programmingarrow, Programmingarrows, Python, Quant, Quotedown, Quotedowncircle,
+        Quotedownsquare, Quoteup, Quoteupcircle, Quoteupsquare, Radar, Radar1, Radar2, Radio, Ram,
+        Ram2, Ranking, Ranking1, Receipt, Receipt1, Receipt2, Receipt21, Receiptadd,
+        Receiptdiscount, Receiptdisscount, Receiptedit, Receiptitem, Receiptminus, Receiptsearch,
+        Receiptsquare, Receipttext, Received, Receivesquare, Receivesquare2, Record, Recordcircle,
+        Recoveryconvert, Redo, Refresh, Refresh2, Refreshcircle, Refreshleftsquare,
         Refreshrightsquare, Refreshsquare2, Repeat, Repeatcircle, Repeatemusic, Repeateone, Reserve,
         Rotateleft, Rotateleft1, Rotateright, Rotateright1, Routesquare, Routing, Routing2,
         Rowhorizontal, Rowvertical, Ruler, Rulerpen, Safehome, Sagittarius, Save2, Saveadd,
