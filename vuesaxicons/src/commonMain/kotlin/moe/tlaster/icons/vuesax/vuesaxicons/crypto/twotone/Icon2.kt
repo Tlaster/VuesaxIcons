@@ -13,12 +13,12 @@ import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import moe.tlaster.icons.vuesax.vuesaxicons.crypto.TwotoneGroup
 
-public val TwotoneGroup.`Icon (2)`: ImageVector
+public val TwotoneGroup.Icon2: ImageVector
     get() {
-        if (`_icon (2)` != null) {
-            return `_icon (2)`!!
+        if (_icon2 != null) {
+            return _icon2!!
         }
-        `_icon (2)` = Builder(name = "Icon (2)", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
+        _icon2 = Builder(name = "Icon2", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
                 viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
@@ -52,7 +52,7 @@ public val TwotoneGroup.`Icon (2)`: ImageVector
             }
         }
         .build()
-        return `_icon (2)`!!
+        return _icon2!!
     }
 
-private var `_icon (2)`: ImageVector? = null
+private var _icon2: ImageVector? = null

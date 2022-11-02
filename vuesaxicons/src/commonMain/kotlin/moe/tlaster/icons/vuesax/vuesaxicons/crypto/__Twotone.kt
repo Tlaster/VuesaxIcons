@@ -48,6 +48,7 @@ import moe.tlaster.icons.vuesax.vuesaxicons.crypto.twotone.Html5
 import moe.tlaster.icons.vuesax.vuesaxicons.crypto.twotone.Huobitoken
 import moe.tlaster.icons.vuesax.vuesaxicons.crypto.twotone.Icon
 import moe.tlaster.icons.vuesax.vuesaxicons.crypto.twotone.Icon1
+import moe.tlaster.icons.vuesax.vuesaxicons.crypto.twotone.Icon2
 import moe.tlaster.icons.vuesax.vuesaxicons.crypto.twotone.Illustrator
 import moe.tlaster.icons.vuesax.vuesaxicons.crypto.twotone.Iost
 import moe.tlaster.icons.vuesax.vuesaxicons.crypto.twotone.Javascript
@@ -102,7 +103,6 @@ import moe.tlaster.icons.vuesax.vuesaxicons.crypto.twotone.Xrp
 import moe.tlaster.icons.vuesax.vuesaxicons.crypto.twotone.Youtube
 import moe.tlaster.icons.vuesax.vuesaxicons.crypto.twotone.Zel
 import moe.tlaster.icons.vuesax.vuesaxicons.crypto.twotone.Zoom
-import moe.tlaster.icons.vuesax.vuesaxicons.crypto.twotone.`Icon (2)`
 import kotlin.collections.List as ____KtList
 
 public object TwotoneGroup
@@ -121,12 +121,11 @@ public val TwotoneGroup.Default: ____KtList<ImageVector>
         Binanceusd, Bitcoin, Blogger, Bootsrap, Cardano, Celo, Celsius, Chainlink, Civic, Dai, Dash,
         Decred, Dent, Dribbble, Dropbox, Educare, Emercoin, Enjincoin, Eos, Ethereum,
         Ethereumclassic, Facebook, Figma, Figma1, Framer, Ftxtoken, Google, Google1, Googleplay,
-        Harmony, Hederahashgraph, Hex, Html3, Html5, Huobitoken, `Icon (2)`, Icon, Icon1,
-        Illustrator, Iost, Javascript, Js, Kybernetwork, Litecoin, Maker, Messenger, Monero,
-        Nebulas, Nem, Nexo, Oceanprotocol, Okb, Ontology, Paypal, Photoshop, Polkadot, Polygon,
-        Polyswarm, Python, Quant, Siacoin, Slack, Snapchat, Solana, Spotify, Stacks, Stellar, Tenx,
-        Tether, Thegraph, Theta, Thorchain, Trello, Triangle, Trontron, Twitch, Ui8, Usdcoin, Velas,
-        Vibe, Vuesax, Wanchain, Wanchain1, Whatsapp, Windows, Wing, Xd, Xiaomi, Xrp, Youtube, Zel,
-        Zoom)
+        Harmony, Hederahashgraph, Hex, Html3, Html5, Huobitoken, Icon, Icon1, Icon2, Illustrator,
+        Iost, Javascript, Js, Kybernetwork, Litecoin, Maker, Messenger, Monero, Nebulas, Nem, Nexo,
+        Oceanprotocol, Okb, Ontology, Paypal, Photoshop, Polkadot, Polygon, Polyswarm, Python,
+        Quant, Siacoin, Slack, Snapchat, Solana, Spotify, Stacks, Stellar, Tenx, Tether, Thegraph,
+        Theta, Thorchain, Trello, Triangle, Trontron, Twitch, Ui8, Usdcoin, Velas, Vibe, Vuesax,
+        Wanchain, Wanchain1, Whatsapp, Windows, Wing, Xd, Xiaomi, Xrp, Youtube, Zel, Zoom)
     return __Default!!
   }
